@@ -1,0 +1,493 @@
+{
+ "schema": 1,
+ "about": "NPC role labels from the MapleStory Classic client, keyed by the NPC id OSMS uses. Game data is Nexon's.",
+ "source": {
+  "wz_version": 779,
+  "files": {
+   "Quest/QuestData/QuestData_000.wz": "a96a829bcf0020dc84c823d10a56b8b59739efee61aa6a20e6239eab9e2e4298",
+   "String/String_000.wz": "b51c05450fcc416d92dc32106d3bf6bd3c163270068f8ee9e97222a425298391"
+  }
+ },
+ "npcs": [
+  {
+   "id": 16,
+   "role": "Armor Seller"
+  },
+  {
+   "id": 20,
+   "role": "Weapon Seller"
+  },
+  {
+   "id": 21,
+   "role": "Grocer"
+  },
+  {
+   "id": 105,
+   "role": "Storage Keeper"
+  },
+  {
+   "id": 108,
+   "role": "Armor Seller"
+  },
+  {
+   "id": 109,
+   "role": "Grocer"
+  },
+  {
+   "id": 110,
+   "role": "Weapon Seller"
+  },
+  {
+   "id": 111,
+   "role": "Buddy List Admin"
+  },
+  {
+   "id": 112,
+   "role": "Tour Guide"
+  },
+  {
+   "id": 113,
+   "role": "Guild Manager"
+  },
+  {
+   "id": 114,
+   "role": "Guild Mark Artist"
+  },
+  {
+   "id": 208,
+   "role": "Carpenter"
+  },
+  {
+   "id": 209,
+   "role": "Pet Food Merchant"
+  },
+  {
+   "id": 210,
+   "role": "Weapon Seller"
+  },
+  {
+   "id": 211,
+   "role": "Armor Seller"
+  },
+  {
+   "id": 212,
+   "role": "Grocer"
+  },
+  {
+   "id": 213,
+   "role": "Plastic Surgeon"
+  },
+  {
+   "id": 214,
+   "role": "Doctor w/o License"
+  },
+  {
+   "id": 215,
+   "role": "Hair Salon Owner"
+  },
+  {
+   "id": 216,
+   "role": "Hair Salon Assistant"
+  },
+  {
+   "id": 217,
+   "role": "Dermatologist"
+  },
+  {
+   "id": 219,
+   "role": "Pet Master"
+  },
+  {
+   "id": 220,
+   "role": "Storage Keeper"
+  },
+  {
+   "id": 221,
+   "role": "Bowman Instructor"
+  },
+  {
+   "id": 222,
+   "role": "Pet Trainer"
+  },
+  {
+   "id": 223,
+   "role": "Pet Trainer"
+  },
+  {
+   "id": 228,
+   "role": "Master of MiniGame"
+  },
+  {
+   "id": 229,
+   "role": "Town Clerk"
+  },
+  {
+   "id": 230,
+   "role": "Estate Agent"
+  },
+  {
+   "id": 231,
+   "role": "Housing Registrar"
+  },
+  {
+   "id": 232,
+   "role": "Town General Store"
+  },
+  {
+   "id": 233,
+   "role": "Town Furnishings"
+  },
+  {
+   "id": 234,
+   "role": "Town Scroll Shop"
+  },
+  {
+   "id": 238,
+   "role": "Storage"
+  },
+  {
+   "id": 239,
+   "role": "Storage"
+  },
+  {
+   "id": 303,
+   "role": "Tailor"
+  },
+  {
+   "id": 307,
+   "role": "Storage Keeper"
+  },
+  {
+   "id": 310,
+   "role": "Weapon Seller"
+  },
+  {
+   "id": 311,
+   "role": "Armor Seller"
+  },
+  {
+   "id": 312,
+   "role": "Grocer"
+  },
+  {
+   "id": 313,
+   "role": "Magician Instructor"
+  },
+  {
+   "id": 317,
+   "role": "Pet Master"
+  },
+  {
+   "id": 318,
+   "role": "Scroll Seller"
+  },
+  {
+   "id": 322,
+   "role": "Ticketing Usher"
+  },
+  {
+   "id": 323,
+   "role": "Ticketing Usher"
+  },
+  {
+   "id": 324,
+   "role": "Crewmember"
+  },
+  {
+   "id": 401,
+   "role": "Leatherworker"
+  },
+  {
+   "id": 405,
+   "role": "Storage Keeper"
+  },
+  {
+   "id": 408,
+   "role": "Weapon Seller"
+  },
+  {
+   "id": 409,
+   "role": "Armor Seller"
+  },
+  {
+   "id": 410,
+   "role": "Grocer"
+  },
+  {
+   "id": 411,
+   "role": "Thief Instructor"
+  },
+  {
+   "id": 413,
+   "role": "Hair Salon Owner"
+  },
+  {
+   "id": 414,
+   "role": "Hair Salon Assistant"
+  },
+  {
+   "id": 416,
+   "role": "Scroll Seller"
+  },
+  {
+   "id": 417,
+   "role": "Subway Worker"
+  },
+  {
+   "id": 425,
+   "role": "City Clerk"
+  },
+  {
+   "id": 426,
+   "role": "Estate Agent"
+  },
+  {
+   "id": 427,
+   "role": "Housing Registrar"
+  },
+  {
+   "id": 428,
+   "role": "City General Store"
+  },
+  {
+   "id": 429,
+   "role": "City Furnishings"
+  },
+  {
+   "id": 430,
+   "role": "City Scroll Shop"
+  },
+  {
+   "id": 434,
+   "role": "Storage"
+  },
+  {
+   "id": 435,
+   "role": "Storage"
+  },
+  {
+   "id": 503,
+   "role": "Weaponcrafter"
+  },
+  {
+   "id": 504,
+   "role": "Blacksmith"
+  },
+  {
+   "id": 505,
+   "role": "Storage Keeper"
+  },
+  {
+   "id": 507,
+   "role": "Weapon Seller"
+  },
+  {
+   "id": 508,
+   "role": "Armor Seller"
+  },
+  {
+   "id": 509,
+   "role": "Grocer"
+  },
+  {
+   "id": 511,
+   "role": "Warrior Instructor"
+  },
+  {
+   "id": 602,
+   "role": "Arcforger"
+  },
+  {
+   "id": 604,
+   "role": "Storage Keeper"
+  },
+  {
+   "id": 607,
+   "role": "Sauna Manager"
+  },
+  {
+   "id": 608,
+   "role": "Sauna Manager"
+  },
+  {
+   "id": 700,
+   "role": "Grocer"
+  },
+  {
+   "id": 707,
+   "role": "Arcforger"
+  },
+  {
+   "id": 708,
+   "role": "Weapon Seller"
+  },
+  {
+   "id": 709,
+   "role": "Armor Seller"
+  },
+  {
+   "id": 710,
+   "role": "Arcforger"
+  },
+  {
+   "id": 800,
+   "role": "Grocer"
+  },
+  {
+   "id": 801,
+   "role": "Tour Guide"
+  },
+  {
+   "id": 1000,
+   "role": "Ticketing Usher"
+  },
+  {
+   "id": 1001,
+   "role": "Station Info"
+  },
+  {
+   "id": 1002,
+   "role": "Ticketing Usher"
+  },
+  {
+   "id": 1003,
+   "role": "Selling Ticket to Ludibrium"
+  },
+  {
+   "id": 1004,
+   "role": "Ticketing Usher"
+  },
+  {
+   "id": 1005,
+   "role": "Tour Guide"
+  },
+  {
+   "id": 1006,
+   "role": "Crewmember"
+  },
+  {
+   "id": 1008,
+   "role": "Pet Food Merchant"
+  },
+  {
+   "id": 1011,
+   "role": "Storage Keeper"
+  },
+  {
+   "id": 1012,
+   "role": "Weapon Seller"
+  },
+  {
+   "id": 1013,
+   "role": "Armor Seller"
+  },
+  {
+   "id": 1014,
+   "role": "Grocer"
+  },
+  {
+   "id": 1018,
+   "role": "Plastic Surgeon"
+  },
+  {
+   "id": 1019,
+   "role": "Doctor Assistant"
+  },
+  {
+   "id": 1020,
+   "role": "Lead Hair Stylist"
+  },
+  {
+   "id": 1021,
+   "role": "Assistant Hair Stylist"
+  },
+  {
+   "id": 1022,
+   "role": "Dermatologist"
+  },
+  {
+   "id": 1025,
+   "role": "Scroll Seller"
+  },
+  {
+   "id": 1104,
+   "role": "3rd Job - Warrior Instructor"
+  },
+  {
+   "id": 1105,
+   "role": "3rd Job - Magician Instructor"
+  },
+  {
+   "id": 1106,
+   "role": "3rd Job - Bowman Instructor"
+  },
+  {
+   "id": 1107,
+   "role": "3rd Job - Thief Instructor"
+  },
+  {
+   "id": 1110,
+   "role": "Storage Keeper"
+  },
+  {
+   "id": 1112,
+   "role": "Weapon Seller"
+  },
+  {
+   "id": 1113,
+   "role": "Armor Seller"
+  },
+  {
+   "id": 1114,
+   "role": "Grocer"
+  },
+  {
+   "id": 1115,
+   "role": "Dungeon Guide"
+  },
+  {
+   "id": 1116,
+   "role": "Merchant"
+  },
+  {
+   "id": 800008,
+   "role": "Store Banker"
+  },
+  {
+   "id": 800009,
+   "role": "Storage Keeper"
+  },
+  {
+   "id": 900003,
+   "role": "Event Assistant"
+  },
+  {
+   "id": 900004,
+   "role": "Event Assistant"
+  },
+  {
+   "id": 900010,
+   "role": "Event Assistant"
+  },
+  {
+   "id": 900015,
+   "role": "Master of Lock-Picking"
+  },
+  {
+   "id": 900016,
+   "role": "Event Assistant"
+  },
+  {
+   "id": 900019,
+   "role": "Tree Ornament Merchant"
+  },
+  {
+   "id": 900026,
+   "role": "Witch at Large - Halloween"
+  },
+  {
+   "id": 9090000,
+   "role": "Storage Keeper"
+  }
+ ]
+}

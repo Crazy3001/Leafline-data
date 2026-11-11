@@ -1,0 +1,6 @@
+# Never commit game files
+*.wz
+*.ms
+*.img
+__pycache__/
+*.pyc

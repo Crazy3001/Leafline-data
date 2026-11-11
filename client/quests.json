@@ -1,0 +1,2420 @@
+{
+ "schema": 1,
+ "about": "Quest facts from the MapleStory Classic client that OSMS does not publish, keyed by the quest id OSMS uses. giver and turn_in are NPC ids. jobs are job codes (0 Beginner, 100 Warrior, 200 Magician, 300 Bowman, 400 Thief, and their branches). opens and closes are as written in the client; its time zone is not stated. Game data is Nexon's.",
+ "source": {
+  "wz_version": 779,
+  "files": {
+   "Quest/QuestData/QuestData_000.wz": "a96a829bcf0020dc84c823d10a56b8b59739efee61aa6a20e6239eab9e2e4298",
+   "String/String_000.wz": "b51c05450fcc416d92dc32106d3bf6bd3c163270068f8ee9e97222a425298391"
+  }
+ },
+ "quests": [
+  {
+   "id": 1000,
+   "giver": 1,
+   "turn_in": 2,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 1
+  },
+  {
+   "id": 1001,
+   "giver": 2,
+   "turn_in": 1,
+   "jobs": [
+    0,
+    100,
+    110,
+    111,
+    112,
+    113,
+    114,
+    120,
+    121,
+    122,
+    123,
+    124,
+    130,
+    131,
+    132,
+    133,
+    134,
+    200,
+    210,
+    211,
+    212,
+    213,
+    214,
+    220,
+    221,
+    222,
+    223,
+    224,
+    230,
+    231,
+    232,
+    233,
+    234,
+    300,
+    301,
+    310,
+    311,
+    312,
+    313,
+    314,
+    320,
+    321,
+    322,
+    323,
+    324,
+    330,
+    331,
+    332,
+    333,
+    334,
+    400,
+    410,
+    411,
+    412,
+    413,
+    414,
+    420,
+    421,
+    422,
+    423,
+    424,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436
+   ]
+  },
+  {
+   "id": 1002,
+   "giver": 3,
+   "turn_in": 3,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 1
+  },
+  {
+   "id": 1003,
+   "giver": 4,
+   "turn_in": 5,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 1
+  },
+  {
+   "id": 1004,
+   "giver": 5,
+   "turn_in": 4,
+   "jobs": [
+    0
+   ]
+  },
+  {
+   "id": 1005,
+   "giver": 7,
+   "turn_in": 6,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 1
+  },
+  {
+   "id": 1006,
+   "giver": 9,
+   "turn_in": 11,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 1
+  },
+  {
+   "id": 1007,
+   "giver": 10,
+   "turn_in": 17,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 2
+  },
+  {
+   "id": 1008,
+   "giver": 17,
+   "turn_in": 10,
+   "jobs": [
+    0
+   ]
+  },
+  {
+   "id": 1009,
+   "giver": 11,
+   "turn_in": 11,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 3
+  },
+  {
+   "id": 1010,
+   "giver": 11,
+   "turn_in": 11,
+   "jobs": [
+    0
+   ]
+  },
+  {
+   "id": 1011,
+   "giver": 12,
+   "turn_in": 12,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 3
+  },
+  {
+   "id": 1012,
+   "giver": 18,
+   "turn_in": 18,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 5
+  },
+  {
+   "id": 1013,
+   "giver": 19,
+   "turn_in": 19,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 5
+  },
+  {
+   "id": 1014,
+   "giver": 19,
+   "turn_in": 19,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 5
+  },
+  {
+   "id": 1015,
+   "giver": 19,
+   "turn_in": 19,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 5
+  },
+  {
+   "id": 1016,
+   "giver": 19,
+   "turn_in": 19,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 5
+  },
+  {
+   "id": 1017,
+   "giver": 19,
+   "turn_in": 19,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 5
+  },
+  {
+   "id": 1018,
+   "giver": 19,
+   "turn_in": 19,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 5
+  },
+  {
+   "id": 1019,
+   "giver": 19,
+   "turn_in": 19,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 5
+  },
+  {
+   "id": 7707,
+   "giver": 9010000,
+   "starts_itself": true
+  },
+  {
+   "id": 10000,
+   "giver": 107,
+   "turn_in": 107,
+   "level_to_start": 8
+  },
+  {
+   "id": 10001,
+   "giver": 101,
+   "turn_in": 101,
+   "jobs": [
+    0
+   ],
+   "level_to_start": 8,
+   "level_to_finish": 10
+  },
+  {
+   "id": 10002,
+   "giver": 103,
+   "turn_in": 103,
+   "level_to_start": 20
+  },
+  {
+   "id": 10003,
+   "giver": 103,
+   "turn_in": 103,
+   "level_to_start": 44
+  },
+  {
+   "id": 10004,
+   "giver": 103,
+   "turn_in": 103,
+   "level_to_start": 44
+  },
+  {
+   "id": 10005,
+   "giver": 103,
+   "turn_in": 103,
+   "level_to_start": 44
+  },
+  {
+   "id": 10006,
+   "giver": 100,
+   "turn_in": 100,
+   "level_to_start": 65
+  },
+  {
+   "id": 10007,
+   "giver": 100,
+   "turn_in": 100,
+   "level_to_start": 65
+  },
+  {
+   "id": 10008,
+   "giver": 100,
+   "turn_in": 100,
+   "level_to_start": 65
+  },
+  {
+   "id": 10009,
+   "giver": 107,
+   "turn_in": 107,
+   "level_to_start": 8
+  },
+  {
+   "id": 10010,
+   "giver": 102,
+   "turn_in": 102,
+   "level_to_start": 8
+  },
+  {
+   "id": 10011,
+   "giver": 102,
+   "turn_in": 102,
+   "level_to_start": 8
+  },
+  {
+   "id": 10100,
+   "giver": 203,
+   "turn_in": 203,
+   "level_to_start": 15
+  },
+  {
+   "id": 10101,
+   "giver": 203,
+   "turn_in": 300,
+   "level_to_start": 15
+  },
+  {
+   "id": 10102,
+   "giver": 300,
+   "turn_in": 300,
+   "level_to_start": 15
+  },
+  {
+   "id": 10103,
+   "giver": 300,
+   "turn_in": 203,
+   "level_to_start": 15
+  },
+  {
+   "id": 10104,
+   "giver": 218,
+   "turn_in": 218,
+   "level_to_start": 16
+  },
+  {
+   "id": 10105,
+   "giver": 204,
+   "turn_in": 225,
+   "level_to_start": 24
+  },
+  {
+   "id": 10106,
+   "giver": 207,
+   "turn_in": 102,
+   "level_to_start": 21
+  },
+  {
+   "id": 10107,
+   "giver": 102,
+   "turn_in": 510,
+   "level_to_start": 21
+  },
+  {
+   "id": 10108,
+   "giver": 510,
+   "turn_in": 502,
+   "level_to_start": 21
+  },
+  {
+   "id": 10109,
+   "giver": 502,
+   "turn_in": 502,
+   "level_to_start": 21
+  },
+  {
+   "id": 10110,
+   "giver": 502,
+   "turn_in": 510,
+   "level_to_start": 21
+  },
+  {
+   "id": 10111,
+   "giver": 510,
+   "turn_in": 102,
+   "level_to_start": 21
+  },
+  {
+   "id": 10112,
+   "giver": 102,
+   "turn_in": 207,
+   "level_to_start": 21
+  },
+  {
+   "id": 10113,
+   "giver": 226,
+   "turn_in": 226,
+   "level_to_start": 19
+  },
+  {
+   "id": 10114,
+   "giver": 226,
+   "turn_in": 226,
+   "level_to_start": 46
+  },
+  {
+   "id": 10115,
+   "giver": 207,
+   "turn_in": 207,
+   "level_to_start": 30
+  },
+  {
+   "id": 10116,
+   "giver": 207,
+   "turn_in": 207,
+   "level_to_start": 30
+  },
+  {
+   "id": 10117,
+   "giver": 207,
+   "turn_in": 207,
+   "level_to_start": 47
+  },
+  {
+   "id": 10118,
+   "giver": 207,
+   "turn_in": 207,
+   "level_to_start": 47
+  },
+  {
+   "id": 10119,
+   "giver": 218,
+   "turn_in": 218,
+   "level_to_start": 42
+  },
+  {
+   "id": 10120,
+   "giver": 218,
+   "turn_in": 201,
+   "level_to_start": 42
+  },
+  {
+   "id": 10121,
+   "giver": 201,
+   "turn_in": 201,
+   "level_to_start": 42
+  },
+  {
+   "id": 10122,
+   "giver": 201,
+   "turn_in": 218,
+   "level_to_start": 42
+  },
+  {
+   "id": 10123,
+   "giver": 206,
+   "turn_in": 206,
+   "level_to_start": 10
+  },
+  {
+   "id": 10124,
+   "giver": 206,
+   "turn_in": 506,
+   "level_to_start": 11
+  },
+  {
+   "id": 10125,
+   "giver": 506,
+   "turn_in": 206,
+   "level_to_start": 11
+  },
+  {
+   "id": 10126,
+   "giver": 218,
+   "turn_in": 205,
+   "level_to_start": 20
+  },
+  {
+   "id": 10127,
+   "giver": 203,
+   "turn_in": 309,
+   "level_to_start": 20
+  },
+  {
+   "id": 10128,
+   "giver": 309,
+   "turn_in": 309,
+   "level_to_start": 20
+  },
+  {
+   "id": 10129,
+   "giver": 309,
+   "turn_in": 218,
+   "level_to_start": 20
+  },
+  {
+   "id": 10130,
+   "giver": 218,
+   "turn_in": 218,
+   "level_to_start": 20
+  },
+  {
+   "id": 10200,
+   "giver": 304,
+   "turn_in": 304,
+   "level_to_start": 29
+  },
+  {
+   "id": 10201,
+   "giver": 305,
+   "turn_in": 305,
+   "level_to_start": 36
+  },
+  {
+   "id": 10202,
+   "giver": 305,
+   "turn_in": 305,
+   "level_to_start": 36
+  },
+  {
+   "id": 10203,
+   "giver": 305,
+   "turn_in": 305,
+   "level_to_start": 36
+  },
+  {
+   "id": 10204,
+   "giver": 305,
+   "turn_in": 305,
+   "level_to_start": 36
+  },
+  {
+   "id": 10205,
+   "giver": 305,
+   "turn_in": 305,
+   "level_to_start": 36
+  },
+  {
+   "id": 10206,
+   "giver": 320,
+   "turn_in": 320,
+   "level_to_start": 41
+  },
+  {
+   "id": 10207,
+   "giver": 320,
+   "turn_in": 320,
+   "level_to_start": 41
+  },
+  {
+   "id": 10208,
+   "giver": 320,
+   "turn_in": 320,
+   "level_to_start": 41
+  },
+  {
+   "id": 10209,
+   "giver": 320,
+   "turn_in": 320,
+   "level_to_start": 41
+  },
+  {
+   "id": 10210,
+   "giver": 309,
+   "turn_in": 309,
+   "level_to_start": 10
+  },
+  {
+   "id": 10211,
+   "giver": 306,
+   "turn_in": 306,
+   "level_to_start": 14
+  },
+  {
+   "id": 10212,
+   "giver": 306,
+   "turn_in": 306,
+   "level_to_start": 14
+  },
+  {
+   "id": 10213,
+   "giver": 326,
+   "turn_in": 202,
+   "level_to_start": 28
+  },
+  {
+   "id": 10214,
+   "giver": 202,
+   "turn_in": 502,
+   "level_to_start": 28
+  },
+  {
+   "id": 10215,
+   "giver": 502,
+   "turn_in": 602,
+   "level_to_start": 28
+  },
+  {
+   "id": 10216,
+   "giver": 602,
+   "turn_in": 606,
+   "level_to_start": 28
+  },
+  {
+   "id": 10217,
+   "giver": 411,
+   "turn_in": 402,
+   "level_to_start": 28
+  },
+  {
+   "id": 10218,
+   "giver": 313,
+   "turn_in": 326,
+   "level_to_start": 28
+  },
+  {
+   "id": 10300,
+   "giver": 402,
+   "turn_in": 202,
+   "level_to_start": 18
+  },
+  {
+   "id": 10301,
+   "giver": 202,
+   "turn_in": 202,
+   "level_to_start": 18
+  },
+  {
+   "id": 10302,
+   "giver": 202,
+   "turn_in": 402,
+   "level_to_start": 18
+  },
+  {
+   "id": 10303,
+   "giver": 406,
+   "turn_in": 406,
+   "level_to_start": 10,
+   "mesos_to_start": 1000
+  },
+  {
+   "id": 10304,
+   "giver": 406,
+   "turn_in": 406,
+   "level_to_start": 10
+  },
+  {
+   "id": 10305,
+   "giver": 406,
+   "turn_in": 406,
+   "level_to_start": 10
+  },
+  {
+   "id": 10306,
+   "giver": 406,
+   "turn_in": 406,
+   "level_to_start": 22
+  },
+  {
+   "id": 10307,
+   "giver": 406,
+   "turn_in": 406,
+   "level_to_start": 22
+  },
+  {
+   "id": 10308,
+   "giver": 406,
+   "turn_in": 406,
+   "level_to_start": 22
+  },
+  {
+   "id": 10309,
+   "giver": 412,
+   "level_to_start": 23
+  },
+  {
+   "id": 10310,
+   "giver": 412,
+   "turn_in": 412,
+   "level_to_start": 23
+  },
+  {
+   "id": 10311,
+   "giver": 800000,
+   "turn_in": 800000,
+   "level_to_start": 21
+  },
+  {
+   "id": 10312,
+   "giver": 403,
+   "turn_in": 403,
+   "level_to_start": 35
+  },
+  {
+   "id": 10313,
+   "giver": 403,
+   "turn_in": 403,
+   "level_to_start": 35
+  },
+  {
+   "id": 10314,
+   "giver": 403,
+   "turn_in": 403,
+   "level_to_start": 35
+  },
+  {
+   "id": 10315,
+   "giver": 407,
+   "turn_in": 407,
+   "level_to_start": 11
+  },
+  {
+   "id": 10316,
+   "giver": 407,
+   "turn_in": 407,
+   "level_to_start": 11
+  },
+  {
+   "id": 10317,
+   "giver": 407,
+   "turn_in": 407,
+   "level_to_start": 31
+  },
+  {
+   "id": 10318,
+   "giver": 407,
+   "turn_in": 407,
+   "level_to_start": 31
+  },
+  {
+   "id": 10319,
+   "giver": 407,
+   "turn_in": 309,
+   "level_to_start": 46
+  },
+  {
+   "id": 10320,
+   "giver": 309,
+   "turn_in": 309,
+   "level_to_start": 46
+  },
+  {
+   "id": 10321,
+   "giver": 309,
+   "turn_in": 407,
+   "level_to_start": 46
+  },
+  {
+   "id": 10400,
+   "giver": 501,
+   "turn_in": 501,
+   "level_to_start": 11
+  },
+  {
+   "id": 10401,
+   "giver": 501,
+   "turn_in": 501,
+   "level_to_start": 48,
+   "fame_to_start": 10
+  },
+  {
+   "id": 10402,
+   "giver": 502,
+   "turn_in": 602,
+   "level_to_start": 50
+  },
+  {
+   "id": 10403,
+   "giver": 602,
+   "turn_in": 602,
+   "level_to_start": 50
+  },
+  {
+   "id": 10404,
+   "giver": 602,
+   "turn_in": 502,
+   "level_to_start": 50
+  },
+  {
+   "id": 10405,
+   "giver": 512,
+   "turn_in": 512,
+   "level_to_start": 17
+  },
+  {
+   "id": 10406,
+   "giver": 512,
+   "turn_in": 308,
+   "level_to_start": 17
+  },
+  {
+   "id": 10407,
+   "giver": 308,
+   "turn_in": 308,
+   "level_to_start": 17
+  },
+  {
+   "id": 10408,
+   "giver": 308,
+   "turn_in": 224,
+   "level_to_start": 17
+  },
+  {
+   "id": 10409,
+   "giver": 224,
+   "turn_in": 308,
+   "level_to_start": 17
+  },
+  {
+   "id": 10410,
+   "giver": 308,
+   "turn_in": 512,
+   "level_to_start": 17
+  },
+  {
+   "id": 10411,
+   "giver": 506,
+   "turn_in": 506,
+   "level_to_start": 10
+  },
+  {
+   "id": 10412,
+   "giver": 506,
+   "turn_in": 506,
+   "level_to_start": 48
+  },
+  {
+   "id": 10413,
+   "giver": 506,
+   "turn_in": 506,
+   "level_to_start": 48
+  },
+  {
+   "id": 10414,
+   "giver": 512,
+   "turn_in": 501,
+   "level_to_start": 34
+  },
+  {
+   "id": 10415,
+   "giver": 501,
+   "turn_in": 506,
+   "level_to_start": 34
+  },
+  {
+   "id": 10416,
+   "giver": 506,
+   "turn_in": 502,
+   "level_to_start": 34
+  },
+  {
+   "id": 10417,
+   "giver": 502,
+   "turn_in": 511,
+   "level_to_start": 34
+  },
+  {
+   "id": 10418,
+   "giver": 511,
+   "turn_in": 308,
+   "level_to_start": 34
+  },
+  {
+   "id": 10419,
+   "giver": 308,
+   "turn_in": 512,
+   "level_to_start": 34
+  },
+  {
+   "id": 10420,
+   "giver": 512,
+   "turn_in": 512,
+   "level_to_start": 34
+  },
+  {
+   "id": 10421,
+   "giver": 512,
+   "turn_in": 512,
+   "level_to_start": 34
+  },
+  {
+   "id": 10500,
+   "giver": 608,
+   "turn_in": 320,
+   "level_to_start": 32
+  },
+  {
+   "id": 10501,
+   "giver": 320,
+   "turn_in": 320,
+   "level_to_start": 32
+  },
+  {
+   "id": 10502,
+   "giver": 320,
+   "turn_in": 201,
+   "level_to_start": 32
+  },
+  {
+   "id": 10503,
+   "giver": 201,
+   "turn_in": 201,
+   "level_to_start": 32
+  },
+  {
+   "id": 10504,
+   "giver": 201,
+   "turn_in": 320,
+   "level_to_start": 32
+  },
+  {
+   "id": 10505,
+   "giver": 320,
+   "turn_in": 305,
+   "level_to_start": 32
+  },
+  {
+   "id": 10506,
+   "giver": 305,
+   "turn_in": 305,
+   "level_to_start": 32
+  },
+  {
+   "id": 10507,
+   "giver": 305,
+   "turn_in": 320,
+   "level_to_start": 32
+  },
+  {
+   "id": 10508,
+   "giver": 320,
+   "turn_in": 608,
+   "level_to_start": 32
+  },
+  {
+   "id": 10509,
+   "giver": 603,
+   "turn_in": 603,
+   "level_to_start": 25
+  },
+  {
+   "id": 10510,
+   "giver": 603,
+   "turn_in": 603,
+   "level_to_start": 50
+  },
+  {
+   "id": 10617,
+   "giver": 707,
+   "turn_in": 711,
+   "level_to_start": 45,
+   "opens": "2026-12-09T00:00"
+  },
+  {
+   "id": 10618,
+   "giver": 711,
+   "turn_in": 711,
+   "level_to_start": 45,
+   "opens": "2026-12-09T00:00"
+  },
+  {
+   "id": 10619,
+   "giver": 712,
+   "turn_in": 712,
+   "level_to_start": 50,
+   "opens": "2026-12-09T00:00"
+  },
+  {
+   "id": 10620,
+   "giver": 712,
+   "turn_in": 313,
+   "level_to_start": 50,
+   "opens": "2026-12-09T00:00"
+  },
+  {
+   "id": 10621,
+   "giver": 715,
+   "turn_in": 715,
+   "level_to_start": 50,
+   "opens": "2026-11-18T00:00"
+  },
+  {
+   "id": 10622,
+   "giver": 715,
+   "turn_in": 712,
+   "level_to_start": 50,
+   "opens": "2026-11-18T00:00"
+  },
+  {
+   "id": 10623,
+   "giver": 712,
+   "turn_in": 711,
+   "level_to_start": 50,
+   "opens": "2026-11-18T00:00"
+  },
+  {
+   "id": 10624,
+   "giver": 711,
+   "turn_in": 711,
+   "level_to_start": 55,
+   "opens": "2026-11-18T00:00"
+  },
+  {
+   "id": 10625,
+   "giver": 711,
+   "turn_in": 712,
+   "level_to_start": 55,
+   "opens": "2026-11-18T00:00"
+  },
+  {
+   "id": 10626,
+   "giver": 712,
+   "turn_in": 715,
+   "level_to_start": 55,
+   "opens": "2026-11-18T00:00"
+  },
+  {
+   "id": 10700,
+   "giver": 802,
+   "turn_in": 802,
+   "level_to_start": 37
+  },
+  {
+   "id": 10701,
+   "giver": 802,
+   "turn_in": 802,
+   "level_to_start": 37
+  },
+  {
+   "id": 10702,
+   "giver": 802,
+   "turn_in": 802,
+   "level_to_start": 37
+  },
+  {
+   "id": 10703,
+   "giver": 802,
+   "turn_in": 802,
+   "level_to_start": 37
+  },
+  {
+   "id": 20000,
+   "giver": 511,
+   "turn_in": 511,
+   "jobs": [
+    100
+   ],
+   "level_to_start": 30,
+   "starts_itself": true
+  },
+  {
+   "id": 20001,
+   "giver": 511,
+   "turn_in": 514,
+   "jobs": [
+    100
+   ],
+   "level_to_start": 30
+  },
+  {
+   "id": 20002,
+   "giver": 514,
+   "turn_in": 514,
+   "jobs": [
+    100
+   ],
+   "level_to_start": 30
+  },
+  {
+   "id": 20003,
+   "giver": 514,
+   "turn_in": 511,
+   "jobs": [
+    100
+   ],
+   "level_to_start": 30
+  },
+  {
+   "id": 20100,
+   "giver": 313,
+   "turn_in": 313,
+   "jobs": [
+    200
+   ],
+   "level_to_start": 30,
+   "starts_itself": true
+  },
+  {
+   "id": 20101,
+   "giver": 313,
+   "turn_in": 319,
+   "jobs": [
+    200
+   ],
+   "level_to_start": 30
+  },
+  {
+   "id": 20102,
+   "giver": 319,
+   "turn_in": 319,
+   "jobs": [
+    200
+   ],
+   "level_to_start": 30
+  },
+  {
+   "id": 20103,
+   "giver": 319,
+   "turn_in": 313,
+   "jobs": [
+    200
+   ],
+   "level_to_start": 30
+  },
+  {
+   "id": 20200,
+   "giver": 221,
+   "turn_in": 221,
+   "jobs": [
+    300
+   ],
+   "level_to_start": 30,
+   "starts_itself": true
+  },
+  {
+   "id": 20201,
+   "giver": 221,
+   "turn_in": 227,
+   "jobs": [
+    300
+   ],
+   "level_to_start": 30
+  },
+  {
+   "id": 20202,
+   "giver": 227,
+   "turn_in": 227,
+   "jobs": [
+    300
+   ],
+   "level_to_start": 30
+  },
+  {
+   "id": 20203,
+   "giver": 227,
+   "turn_in": 221,
+   "jobs": [
+    300
+   ],
+   "level_to_start": 30
+  },
+  {
+   "id": 20300,
+   "giver": 411,
+   "turn_in": 411,
+   "jobs": [
+    400
+   ],
+   "level_to_start": 30,
+   "starts_itself": true
+  },
+  {
+   "id": 20301,
+   "giver": 411,
+   "turn_in": 424,
+   "jobs": [
+    400
+   ],
+   "level_to_start": 30
+  },
+  {
+   "id": 20302,
+   "giver": 424,
+   "turn_in": 424,
+   "jobs": [
+    400
+   ],
+   "level_to_start": 30
+  },
+  {
+   "id": 20303,
+   "giver": 424,
+   "turn_in": 411,
+   "jobs": [
+    400
+   ],
+   "level_to_start": 30
+  },
+  {
+   "id": 80000
+  },
+  {
+   "id": 80001,
+   "giver": 228,
+   "turn_in": 228,
+   "level_to_start": 12
+  },
+  {
+   "id": 80002,
+   "giver": 228,
+   "turn_in": 228,
+   "level_to_start": 12
+  },
+  {
+   "id": 80003,
+   "giver": 228,
+   "turn_in": 228,
+   "level_to_start": 12
+  },
+  {
+   "id": 80004,
+   "giver": 228,
+   "turn_in": 228,
+   "level_to_start": 12
+  },
+  {
+   "id": 80005,
+   "giver": 228,
+   "turn_in": 228,
+   "level_to_start": 12
+  },
+  {
+   "id": 80006,
+   "giver": 228,
+   "turn_in": 228,
+   "level_to_start": 12
+  },
+  {
+   "id": 80007,
+   "giver": 228,
+   "turn_in": 228,
+   "level_to_start": 12
+  },
+  {
+   "id": 80008,
+   "giver": 504,
+   "turn_in": 504,
+   "level_to_start": 10
+  },
+  {
+   "id": 80009,
+   "giver": 504,
+   "turn_in": 504,
+   "level_to_start": 25
+  },
+  {
+   "id": 80010,
+   "giver": 504,
+   "turn_in": 504,
+   "level_to_start": 15
+  },
+  {
+   "id": 80011,
+   "giver": 503,
+   "turn_in": 503,
+   "level_to_start": 10
+  },
+  {
+   "id": 80012,
+   "giver": 503,
+   "turn_in": 503,
+   "level_to_start": 25
+  },
+  {
+   "id": 80013,
+   "giver": 503,
+   "turn_in": 503,
+   "level_to_start": 15
+  },
+  {
+   "id": 80014,
+   "giver": 303,
+   "turn_in": 303,
+   "level_to_start": 10
+  },
+  {
+   "id": 80015,
+   "giver": 303,
+   "turn_in": 303,
+   "level_to_start": 25
+  },
+  {
+   "id": 80016,
+   "giver": 303,
+   "turn_in": 303,
+   "level_to_start": 15
+  },
+  {
+   "id": 80017,
+   "giver": 208,
+   "turn_in": 208,
+   "level_to_start": 10
+  },
+  {
+   "id": 80018,
+   "giver": 208,
+   "turn_in": 208,
+   "level_to_start": 25
+  },
+  {
+   "id": 80019,
+   "giver": 208,
+   "turn_in": 208,
+   "level_to_start": 15
+  },
+  {
+   "id": 80020,
+   "giver": 401,
+   "turn_in": 401,
+   "level_to_start": 10
+  },
+  {
+   "id": 80021,
+   "giver": 401,
+   "turn_in": 401,
+   "level_to_start": 25
+  },
+  {
+   "id": 80022,
+   "giver": 401,
+   "turn_in": 401,
+   "level_to_start": 15
+  },
+  {
+   "id": 80023,
+   "giver": 602,
+   "turn_in": 602,
+   "level_to_start": 10
+  },
+  {
+   "id": 80024,
+   "giver": 602,
+   "turn_in": 602,
+   "level_to_start": 25
+  },
+  {
+   "id": 80025,
+   "giver": 602,
+   "turn_in": 602,
+   "level_to_start": 15
+  },
+  {
+   "id": 80026,
+   "giver": 800018,
+   "turn_in": 202,
+   "level_to_start": 13
+  },
+  {
+   "id": 80027,
+   "giver": 202,
+   "turn_in": 800018,
+   "level_to_start": 13
+  },
+  {
+   "id": 80028,
+   "giver": 800018,
+   "turn_in": 511,
+   "level_to_start": 13
+  },
+  {
+   "id": 80029,
+   "giver": 511,
+   "turn_in": 800018,
+   "level_to_start": 13
+  },
+  {
+   "id": 500000,
+   "giver": 304,
+   "turn_in": 304,
+   "level_to_start": 10,
+   "opens": "2026-08-04T00:00",
+   "closes": "2026-08-12T23:59"
+  },
+  {
+   "id": 500001,
+   "giver": 304,
+   "turn_in": 304,
+   "level_to_start": 15,
+   "opens": "2026-08-04T00:00",
+   "closes": "2026-08-12T23:59"
+  },
+  {
+   "id": 500002,
+   "giver": 313,
+   "turn_in": 502,
+   "level_to_start": 15,
+   "opens": "2026-04-21T15:00",
+   "closes": "2026-04-23T23:59"
+  },
+  {
+   "id": 500005,
+   "giver": 9010000,
+   "turn_in": 9010000,
+   "level_to_start": 10,
+   "opens": "2026-04-14T00:00",
+   "closes": "2026-04-23T23:59"
+  },
+  {
+   "id": 500006,
+   "giver": 9010000,
+   "turn_in": 9010000,
+   "level_to_start": 8,
+   "opens": "2026-08-04T00:00",
+   "closes": "2026-08-12T23:59",
+   "starts_itself": true
+  },
+  {
+   "id": 500008,
+   "giver": 308,
+   "turn_in": 323,
+   "level_to_start": 20,
+   "opens": "2026-08-08T00:00",
+   "closes": "2026-08-12T23:59"
+  },
+  {
+   "id": 500009,
+   "giver": 9010000,
+   "turn_in": 9010000,
+   "level_to_start": 10,
+   "opens": "2026-08-04T00:00",
+   "closes": "2026-08-12T23:59"
+  },
+  {
+   "id": 500010,
+   "giver": 900026,
+   "turn_in": 900026,
+   "level_to_start": 10,
+   "level_to_finish": 10,
+   "opens": "2026-10-28T00:00",
+   "closes": "2026-11-19T00:00"
+  },
+  {
+   "id": 500011,
+   "giver": 900026,
+   "turn_in": 900026,
+   "level_to_start": 10,
+   "level_to_finish": 10,
+   "opens": "2026-10-28T00:00",
+   "closes": "2026-11-19T00:00"
+  },
+  {
+   "id": 506000,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 12,
+   "starts_itself": true
+  },
+  {
+   "id": 506001,
+   "giver": 235,
+   "turn_in": 201,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506002,
+   "giver": 235,
+   "turn_in": 201,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506003,
+   "giver": 235,
+   "turn_in": 203,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506004,
+   "giver": 235,
+   "turn_in": 203,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506005,
+   "giver": 235,
+   "turn_in": 204,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506006,
+   "giver": 235,
+   "turn_in": 204,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506007,
+   "giver": 235,
+   "turn_in": 206,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506008,
+   "giver": 235,
+   "turn_in": 206,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506009,
+   "giver": 235,
+   "turn_in": 207,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506010,
+   "giver": 235,
+   "turn_in": 207,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506011,
+   "giver": 235,
+   "turn_in": 218,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506012,
+   "giver": 235,
+   "turn_in": 218,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506013,
+   "giver": 235,
+   "turn_in": 224,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506014,
+   "giver": 235,
+   "turn_in": 224,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506015,
+   "giver": 235,
+   "turn_in": 202,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506016,
+   "giver": 235,
+   "turn_in": 202,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506017,
+   "giver": 235,
+   "turn_in": 221,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506018,
+   "giver": 235,
+   "turn_in": 221,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506019,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506020,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506021,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506022,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506023,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506024,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506025,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506026,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 22
+  },
+  {
+   "id": 506027,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 22
+  },
+  {
+   "id": 506028,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 22
+  },
+  {
+   "id": 506029,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 27
+  },
+  {
+   "id": 506030,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506031,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506032,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 37
+  },
+  {
+   "id": 506033,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 42
+  },
+  {
+   "id": 506034,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 47
+  },
+  {
+   "id": 506035,
+   "giver": 235,
+   "turn_in": 229,
+   "level_to_start": 12,
+   "level_to_finish": 52
+  },
+  {
+   "id": 506036,
+   "giver": 206,
+   "turn_in": 203,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506037,
+   "giver": 203,
+   "turn_in": 206,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506038,
+   "giver": 206,
+   "turn_in": 206,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506039,
+   "giver": 206,
+   "turn_in": 506,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506040,
+   "giver": 506,
+   "turn_in": 206,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506041,
+   "giver": 203,
+   "turn_in": 205,
+   "level_to_start": 27,
+   "level_to_finish": 27
+  },
+  {
+   "id": 506042,
+   "giver": 205,
+   "turn_in": 203,
+   "level_to_start": 27,
+   "level_to_finish": 27
+  },
+  {
+   "id": 506043,
+   "giver": 203,
+   "turn_in": 203,
+   "level_to_start": 27,
+   "level_to_finish": 27
+  },
+  {
+   "id": 506044,
+   "giver": 203,
+   "turn_in": 202,
+   "level_to_start": 27,
+   "level_to_finish": 27
+  },
+  {
+   "id": 506045,
+   "giver": 202,
+   "turn_in": 203,
+   "level_to_start": 27,
+   "level_to_finish": 27
+  },
+  {
+   "id": 506046,
+   "giver": 204,
+   "turn_in": 218,
+   "level_to_start": 37,
+   "level_to_finish": 37
+  },
+  {
+   "id": 506047,
+   "giver": 218,
+   "turn_in": 204,
+   "level_to_start": 37,
+   "level_to_finish": 37
+  },
+  {
+   "id": 506048,
+   "giver": 204,
+   "turn_in": 204,
+   "level_to_start": 37,
+   "level_to_finish": 37
+  },
+  {
+   "id": 506049,
+   "giver": 204,
+   "turn_in": 218,
+   "level_to_start": 37,
+   "level_to_finish": 37
+  },
+  {
+   "id": 506050,
+   "giver": 218,
+   "turn_in": 204,
+   "level_to_start": 37,
+   "level_to_finish": 37
+  },
+  {
+   "id": 506051,
+   "giver": 207,
+   "turn_in": 207,
+   "level_to_start": 47,
+   "level_to_finish": 47
+  },
+  {
+   "id": 506052,
+   "giver": 207,
+   "turn_in": 602,
+   "level_to_start": 47,
+   "level_to_finish": 47
+  },
+  {
+   "id": 506053,
+   "giver": 602,
+   "turn_in": 602,
+   "level_to_start": 47,
+   "level_to_finish": 47
+  },
+  {
+   "id": 506054,
+   "giver": 602,
+   "turn_in": 502,
+   "level_to_start": 47,
+   "level_to_finish": 47
+  },
+  {
+   "id": 506055,
+   "giver": 502,
+   "turn_in": 207,
+   "level_to_start": 47,
+   "level_to_finish": 47
+  },
+  {
+   "id": 506056,
+   "turn_in": 221,
+   "level_to_start": 57,
+   "level_to_finish": 57,
+   "starts_itself": true
+  },
+  {
+   "id": 506057,
+   "giver": 221,
+   "turn_in": 221,
+   "level_to_start": 57,
+   "level_to_finish": 57
+  },
+  {
+   "id": 506058,
+   "giver": 221,
+   "turn_in": 208,
+   "level_to_start": 57,
+   "level_to_finish": 57
+  },
+  {
+   "id": 506059,
+   "giver": 208,
+   "turn_in": 208,
+   "level_to_start": 57,
+   "level_to_finish": 57
+  },
+  {
+   "id": 506060,
+   "giver": 208,
+   "turn_in": 221,
+   "level_to_start": 57,
+   "level_to_finish": 57
+  },
+  {
+   "id": 506061,
+   "giver": 229,
+   "turn_in": 230,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506062,
+   "giver": 230,
+   "turn_in": 231,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506100,
+   "giver": 229,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506101,
+   "giver": 431,
+   "turn_in": 402,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506102,
+   "giver": 431,
+   "turn_in": 402,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506103,
+   "giver": 431,
+   "turn_in": 403,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506104,
+   "giver": 431,
+   "turn_in": 403,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506105,
+   "giver": 431,
+   "turn_in": 406,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506106,
+   "giver": 431,
+   "turn_in": 406,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506107,
+   "giver": 431,
+   "turn_in": 407,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506108,
+   "giver": 431,
+   "turn_in": 407,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506109,
+   "giver": 431,
+   "turn_in": 412,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506110,
+   "giver": 431,
+   "turn_in": 412,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506111,
+   "giver": 431,
+   "turn_in": 417,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506112,
+   "giver": 431,
+   "turn_in": 417,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506113,
+   "giver": 431,
+   "turn_in": 900015,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506114,
+   "giver": 431,
+   "turn_in": 900015,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506115,
+   "giver": 431,
+   "turn_in": 900014,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506116,
+   "giver": 431,
+   "turn_in": 900014,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506117,
+   "giver": 431,
+   "turn_in": 411,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506118,
+   "giver": 431,
+   "turn_in": 411,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506119,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506120,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506121,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506122,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506123,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506124,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 12
+  },
+  {
+   "id": 506125,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506126,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 22
+  },
+  {
+   "id": 506127,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 22
+  },
+  {
+   "id": 506128,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 22
+  },
+  {
+   "id": 506129,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 27
+  },
+  {
+   "id": 506130,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506131,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506132,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 32
+  },
+  {
+   "id": 506133,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 37
+  },
+  {
+   "id": 506134,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 42
+  },
+  {
+   "id": 506135,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 47
+  },
+  {
+   "id": 506136,
+   "giver": 431,
+   "turn_in": 425,
+   "level_to_start": 12,
+   "level_to_finish": 52
+  },
+  {
+   "id": 506137,
+   "giver": 417,
+   "turn_in": 404,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506138,
+   "giver": 404,
+   "turn_in": 404,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506139,
+   "giver": 404,
+   "turn_in": 111,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506140,
+   "giver": 111,
+   "turn_in": 404,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506141,
+   "giver": 404,
+   "turn_in": 417,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506142,
+   "giver": 402,
+   "turn_in": 402,
+   "level_to_start": 27,
+   "level_to_finish": 27
+  },
+  {
+   "id": 506143,
+   "giver": 402,
+   "turn_in": 406,
+   "level_to_start": 27,
+   "level_to_finish": 27
+  },
+  {
+   "id": 506144,
+   "giver": 406,
+   "turn_in": 402,
+   "level_to_start": 27,
+   "level_to_finish": 27
+  },
+  {
+   "id": 506145,
+   "giver": 402,
+   "turn_in": 401,
+   "level_to_start": 27,
+   "level_to_finish": 27
+  },
+  {
+   "id": 506146,
+   "giver": 401,
+   "turn_in": 402,
+   "level_to_start": 27,
+   "level_to_finish": 27
+  },
+  {
+   "id": 506147,
+   "giver": 412,
+   "turn_in": 412,
+   "level_to_start": 37,
+   "level_to_finish": 37
+  },
+  {
+   "id": 506148,
+   "giver": 412,
+   "turn_in": 425,
+   "level_to_start": 37,
+   "level_to_finish": 37
+  },
+  {
+   "id": 506149,
+   "giver": 425,
+   "turn_in": 406,
+   "level_to_start": 37,
+   "level_to_finish": 37
+  },
+  {
+   "id": 506150,
+   "giver": 406,
+   "turn_in": 406,
+   "level_to_start": 37,
+   "level_to_finish": 37
+  },
+  {
+   "id": 506151,
+   "giver": 406,
+   "turn_in": 412,
+   "level_to_start": 37,
+   "level_to_finish": 37
+  },
+  {
+   "id": 506152,
+   "giver": 900014,
+   "turn_in": 900014,
+   "level_to_start": 47,
+   "level_to_finish": 47
+  },
+  {
+   "id": 506153,
+   "giver": 900014,
+   "turn_in": 425,
+   "level_to_start": 47,
+   "level_to_finish": 47
+  },
+  {
+   "id": 506154,
+   "giver": 425,
+   "turn_in": 412,
+   "level_to_start": 47,
+   "level_to_finish": 47
+  },
+  {
+   "id": 506155,
+   "giver": 412,
+   "turn_in": 425,
+   "level_to_start": 47,
+   "level_to_finish": 47
+  },
+  {
+   "id": 506156,
+   "giver": 425,
+   "turn_in": 900014,
+   "level_to_start": 47,
+   "level_to_finish": 47
+  },
+  {
+   "id": 506157,
+   "turn_in": 411,
+   "level_to_start": 57,
+   "level_to_finish": 57,
+   "starts_itself": true
+  },
+  {
+   "id": 506158,
+   "giver": 411,
+   "turn_in": 411,
+   "level_to_start": 57,
+   "level_to_finish": 57
+  },
+  {
+   "id": 506159,
+   "giver": 411,
+   "turn_in": 436,
+   "level_to_start": 57,
+   "level_to_finish": 57
+  },
+  {
+   "id": 506160,
+   "giver": 436,
+   "turn_in": 436,
+   "level_to_start": 57,
+   "level_to_finish": 57
+  },
+  {
+   "id": 506161,
+   "giver": 436,
+   "turn_in": 411,
+   "level_to_start": 57,
+   "level_to_finish": 57
+  },
+  {
+   "id": 506162,
+   "giver": 425,
+   "turn_in": 426,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 506163,
+   "giver": 426,
+   "turn_in": 427,
+   "level_to_start": 17,
+   "level_to_finish": 17
+  },
+  {
+   "id": 600000,
+   "giver": 9010000,
+   "level_to_start": 10,
+   "opens": "2026-10-06T00:00",
+   "closes": "2026-10-20T23:59",
+   "starts_itself": true
+  },
+  {
+   "id": 600002,
+   "giver": 9010000,
+   "turn_in": 9010000,
+   "level_to_start": 10,
+   "level_to_finish": 10,
+   "opens": "2026-10-21T16:00",
+   "closes": "2026-11-18T23:59",
+   "starts_itself": true
+  },
+  {
+   "id": 600004,
+   "giver": 205,
+   "level_to_start": 25,
+   "opens": "2026-10-21T00:00",
+   "closes": "2026-11-19T00:00"
+  },
+  {
+   "id": 600005,
+   "giver": 205,
+   "level_to_start": 25,
+   "opens": "2026-10-21T00:00",
+   "closes": "2026-11-19T00:00"
+  },
+  {
+   "id": 600006,
+   "giver": 205,
+   "level_to_start": 25,
+   "opens": "2026-10-21T00:00",
+   "closes": "2026-11-19T00:00"
+  },
+  {
+   "id": 600007,
+   "giver": 205,
+   "level_to_start": 25,
+   "opens": "2026-10-21T00:00",
+   "closes": "2026-11-19T00:00"
+  },
+  {
+   "id": 600008,
+   "giver": 205,
+   "turn_in": 404,
+   "level_to_start": 25,
+   "level_to_finish": 10,
+   "opens": "2026-10-21T00:00",
+   "closes": "2026-11-19T00:00"
+  },
+  {
+   "id": 600009,
+   "giver": 205,
+   "level_to_start": 25,
+   "opens": "2026-10-21T00:00",
+   "closes": "2026-11-19T00:00"
+  },
+  {
+   "id": 600010,
+   "giver": 205,
+   "level_to_start": 25,
+   "opens": "2026-10-21T00:00",
+   "closes": "2026-11-19T00:00"
+  }
+ ]
+}

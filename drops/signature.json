@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "about": "Each monster's signature drops: the etc items that come from it. Presence only, no rates. Shared drops such as Leather, ores and feathers are not listed. Keyed by OSMS's monster and item ids. Each drop names its sources: client (the game's own item text names the monster) and strategywiki (StrategyWiki's Victoria Island drop table, from later global MapleStory).",
+ "about": "The etc items each monster drops. Presence only, no rates. Keyed by OSMS's monster and item ids. Each drop names its sources: client (the game's own item text names the monster), strategywiki (StrategyWiki's Victoria Island drop table, from later global MapleStory) and player (reported by players of Classic, unverified; the only source for shared drops such as Leather, ores and feathers).",
  "licence": "CC BY-SA 4.0. Includes data from StrategyWiki (https://strategywiki.org/wiki/MapleStory/Drops_(Victoria_Island), revision 841577), CC BY-SA 4.0. Game data is Nexon's.",
  "monsters": [
   {
@@ -12,7 +12,22 @@
      "name": "Snail Shell",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4010000,
+     "name": "Bronze Ore",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020000,
+     "name": "Garnet Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -26,7 +41,22 @@
      "name": "Blue Snail Shell",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4010001,
+     "name": "Iron Ore",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020001,
+     "name": "Amethyst Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -39,6 +69,7 @@
      "item": 4000003,
      "name": "Mushroom Spore",
      "sources": [
+      "player",
       "strategywiki"
      ]
     }
@@ -53,7 +84,22 @@
      "name": "Red Snail Shell",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4010004,
+     "name": "Silver Ore",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020004,
+     "name": "Opal Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -66,7 +112,22 @@
      "item": 4000005,
      "name": "Tree Branch",
      "sources": [
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4010000,
+     "name": "Bronze Ore",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020003,
+     "name": "Emerald Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -79,6 +140,7 @@
      "item": 4000006,
      "name": "Squishy Liquid",
      "sources": [
+      "player",
       "strategywiki"
      ]
     },
@@ -87,7 +149,43 @@
      "name": "Slime Bubble",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4010005,
+     "name": "Orihalcon Ore",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020005,
+     "name": "Sapphire Ore",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4031047,
+     "name": "Omok Piece: Slime",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4031050,
+     "name": "Omok Piece: Slime",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4031053,
+     "name": "Omok Piece: Slime",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -101,7 +199,43 @@
      "name": "Pig's Head",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4000049,
+     "name": "Leather",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4000062,
+     "name": "Animal Fur Bundle",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4003002,
+     "name": "Stiff Feather",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4010006,
+     "name": "Gold Ore",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020006,
+     "name": "Topaz Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -115,7 +249,15 @@
      "name": "Orange Mushroom Cap",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4010000,
+     "name": "Bronze Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -128,6 +270,7 @@
      "item": 4000008,
      "name": "Pig's Head",
      "sources": [
+      "player",
       "strategywiki"
      ]
     },
@@ -136,7 +279,36 @@
      "name": "Pig's Ribbon",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4000049,
+     "name": "Leather",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4000062,
+     "name": "Animal Fur Bundle",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4003002,
+     "name": "Stiff Feather",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4010002,
+     "name": "Mithril Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -146,10 +318,32 @@
    "name": "Dark Stump",
    "drops": [
     {
+     "item": 4000005,
+     "name": "Tree Branch",
+     "sources": [
+      "player"
+     ]
+    },
+    {
      "item": 4000011,
      "name": "Leaf",
      "sources": [
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4010001,
+     "name": "Iron Ore",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020000,
+     "name": "Garnet Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -163,7 +357,43 @@
      "name": "Octopus Leg",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4000063,
+     "name": "Fragment of Magic",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020002,
+     "name": "Aquamarine Ore",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4031054,
+     "name": "Omok Piece: Octopus",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4031059,
+     "name": "Omok Piece: Octopus",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4031063,
+     "name": "Omok Piece: Octopus",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -177,7 +407,29 @@
      "name": "Green Mushroom Cap",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4000063,
+     "name": "Fragment of Magic",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4010004,
+     "name": "Silver Ore",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020003,
+     "name": "Emerald Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -191,6 +443,7 @@
      "name": "Bubbling's Huge Bubble",
      "sources": [
       "client",
+      "player",
       "strategywiki"
      ]
     }
@@ -205,7 +458,15 @@
      "name": "Firewood",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4010005,
+     "name": "Orihalcon Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -219,7 +480,15 @@
      "name": "Blue Mushroom Cap",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4010006,
+     "name": "Gold Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -233,7 +502,22 @@
      "name": "Stirge Wing",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4003002,
+     "name": "Stiff Feather",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020000,
+     "name": "Garnet Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -247,6 +531,7 @@
      "name": "Jr. Necki Skin",
      "sources": [
       "client",
+      "player",
       "strategywiki"
      ]
     }
@@ -261,7 +546,22 @@
      "name": "Horny Mushroom Cap",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4010000,
+     "name": "Bronze Ore",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020006,
+     "name": "Topaz Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -274,7 +574,15 @@
      "item": 4000015,
      "name": "Firewood",
      "sources": [
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4031075,
+     "name": "Stump's Teardrop",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -287,6 +595,7 @@
      "item": 4000020,
      "name": "Charm of the Undead",
      "sources": [
+      "player",
       "strategywiki"
      ]
     }
@@ -303,6 +612,13 @@
       "client",
       "strategywiki"
      ]
+    },
+    {
+     "item": 4000049,
+     "name": "Leather",
+     "sources": [
+      "player"
+     ]
     }
    ]
   },
@@ -315,6 +631,7 @@
      "name": "Evil Eye Tail",
      "sources": [
       "client",
+      "player",
       "strategywiki"
      ]
     }
@@ -411,6 +728,20 @@
       "client",
       "strategywiki"
      ]
+    },
+    {
+     "item": 4000049,
+     "name": "Leather",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020000,
+     "name": "Garnet Ore",
+     "sources": [
+      "player"
+     ]
     }
    ]
   },
@@ -489,6 +820,20 @@
       "client",
       "strategywiki"
      ]
+    },
+    {
+     "item": 4000049,
+     "name": "Leather",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4003002,
+     "name": "Stiff Feather",
+     "sources": [
+      "player"
+     ]
     }
    ]
   },
@@ -502,6 +847,13 @@
      "sources": [
       "client",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4020000,
+     "name": "Garnet Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -530,6 +882,13 @@
      "sources": [
       "client",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4000049,
+     "name": "Leather",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -1090,6 +1449,7 @@
      "name": "Jr. Necki Skin",
      "sources": [
       "client",
+      "player",
       "strategywiki"
      ]
     }
@@ -1118,6 +1478,7 @@
      "name": "Evil Eye Tail",
      "sources": [
       "client",
+      "player",
       "strategywiki"
      ]
     }
@@ -1131,6 +1492,7 @@
      "item": 4000020,
      "name": "Charm of the Undead",
      "sources": [
+      "player",
       "strategywiki"
      ]
     }
@@ -1159,7 +1521,22 @@
      "name": "Horny Mushroom Cap",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4010000,
+     "name": "Bronze Ore",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020006,
+     "name": "Topaz Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -1187,7 +1564,15 @@
      "name": "Blue Mushroom Cap",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4010006,
+     "name": "Gold Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -1202,6 +1587,20 @@
      "sources": [
       "client",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4000049,
+     "name": "Leather",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020000,
+     "name": "Garnet Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -1224,6 +1623,20 @@
      "sources": [
       "client",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4000049,
+     "name": "Leather",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4003002,
+     "name": "Stiff Feather",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -1250,7 +1663,22 @@
      "name": "Stirge Wing",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4003002,
+     "name": "Stiff Feather",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020000,
+     "name": "Garnet Ore",
+     "sources": [
+      "player"
      ]
     }
    ]
@@ -1264,7 +1692,22 @@
      "name": "Stirge Wing",
      "sources": [
       "client",
+      "player",
       "strategywiki"
+     ]
+    },
+    {
+     "item": 4003002,
+     "name": "Stiff Feather",
+     "sources": [
+      "player"
+     ]
+    },
+    {
+     "item": 4020000,
+     "name": "Garnet Ore",
+     "sources": [
+      "player"
      ]
     }
    ]

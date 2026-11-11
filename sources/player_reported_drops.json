@@ -1,0 +1,203 @@
+{
+ "about": "Drops players report from playing Classic, by monster and item name as the game shows them. Unverified against any database; presence only. Added by Leafline's maintainer.",
+ "added": "2026-11-11",
+ "rows": [
+  {
+   "monster": "Snail",
+   "items": [
+    "Snail Shell",
+    "Bronze Ore",
+    "Garnet Ore"
+   ]
+  },
+  {
+   "monster": "Blue Snail",
+   "items": [
+    "Blue Snail Shell",
+    "Iron Ore",
+    "Amethyst Ore"
+   ]
+  },
+  {
+   "monster": "Shroom",
+   "items": [
+    "Mushroom Spore"
+   ]
+  },
+  {
+   "monster": "Red Snail",
+   "items": [
+    "Red Snail Shell",
+    "Silver Ore",
+    "Opal Ore"
+   ]
+  },
+  {
+   "monster": "Stump",
+   "items": [
+    "Tree Branch",
+    "Bronze Ore",
+    "Emerald Ore"
+   ]
+  },
+  {
+   "monster": "Slime",
+   "items": [
+    "Squishy Liquid",
+    "Slime Bubble",
+    "Orihalcon Ore",
+    "Sapphire Ore",
+    "Omok Piece: Slime"
+   ]
+  },
+  {
+   "monster": "Pig",
+   "items": [
+    "Pig's Head",
+    "Stiff Feather",
+    "Leather",
+    "Animal Fur Bundle",
+    "Gold Ore",
+    "Topaz Ore"
+   ]
+  },
+  {
+   "monster": "Orange Mushroom",
+   "items": [
+    "Orange Mushroom Cap",
+    "Bronze Ore"
+   ]
+  },
+  {
+   "monster": "Ribbon Pig",
+   "items": [
+    "Pig's Ribbon",
+    "Stiff Feather",
+    "Leather",
+    "Animal Fur Bundle",
+    "Mithril Ore",
+    "Pig's Head"
+   ]
+  },
+  {
+   "monster": "Dark Stump",
+   "items": [
+    "Leaf",
+    "Tree Branch",
+    "Iron Ore",
+    "Garnet Ore"
+   ]
+  },
+  {
+   "monster": "Octopus",
+   "items": [
+    "Octopus Leg",
+    "Aquamarine Ore",
+    "Fragment of Magic",
+    "Omok Piece: Octopus"
+   ]
+  },
+  {
+   "monster": "Green Mushroom",
+   "items": [
+    "Green Mushroom Cap",
+    "Fragment of Magic",
+    "Silver Ore",
+    "Emerald Ore"
+   ]
+  },
+  {
+   "monster": "Bubbling",
+   "items": [
+    "Bubbling's Huge Bubble"
+   ]
+  },
+  {
+   "monster": "Axe Stump",
+   "items": [
+    "Firewood",
+    "Orihalcon Ore"
+   ]
+  },
+  {
+   "monster": "Blue Mushroom",
+   "items": [
+    "Blue Mushroom Cap",
+    "Gold Ore"
+   ]
+  },
+  {
+   "monster": "Stirge",
+   "items": [
+    "Stirge Wing",
+    "Garnet Ore",
+    "Stiff Feather"
+   ]
+  },
+  {
+   "monster": "Jr. Necki",
+   "items": [
+    "Jr. Necki Skin"
+   ]
+  },
+  {
+   "monster": "Horny Mushroom",
+   "items": [
+    "Horny Mushroom Cap",
+    "Bronze Ore",
+    "Topaz Ore"
+   ]
+  },
+  {
+   "monster": "Dark Axe Stump",
+   "items": [
+    "Firewood",
+    "Stump's Teardrop"
+   ]
+  },
+  {
+   "monster": "Zombie Mushroom",
+   "items": [
+    "Charm of the Undead"
+   ]
+  },
+  {
+   "monster": "Wild Boar",
+   "items": [
+    "Leather"
+   ]
+  },
+  {
+   "monster": "Evil Eye",
+   "items": [
+    "Evil Eye Tail"
+   ]
+  },
+  {
+   "monster": "Fire Boar",
+   "items": [
+    "Garnet Ore",
+    "Leather"
+   ]
+  },
+  {
+   "monster": "Lupin",
+   "items": [
+    "Leather",
+    "Stiff Feather"
+   ]
+  },
+  {
+   "monster": "Lorang",
+   "items": [
+    "Garnet Ore"
+   ]
+  },
+  {
+   "monster": "Zombie Lupin",
+   "items": [
+    "Leather"
+   ]
+  }
+ ]
+}

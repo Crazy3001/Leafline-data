@@ -1,14 +1,15 @@
-"""Builds drops/signature.json: each monster's signature drops, the etc items that come from it.
+"""Builds drops/signature.json: the etc items each monster drops.
 
-Two sources, each named on every entry:
+Three sources, each named on every entry:
 - "client": the item's own description (or, failing that, its name) in the game client names the
   monster ("A rib from Skeleton Soldier"). Read from OSMS's items.json; the text itself is not copied.
 - "strategywiki": StrategyWiki's Victoria Island drop table (CC BY-SA 4.0), saved by
   tools/fetch_strategywiki.py. It describes later global MapleStory, so it is kept only where both
   the item and the monster exist in Classic.
+- "player": drops players report from playing Classic, in sources/player_reported_drops.json. This
+  is where shared drops (Leather, ores, feathers...) come from; no open database lists them.
 
-This is presence, not rates, and it leaves out shared drops (Leather, ores, feathers...) that no
-open source lists for Classic.
+This is presence, not rates.
 
     python tools/build_drops.py
 """
@@ -86,6 +87,27 @@ def main() -> None:
                 for mid in ids_named.get(name, ()):
                     pairs[(mid, item_id)].add("strategywiki")
 
+    # Drops players report, matched by name to any etc item (ores and Omok pieces sit above 4010000).
+    reported = load("sources/player_reported_drops.json")
+    any_etc = defaultdict(list)
+    for item_id, item in items.items():
+        if 4000000 <= item_id < 5000000:
+            any_etc[item["name"].lower()].append(item_id)
+    unmatched = []
+    for row in reported["rows"]:
+        mids = ids_named.get(row["monster"], set())
+        if not mids:
+            unmatched.append(row["monster"])
+        for name in row["items"]:
+            found = any_etc.get(name.lower(), [])
+            if not found:
+                unmatched.append(f"{row['monster']}: {name}")
+            for item_id in found:
+                for mid in mids:
+                    pairs[(mid, item_id)].add("player")
+    if unmatched:
+        raise SystemExit(f"player-reported names not in the game data: {unmatched}")
+
     by_monster = defaultdict(list)
     for (mid, item_id), sources in pairs.items():
         by_monster[mid].append({"item": item_id, "name": items[item_id]["name"], "sources": sorted(sources)})
@@ -97,10 +119,11 @@ def main() -> None:
     document = {
         "schema": 1,
         "about": (
-            "Each monster's signature drops: the etc items that come from it. Presence only, no rates. "
-            "Shared drops such as Leather, ores and feathers are not listed. Keyed by OSMS's monster and "
-            "item ids. Each drop names its sources: client (the game's own item text names the monster) "
-            "and strategywiki (StrategyWiki's Victoria Island drop table, from later global MapleStory)."
+            "The etc items each monster drops. Presence only, no rates. Keyed by OSMS's monster and item "
+            "ids. Each drop names its sources: client (the game's own item text names the monster), "
+            "strategywiki (StrategyWiki's Victoria Island drop table, from later global MapleStory) and "
+            "player (reported by players of Classic, unverified; the only source for shared drops such as "
+            "Leather, ores and feathers)."
         ),
         "licence": (
             "CC BY-SA 4.0. Includes data from StrategyWiki (https://strategywiki.org/wiki/MapleStory/"
@@ -112,8 +135,10 @@ def main() -> None:
     OUT.write_text(json.dumps(document, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     spawned = {m["id"] for m in monsters if m.get("spawns")}
     covered = spawned & set(by_monster)
-    both = sum(1 for s in pairs.values() if len(s) == 2)
-    print(f"{len(pairs)} monster-item pairs ({both} in both sources) for {len(by_monster)} monsters; "
+    both = sum(1 for s in pairs.values() if len(s) >= 2)
+    only_player = sum(1 for s in pairs.values() if s == {"player"})
+    print(f"{len(pairs)} monster-item pairs ({both} in two or more sources, {only_player} player-reported only) "
+          f"for {len(by_monster)} monsters; "
           f"{len(covered)} of {len(spawned)} monsters that spawn have at least one -> {OUT}")
     print("spawning monsters with none:", sorted({names_by_id[m] for m in spawned - covered}))
 

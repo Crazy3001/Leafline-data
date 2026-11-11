@@ -12,6 +12,7 @@ this repo is the fallback and fills in what OSMS does not publish.
 | `shops/shops.json` | NPC shop stock at launch prices | Leafline's own list (same file as `data/shops.json` in Leafline) |
 | `client/quests.json` | Per quest: giver and turn-in NPC ids, job codes, level to start and to finish, fame and mesos to start, open and close dates | Extracted from the game client |
 | `client/npcs.json` | NPC role labels ("Grocer", "Weapon Seller" ...) | Extracted from the game client |
+| `client/maps.json` | Per map: size, walkable floor length, platforms, platforms monsters spawn on, spawn points, ropes, ladders | Extracted from the game client |
 | `drops/signature.json` | The etc items each monster drops (presence, no rates), each with its sources | Game client item text, [StrategyWiki](https://strategywiki.org/wiki/MapleStory/Drops_(Victoria_Island)) (CC BY-SA 4.0), and player reports (`sources/player_reported_drops.json`, the only source for shared drops like Leather and ores) |
 | `sources/` | Snapshots of outside sources the lists are built from | As named in each file |
 
@@ -30,6 +31,7 @@ Everything is keyed by the ids OSMS uses, so it joins directly onto OSMS's files
 ```bash
 python tools/mirror_osms.py      # copy any OSMS file whose checksum changed (also runs daily on GitHub)
 python tools/extract.py          # after a game patch, game closed; default install D:/Games/maplestorycw
+python tools/extract_maps.py     # same, for map layout; also lists maps whose spawns or portals differ from OSMS
 python tools/build_drops.py      # rebuild drops/signature.json from osms/ and sources/
 ```
 

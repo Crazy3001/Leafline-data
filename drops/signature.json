@@ -1,0 +1,1341 @@
+{
+ "schema": 1,
+ "about": "Each monster's signature drops: the etc items that come from it. Presence only, no rates. Shared drops such as Leather, ores and feathers are not listed. Keyed by OSMS's monster and item ids. Each drop names its sources: client (the game's own item text names the monster) and strategywiki (StrategyWiki's Victoria Island drop table, from later global MapleStory).",
+ "licence": "CC BY-SA 4.0. Includes data from StrategyWiki (https://strategywiki.org/wiki/MapleStory/Drops_(Victoria_Island), revision 841577), CC BY-SA 4.0. Game data is Nexon's.",
+ "monsters": [
+  {
+   "id": 2,
+   "name": "Snail",
+   "drops": [
+    {
+     "item": 4000001,
+     "name": "Snail Shell",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Blue Snail",
+   "drops": [
+    {
+     "item": 4000002,
+     "name": "Blue Snail Shell",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "Shroom",
+   "drops": [
+    {
+     "item": 4000003,
+     "name": "Mushroom Spore",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Red Snail",
+   "drops": [
+    {
+     "item": 4000004,
+     "name": "Red Snail Shell",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Stump",
+   "drops": [
+    {
+     "item": 4000005,
+     "name": "Tree Branch",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "name": "Slime",
+   "drops": [
+    {
+     "item": 4000006,
+     "name": "Squishy Liquid",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000007,
+     "name": "Slime Bubble",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Pig",
+   "drops": [
+    {
+     "item": 4000008,
+     "name": "Pig's Head",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Orange Mushroom",
+   "drops": [
+    {
+     "item": 4000009,
+     "name": "Orange Mushroom Cap",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Ribbon Pig",
+   "drops": [
+    {
+     "item": 4000008,
+     "name": "Pig's Head",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000010,
+     "name": "Pig's Ribbon",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "name": "Dark Stump",
+   "drops": [
+    {
+     "item": 4000011,
+     "name": "Leaf",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Octopus",
+   "drops": [
+    {
+     "item": 4000012,
+     "name": "Octopus Leg",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Green Mushroom",
+   "drops": [
+    {
+     "item": 4000013,
+     "name": "Green Mushroom Cap",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "name": "Bubbling",
+   "drops": [
+    {
+     "item": 4000014,
+     "name": "Bubbling's Huge Bubble",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Axe Stump",
+   "drops": [
+    {
+     "item": 4000015,
+     "name": "Firewood",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Blue Mushroom",
+   "drops": [
+    {
+     "item": 4000016,
+     "name": "Blue Mushroom Cap",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "name": "Stirge",
+   "drops": [
+    {
+     "item": 4000017,
+     "name": "Stirge Wing",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Jr. Necki",
+   "drops": [
+    {
+     "item": 4000018,
+     "name": "Jr. Necki Skin",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Horny Mushroom",
+   "drops": [
+    {
+     "item": 4000019,
+     "name": "Horny Mushroom Cap",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Dark Axe Stump",
+   "drops": [
+    {
+     "item": 4000015,
+     "name": "Firewood",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Zombie Mushroom",
+   "drops": [
+    {
+     "item": 4000020,
+     "name": "Charm of the Undead",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Wild Boar",
+   "drops": [
+    {
+     "item": 4000021,
+     "name": "Wild Boar Tooth",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "name": "Evil Eye",
+   "drops": [
+    {
+     "item": 4000022,
+     "name": "Evil Eye Tail",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "name": "Iron Hog",
+   "drops": [
+    {
+     "item": 4000023,
+     "name": "Iron Hog's Metal Hoof",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Fairy 1",
+   "drops": [
+    {
+     "item": 4000024,
+     "name": "Fairy's Tentacle",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Fairy 2",
+   "drops": [
+    {
+     "item": 4000024,
+     "name": "Fairy's Tentacle",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Fairy 3",
+   "drops": [
+    {
+     "item": 4000024,
+     "name": "Fairy's Tentacle",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Fairy 4",
+   "drops": [
+    {
+     "item": 4000024,
+     "name": "Fairy's Tentacle",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Ligator",
+   "drops": [
+    {
+     "item": 4000025,
+     "name": "Ligator Skin",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Fire Boar",
+   "drops": [
+    {
+     "item": 4000026,
+     "name": "Fire Boar's Tooth",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "name": "Curse Eye",
+   "drops": [
+    {
+     "item": 4000027,
+     "name": "Curse Eye Tail",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "name": "Jr. Wraith",
+   "drops": [
+    {
+     "item": 4000028,
+     "name": "Tablecloth",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Jr. Boogie 1",
+   "drops": [
+    {
+     "item": 4000029,
+     "name": "Jr. Boogie Horn",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Jr. Boogie 2",
+   "drops": [
+    {
+     "item": 4000029,
+     "name": "Jr. Boogie Horn",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Lupin",
+   "drops": [
+    {
+     "item": 4000030,
+     "name": "Lupin Doll",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000031,
+     "name": "Lupin's Banana",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Lorang",
+   "drops": [
+    {
+     "item": 4000032,
+     "name": "Lorang Claw",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Cold Eye",
+   "drops": [
+    {
+     "item": 4000034,
+     "name": "Cold Eye Tail",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Zombie Lupin",
+   "drops": [
+    {
+     "item": 4000033,
+     "name": "Cursed Doll",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Ghost Stump",
+   "drops": [
+    {
+     "item": 4000151,
+     "name": "Seedling",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Copper Drake",
+   "drops": [
+    {
+     "item": 4000036,
+     "name": "Drake Skull",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000050,
+     "name": "Dragon Skin",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "name": "Tortie",
+   "drops": [
+    {
+     "item": 4000037,
+     "name": "Tortie Shell",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "name": "Wooden Mask",
+   "drops": [
+    {
+     "item": 4000152,
+     "name": "Wooden Board",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Wraith",
+   "drops": [
+    {
+     "item": 4000039,
+     "name": "Medicine With Weird Vibes",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "name": "Clang",
+   "drops": [
+    {
+     "item": 4000040,
+     "name": "Clang Claw",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Drake",
+   "drops": [
+    {
+     "item": 4000036,
+     "name": "Drake Skull",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000050,
+     "name": "Dragon Skin",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Croco",
+   "drops": [
+    {
+     "item": 4000041,
+     "name": "Croco Skin",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Malady",
+   "drops": [
+    {
+     "item": 4000042,
+     "name": "Malady's Experimental Frog",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Stone Golem",
+   "drops": [
+    {
+     "item": 4000043,
+     "name": "Stone Golem Rubble",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Dark Stone Golem",
+   "drops": [
+    {
+     "item": 4000044,
+     "name": "Dark Stone Golem Rubble",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "name": "Red Drake",
+   "drops": [
+    {
+     "item": 4000036,
+     "name": "Drake Skull",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000050,
+     "name": "Dragon Skin",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Wild Kargo",
+   "drops": [
+    {
+     "item": 4000045,
+     "name": "Wild Kargo Eye",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Tauromacis",
+   "drops": [
+    {
+     "item": 4000046,
+     "name": "Tauromacis Horn",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Taurospear",
+   "drops": [
+    {
+     "item": 4000047,
+     "name": "Taurospear Horn",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Glowshroom",
+   "drops": [
+    {
+     "item": 4000051,
+     "name": "Glowing Mushroom Spore",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "name": "Raffle",
+   "drops": [
+    {
+     "item": 4000052,
+     "name": "Raffle Petal",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "name": "Golden Stirge",
+   "drops": [
+    {
+     "item": 4000053,
+     "name": "Golden Stirge Wing",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "name": "Aqumander",
+   "drops": [
+    {
+     "item": 4000054,
+     "name": "Aqumander Tail",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "name": "Echopus",
+   "drops": [
+    {
+     "item": 4000055,
+     "name": "Echopus Leg",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "name": "Rafflesia",
+   "drops": [
+    {
+     "item": 4000056,
+     "name": "Rafflesia Petal",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "name": "Duskmander",
+   "drops": [
+    {
+     "item": 4000057,
+     "name": "Duskmander Tail",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "name": "Rocky Mask",
+   "drops": [
+    {
+     "item": 4000153,
+     "name": "Slate",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "name": "Skeledog",
+   "drops": [
+    {
+     "item": 4000154,
+     "name": "Skeledog's Bone",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "name": "Mummydog",
+   "drops": [
+    {
+     "item": 4000155,
+     "name": "Dirty Bandage",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "name": "Skeleton Soldier",
+   "drops": [
+    {
+     "item": 4000156,
+     "name": "Rib",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "name": "Officer Skeleton",
+   "drops": [
+    {
+     "item": 4000157,
+     "name": "Pelvic Bone",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "name": "Commander Skeleton",
+   "drops": [
+    {
+     "item": 4000158,
+     "name": "Horse Skull",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 700000,
+   "name": "Mushmom",
+   "drops": [
+    {
+     "item": 4000048,
+     "name": "Mushmom Spore",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 700002,
+   "name": "Zombie Mushmom",
+   "drops": [
+    {
+     "item": 4000064,
+     "name": "Poisonous Mushroom",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 700003,
+   "name": "Rotten Mushmom",
+   "drops": [
+    {
+     "item": 4000065,
+     "name": "Rotten Mushmom Cap",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 700004,
+   "name": "Mano",
+   "drops": [
+    {
+     "item": 4000001,
+     "name": "Snail Shell",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000002,
+     "name": "Blue Snail Shell",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000004,
+     "name": "Red Snail Shell",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 700007,
+   "name": "Stumpy",
+   "drops": [
+    {
+     "item": 4000005,
+     "name": "Tree Branch",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000011,
+     "name": "Leaf",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000015,
+     "name": "Firewood",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000151,
+     "name": "Seedling",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 700008,
+   "name": "Faust",
+   "drops": [
+    {
+     "item": 4000030,
+     "name": "Lupin Doll",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000031,
+     "name": "Lupin's Banana",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000033,
+     "name": "Cursed Doll",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800000,
+   "name": "Ligator",
+   "drops": [
+    {
+     "item": 4000025,
+     "name": "Ligator Skin",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800001,
+   "name": "Jr. Necki",
+   "drops": [
+    {
+     "item": 4000018,
+     "name": "Jr. Necki Skin",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800002,
+   "name": "Curse Eye",
+   "drops": [
+    {
+     "item": 4000027,
+     "name": "Curse Eye Tail",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800010,
+   "name": "Evil Eye",
+   "drops": [
+    {
+     "item": 4000022,
+     "name": "Evil Eye Tail",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800011,
+   "name": "Zombie Mushroom",
+   "drops": [
+    {
+     "item": 4000020,
+     "name": "Charm of the Undead",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800012,
+   "name": "Curse Eye",
+   "drops": [
+    {
+     "item": 4000027,
+     "name": "Curse Eye Tail",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800013,
+   "name": "Horny Mushroom",
+   "drops": [
+    {
+     "item": 4000019,
+     "name": "Horny Mushroom Cap",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800014,
+   "name": "Cold Eye",
+   "drops": [
+    {
+     "item": 4000034,
+     "name": "Cold Eye Tail",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800015,
+   "name": "Blue Mushroom",
+   "drops": [
+    {
+     "item": 4000016,
+     "name": "Blue Mushroom Cap",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800016,
+   "name": "Fire Boar",
+   "drops": [
+    {
+     "item": 4000026,
+     "name": "Fire Boar's Tooth",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800017,
+   "name": "Lupin",
+   "drops": [
+    {
+     "item": 4000030,
+     "name": "Lupin Doll",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000031,
+     "name": "Lupin's Banana",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800019,
+   "name": "Moon Bunny",
+   "drops": [
+    {
+     "item": 4001023,
+     "name": "Moon Bunny's Rice Cake",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800020,
+   "name": "Stirge",
+   "drops": [
+    {
+     "item": 4000017,
+     "name": "Stirge Wing",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 800021,
+   "name": "Stirge",
+   "drops": [
+    {
+     "item": 4000017,
+     "name": "Stirge Wing",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 810000,
+   "name": "Mano",
+   "drops": [
+    {
+     "item": 4000001,
+     "name": "Snail Shell",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000002,
+     "name": "Blue Snail Shell",
+     "sources": [
+      "strategywiki"
+     ]
+    },
+    {
+     "item": 4000004,
+     "name": "Red Snail Shell",
+     "sources": [
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 810002,
+   "name": "Mushmom",
+   "drops": [
+    {
+     "item": 4000048,
+     "name": "Mushmom Spore",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 810003,
+   "name": "Zombie Mushmom",
+   "drops": [
+    {
+     "item": 4000064,
+     "name": "Poisonous Mushroom",
+     "sources": [
+      "client",
+      "strategywiki"
+     ]
+    }
+   ]
+  },
+  {
+   "id": 810004,
+   "name": "Rotten Mushmom",
+   "drops": [
+    {
+     "item": 4000065,
+     "name": "Rotten Mushmom Cap",
+     "sources": [
+      "client"
+     ]
+    }
+   ]
+  }
+ ]
+}

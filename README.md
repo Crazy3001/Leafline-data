@@ -12,6 +12,8 @@ this repo is the fallback and fills in what OSMS does not publish.
 | `shops/shops.json` | NPC shop stock at launch prices | Leafline's own list (same file as `data/shops.json` in Leafline) |
 | `client/quests.json` | Per quest: giver and turn-in NPC ids, job codes, level to start and to finish, fame and mesos to start, open and close dates | Extracted from the game client |
 | `client/npcs.json` | NPC role labels ("Grocer", "Weapon Seller" ...) | Extracted from the game client |
+| `drops/signature.json` | Each monster's signature drops (presence, no rates) | Game client item text + [StrategyWiki](https://strategywiki.org/wiki/MapleStory/Drops_(Victoria_Island)), CC BY-SA 4.0 |
+| `sources/` | Snapshots of outside sources the lists are built from | As named in each file |
 
 Everything is keyed by the ids OSMS uses, so it joins directly onto OSMS's files.
 
@@ -28,6 +30,7 @@ Everything is keyed by the ids OSMS uses, so it joins directly onto OSMS's files
 ```bash
 python tools/mirror_osms.py      # copy any OSMS file whose checksum changed (also runs daily on GitHub)
 python tools/extract.py          # after a game patch, game closed; default install D:/Games/maplestorycw
+python tools/build_drops.py      # rebuild drops/signature.json from osms/ and sources/
 ```
 
 `tools/wz.py` is a small read-only reader for the client's split PKG1 `.wz` files. It reads directories
@@ -38,6 +41,10 @@ and property trees only; image and sound data are skipped, never decoded.
 Everything under `osms/`, copied without changes, in the form OSMS asks for:
 
 > Data from OSMS Data Explorer (https://osmsdataexplorer.com), CC BY 4.0
+
+`drops/signature.json` is CC BY-SA 4.0 and includes data from StrategyWiki contributors
+(https://strategywiki.org/wiki/MapleStory/Drops_(Victoria_Island)), CC BY-SA 4.0. Anything that shows
+it must credit StrategyWiki and keep the same licence.
 
 MapleStory and its game content (names, text, stats, images) are property of Nexon and are not
 covered by OSMS's licence or by anything in this repo.

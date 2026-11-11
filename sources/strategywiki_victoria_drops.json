@@ -1,0 +1,727 @@
+{
+ "source": "https://strategywiki.org/wiki/MapleStory/Drops_(Victoria_Island)",
+ "revision": 841577,
+ "fetched": "2026-11-11",
+ "licence": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/), StrategyWiki contributors",
+ "rows": [
+  {
+   "item": "Snail Shell",
+   "monsters": [
+    "Snail",
+    "Mano"
+   ]
+  },
+  {
+   "item": "Blue Snail Shell",
+   "monsters": [
+    "Blue Snail",
+    "Mano"
+   ]
+  },
+  {
+   "item": "Mushroom Spore",
+   "monsters": [
+    "Shroom"
+   ]
+  },
+  {
+   "item": "Red Snail Shell",
+   "monsters": [
+    "Red Snail",
+    "Mano"
+   ]
+  },
+  {
+   "item": "Jr. Boogie Horn",
+   "monsters": [
+    "Jr. Boogie"
+   ]
+  },
+  {
+   "item": "Tree Branch",
+   "monsters": [
+    "Stump",
+    "Stumpy",
+    "Chirppy",
+    "Tweeter",
+    "Toy Trojan"
+   ]
+  },
+  {
+   "item": "Leaf",
+   "monsters": [
+    "Dark Stump",
+    "Stumpy"
+   ]
+  },
+  {
+   "item": "Firewood",
+   "monsters": [
+    "Axe Stump",
+    "Dark Axe Stump",
+    "Stumpy",
+    "Nightmare",
+    "Dead Scarecrow",
+    "Toy Trojan"
+   ]
+  },
+  {
+   "item": "Axe",
+   "monsters": [
+    "Dark Axe Stump"
+   ]
+  },
+  {
+   "item": "Seedling",
+   "monsters": [
+    "Ghost Stump",
+    "Smirking Ghost Stump",
+    "Stumpy"
+   ]
+  },
+  {
+   "item": "Wild Boar Tooth",
+   "monsters": [
+    "Wild Boar",
+    "Terrified Wild Boar"
+   ]
+  },
+  {
+   "item": "Iron Hog's Metal Hoof",
+   "monsters": [
+    "Iron Hog"
+   ]
+  },
+  {
+   "item": "Iron Boar Armor",
+   "monsters": [
+    "Iron Boar"
+   ]
+  },
+  {
+   "item": "Fire Boar's Tooth",
+   "monsters": [
+    "Fire Boar"
+   ]
+  },
+  {
+   "item": "Wooden Board",
+   "monsters": [
+    "Wooden Mask"
+   ]
+  },
+  {
+   "item": "Slate",
+   "monsters": [
+    "Rocky Mask"
+   ]
+  },
+  {
+   "item": "Skeledog's Bone",
+   "monsters": [
+    "Skeledog"
+   ]
+  },
+  {
+   "item": "Dirty Bandage",
+   "monsters": [
+    "Mummydog"
+   ]
+  },
+  {
+   "item": "Rib",
+   "monsters": [
+    "Skeleton Soldier"
+   ]
+  },
+  {
+   "item": "Pelvic Bone",
+   "monsters": [
+    "Officer Skeleton"
+   ]
+  },
+  {
+   "item": "Horse Skull",
+   "monsters": [
+    "Commander Skeleton"
+   ]
+  },
+  {
+   "item": "Squishy Liquid",
+   "monsters": [
+    "Slime"
+   ]
+  },
+  {
+   "item": "Slime Bubble",
+   "monsters": [
+    "Slime"
+   ]
+  },
+  {
+   "item": "Bubbling's Huge Bubble",
+   "monsters": [
+    "Bubbling"
+   ]
+  },
+  {
+   "item": "Fairy's Antenna",
+   "monsters": [
+    "Fairy"
+   ]
+  },
+  {
+   "item": "Royal Fairy Wing",
+   "monsters": [
+    "Royal Fairy"
+   ]
+  },
+  {
+   "item": "Evil Eye Tail",
+   "monsters": [
+    "Evil Eye"
+   ]
+  },
+  {
+   "item": "Curse Eye Tail",
+   "monsters": [
+    "Curse Eye"
+   ]
+  },
+  {
+   "item": "Cold Eye Tail",
+   "monsters": [
+    "Cold Eye"
+   ]
+  },
+  {
+   "item": "Surgeon Eye Tail",
+   "monsters": [
+    "Surgeon Eye"
+   ]
+  },
+  {
+   "item": "Lupin's Banana",
+   "monsters": [
+    "Lupin",
+    "Faust"
+   ]
+  },
+  {
+   "item": "Lupin Doll",
+   "monsters": [
+    "Lupin",
+    "Faust"
+   ]
+  },
+  {
+   "item": "Cursed Doll",
+   "monsters": [
+    "Zombie Lupin",
+    "Faust"
+   ]
+  },
+  {
+   "item": "Malady's Experimental Frog",
+   "monsters": [
+    "Malady"
+   ]
+  },
+  {
+   "item": "Orange Mushroom Cap",
+   "monsters": [
+    "Orange Mushroom",
+    "Cynical Orange Mushroom"
+   ]
+  },
+  {
+   "item": "Green Mushroom Cap",
+   "monsters": [
+    "Green Mushroom",
+    "Dejected Green Mushroom"
+   ]
+  },
+  {
+   "item": "Horny Mushroom Cap",
+   "monsters": [
+    "Horny Mushroom",
+    "Angry Horny Mushroom"
+   ]
+  },
+  {
+   "item": "Blue Mushroom Cap",
+   "monsters": [
+    "Blue Mushroom",
+    "Crying Blue Mushroom"
+   ]
+  },
+  {
+   "item": "Charm of the Undead",
+   "monsters": [
+    "Annoyed Zombie Mushroom",
+    "Zombie Mushroom"
+   ]
+  },
+  {
+   "item": "Mushmom Spore",
+   "monsters": [
+    "Mushmom"
+   ]
+  },
+  {
+   "item": "Stone Golem Rubble",
+   "monsters": [
+    "Stone Golem"
+   ]
+  },
+  {
+   "item": "Dark Stone Golem Rubble",
+   "monsters": [
+    "Dark Stone Golem"
+   ]
+  },
+  {
+   "item": "Mixed Block",
+   "monsters": [
+    "Mixed Golem"
+   ]
+  },
+  {
+   "item": "Poisonous Mushroom",
+   "monsters": [
+    "Zombie Mushmom"
+   ]
+  },
+  {
+   "item": "Frozen Stone",
+   "monsters": [
+    "Icy Mixed Golem"
+   ]
+  },
+  {
+   "item": "Burning Stone",
+   "monsters": [
+    "Flaming Mixed Golem"
+   ]
+  },
+  {
+   "item": "Mutated Spore",
+   "monsters": [
+    "Renegade Spores"
+   ]
+  },
+  {
+   "item": "Poison Mushroom Cap",
+   "monsters": [
+    "Poison Mushroom"
+   ]
+  },
+  {
+   "item": "Poison Spore",
+   "monsters": [
+    "Poison Mushroom"
+   ]
+  },
+  {
+   "item": "Intoxicated Pig Tail",
+   "monsters": [
+    "Intoxicated Pig"
+   ]
+  },
+  {
+   "item": "Destroyed Helmet",
+   "monsters": [
+    "Helmet Pepe"
+   ]
+  },
+  {
+   "item": "Broken Spear",
+   "monsters": [
+    "Royal Guard Pepe"
+   ]
+  },
+  {
+   "item": "Chief Grey Yeti Horn",
+   "monsters": [
+    "Grey Yeti and King Pepe"
+   ]
+  },
+  {
+   "item": "Chief White Yeti Horn",
+   "monsters": [
+    "Yeti and King Pepe"
+   ]
+  },
+  {
+   "item": "Chief Gold Yeti Horn",
+   "monsters": [
+    "Gold Yeti and King Pepe"
+   ]
+  },
+  {
+   "item": "The Royal Seal of the Mushking Empire",
+   "monsters": [
+    "Prime Minister"
+   ]
+  },
+  {
+   "item": "Octopus Leg",
+   "monsters": [
+    "Octopus"
+   ]
+  },
+  {
+   "item": "Stirge Wing",
+   "monsters": [
+    "Stirge"
+   ]
+  },
+  {
+   "item": "Tablecloth",
+   "monsters": [
+    "Jr. Wraith"
+   ]
+  },
+  {
+   "item": "Medicine With Weird Vibes",
+   "monsters": [
+    "Wraith"
+   ]
+  },
+  {
+   "item": "Someone's Hat",
+   "monsters": [
+    "Shade"
+   ]
+  },
+  {
+   "item": "Jr. Necki Skin",
+   "monsters": [
+    "Jr. Necki"
+   ]
+  },
+  {
+   "item": "Ligator Skin",
+   "monsters": [
+    "Ligator",
+    "Dyle"
+   ]
+  },
+  {
+   "item": "Croco Skin",
+   "monsters": [
+    "Croco"
+   ]
+  },
+  {
+   "item": "Mud Clump",
+   "monsters": [
+    "Muddy Swamp Monster"
+   ]
+  },
+  {
+   "item": "Grassy Mud Clump",
+   "monsters": [
+    "Muddy Sprout Monster"
+   ]
+  },
+  {
+   "item": "Cherry Bubble",
+   "monsters": [
+    "Cherry Bubble Tea"
+   ]
+  },
+  {
+   "item": "Mango Bubble",
+   "monsters": [
+    "Mango Bubble Tea"
+   ]
+  },
+  {
+   "item": "Melon Bubble",
+   "monsters": [
+    "Melon Bubble Tea"
+   ]
+  },
+  {
+   "item": "Yeti Keychain",
+   "monsters": [
+    "Yeti Doll"
+   ]
+  },
+  {
+   "item": "Jr. Pepe Keychain",
+   "monsters": [
+    "Jr. Pepe Doll"
+   ]
+  },
+  {
+   "item": "Orange Mushroom Doll",
+   "monsters": [
+    "Transformed Doll Claw Game"
+   ]
+  },
+  {
+   "item": "Blue Perfume",
+   "monsters": [
+    "Blue Perfume"
+   ]
+  },
+  {
+   "item": "Yellow Perfume",
+   "monsters": [
+    "Yellow Perfume"
+   ]
+  },
+  {
+   "item": "Pink Perfume",
+   "monsters": [
+    "Pink Perfume"
+   ]
+  },
+  {
+   "item": "Kid Mannequin's Bunny Suit",
+   "monsters": [
+    "Female Mannequin"
+   ]
+  },
+  {
+   "item": "Female Mannequin's Wig",
+   "monsters": [
+    "Female Mannequin"
+   ]
+  },
+  {
+   "item": "Male Mannequin's Fedora",
+   "monsters": [
+    "Male Mannequin"
+   ]
+  },
+  {
+   "item": "Latest Hits Compilation",
+   "monsters": [
+    "Latest Hits Compilation"
+   ]
+  },
+  {
+   "item": "Greatest Oldies",
+   "monsters": [
+    "Greatest Oldies"
+   ]
+  },
+  {
+   "item": "Cheap Speakers",
+   "monsters": [
+    "Cheap Amplifier"
+   ]
+  },
+  {
+   "item": "Fancy Amplifier Cables",
+   "monsters": [
+    "Fancy Amplifier"
+   ]
+  },
+  {
+   "item": "Pig's Head",
+   "monsters": [
+    "Pig",
+    "Ribbon Pig",
+    "Blue Ribbon Pig"
+   ]
+  },
+  {
+   "item": "Pig's Ribbon",
+   "monsters": [
+    "Ribbon Pig"
+   ]
+  },
+  {
+   "item": "Pig's Blue Ribbon",
+   "monsters": [
+    "Blue Ribbon Pig"
+   ]
+  },
+  {
+   "item": "Yellow Starfish Leg",
+   "monsters": [
+    "Yellow Starfish"
+   ]
+  },
+  {
+   "item": "Angry Starfish Leg",
+   "monsters": [
+    "Angry Starfish"
+   ]
+  },
+  {
+   "item": "Jellyfish Body",
+   "monsters": [
+    "Jellyfish"
+   ]
+  },
+  {
+   "item": "Cool Jellyfish Body",
+   "monsters": [
+    "Cool Jellyfish"
+   ]
+  },
+  {
+   "item": "Lorang Claw",
+   "monsters": [
+    "Lorang"
+   ]
+  },
+  {
+   "item": "Clang Claw",
+   "monsters": [
+    "Clang"
+   ]
+  },
+  {
+   "item": "Tortie Shell",
+   "monsters": [
+    "Tortie"
+   ]
+  },
+  {
+   "item": "Palm Leaf",
+   "monsters": [
+    "Palm Tree Slime"
+   ]
+  },
+  {
+   "item": "Coconut",
+   "monsters": [
+    "Coconut Slime"
+   ]
+  },
+  {
+   "item": "Emerald Clam",
+   "monsters": [
+    "Emerald Clam Slime"
+   ]
+  },
+  {
+   "item": "Violet Clam",
+   "monsters": [
+    "Violet Clam Slime"
+   ]
+  },
+  {
+   "item": "Seagull Baggy",
+   "monsters": [
+    "Seagull Slime"
+   ]
+  },
+  {
+   "item": "Red Inner Tube",
+   "monsters": [
+    "Red Tube Slime"
+   ]
+  },
+  {
+   "item": "Blue Inner Tube",
+   "monsters": [
+    "Blue Tube Slime"
+   ]
+  },
+  {
+   "item": "Fried Shrimp Bite",
+   "monsters": [
+    "Shrimp Slime"
+   ]
+  },
+  {
+   "item": "Flying Fish",
+   "monsters": [
+    "Flying Fish Slime"
+   ]
+  },
+  {
+   "item": "Blue Ink Sack",
+   "monsters": [
+    "Starfish Octopus Slime"
+   ]
+  },
+  {
+   "item": "Giant Octopus Tentacle",
+   "monsters": [
+    "Captain Darkgoo"
+   ]
+  },
+  {
+   "item": "Orange Ink Sack",
+   "monsters": [
+    "Seashell Octopus Slime"
+   ]
+  },
+  {
+   "item": "Drake Skull",
+   "monsters": [
+    "Copper Drake",
+    "Drake",
+    "Red Drake"
+   ]
+  },
+  {
+   "item": "Piece of Balrog Leather",
+   "monsters": [
+    "Balrog"
+   ]
+  },
+  {
+   "item": "Ice Backbone",
+   "monsters": [
+    "Ice Drake"
+   ]
+  },
+  {
+   "item": "Dark Drake's Horn",
+   "monsters": [
+    "Dark Drake"
+   ]
+  },
+  {
+   "item": "Dragon Skin",
+   "monsters": [
+    "Copper Drake",
+    "Drake",
+    "Red Drake",
+    "Ice Drake",
+    "Dark Drake"
+   ]
+  },
+  {
+   "item": "Wild Kargo Eye",
+   "monsters": [
+    "Wild Kargo"
+   ]
+  },
+  {
+   "item": "Tauromacis Horn",
+   "monsters": [
+    "Tauromacis"
+   ]
+  },
+  {
+   "item": "Taurospear Horn",
+   "monsters": [
+    "Taurospear"
+   ]
+  },
+  {
+   "item": "Burning Tail",
+   "monsters": [
+    "Blazing Imp",
+    "Elite Blazing Imp"
+   ]
+  },
+  {
+   "item": "Sharp Tail",
+   "monsters": [
+    "Pointy Imp",
+    "Elite Pointy Imp"
+   ]
+  }
+ ]
+}

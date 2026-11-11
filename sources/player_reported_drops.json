@@ -1,7 +1,13 @@
 {
- "about": "Drops players report from playing Classic, by monster and item name as the game shows them. Unverified against any database; presence only. Added by Leafline's maintainer.",
+ "about": "Drops players report from playing Classic, by monster and item name as the game shows them. Unverified against any database; presence only. Added by Leafline's maintainer. An item written `Name #id` means that one of several items sharing the name.",
  "added": "2026-11-11",
  "rows": [
+  {
+   "monster": "Tutorial Jr. Sentinel",
+   "items": [
+    "Jr. Sentinel Shellpiece #4000000"
+   ]
+  },
   {
    "monster": "Snail",
    "items": [

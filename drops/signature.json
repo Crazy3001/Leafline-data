@@ -1,8 +1,22 @@
 {
  "schema": 1,
- "about": "The etc items each monster drops. Presence only, no rates. Keyed by OSMS's monster and item ids. Each drop names its sources: client (the game's own item text names the monster), strategywiki (StrategyWiki's Victoria Island drop table, from later global MapleStory) and player (reported by players of Classic, unverified; the only source for shared drops such as Leather, ores and feathers).",
+ "about": "The etc items each monster drops. Presence only, no rates. Keyed by OSMS's monster and item ids. Each drop names its sources: client (the game's own item text names the monster), strategywiki (StrategyWiki's Victoria Island drop table, from later global MapleStory) and player (reported by players of Classic, unverified; the only source for shared drops such as Leather, ores and feathers). quest: true marks items that only drop while a quest wants them.",
  "licence": "CC BY-SA 4.0. Includes data from StrategyWiki (https://strategywiki.org/wiki/MapleStory/Drops_(Victoria_Island), revision 841577), CC BY-SA 4.0. Game data is Nexon's.",
  "monsters": [
+  {
+   "id": 1,
+   "name": "Tutorial Jr. Sentinel",
+   "drops": [
+    {
+     "item": 4000000,
+     "name": "Jr. Sentinel Shellpiece",
+     "sources": [
+      "player"
+     ],
+     "quest": true
+    }
+   ]
+  },
   {
    "id": 2,
    "name": "Snail",
@@ -172,21 +186,24 @@
      "name": "Omok Piece: Slime",
      "sources": [
       "player"
-     ]
+     ],
+     "quest": true
     },
     {
      "item": 4031050,
      "name": "Omok Piece: Slime",
      "sources": [
       "player"
-     ]
+     ],
+     "quest": true
     },
     {
      "item": 4031053,
      "name": "Omok Piece: Slime",
      "sources": [
       "player"
-     ]
+     ],
+     "quest": true
     }
    ]
   },
@@ -380,21 +397,24 @@
      "name": "Omok Piece: Octopus",
      "sources": [
       "player"
-     ]
+     ],
+     "quest": true
     },
     {
      "item": 4031059,
      "name": "Omok Piece: Octopus",
      "sources": [
       "player"
-     ]
+     ],
+     "quest": true
     },
     {
      "item": 4031063,
      "name": "Omok Piece: Octopus",
      "sources": [
       "player"
-     ]
+     ],
+     "quest": true
     }
    ]
   },
@@ -583,7 +603,8 @@
      "name": "Stump's Teardrop",
      "sources": [
       "player"
-     ]
+     ],
+     "quest": true
     }
    ]
   },

@@ -99,7 +99,13 @@ def main() -> None:
         if not mids:
             unmatched.append(row["monster"])
         for name in row["items"]:
-            found = any_etc.get(name.lower(), [])
+            # "Name #4000000" picks one of several items that share a name.
+            pinned = re.fullmatch(r"(.+?) #(\d+)", name)
+            if pinned:
+                name, wanted = pinned.group(1), int(pinned.group(2))
+                found = [i for i in any_etc.get(name.lower(), []) if i == wanted]
+            else:
+                found = any_etc.get(name.lower(), [])
             if not found:
                 unmatched.append(f"{row['monster']}: {name}")
             for item_id in found:
@@ -110,7 +116,11 @@ def main() -> None:
 
     by_monster = defaultdict(list)
     for (mid, item_id), sources in pairs.items():
-        by_monster[mid].append({"item": item_id, "name": items[item_id]["name"], "sources": sorted(sources)})
+        drop = {"item": item_id, "name": items[item_id]["name"], "sources": sorted(sources)}
+        # The client marks items that only drop while a quest wants them.
+        if (items[item_id].get("stats") or {}).get("quest"):
+            drop["quest"] = True
+        by_monster[mid].append(drop)
     names_by_id = {m["id"]: m["name"] for m in monsters}
     out = [
         {"id": mid, "name": names_by_id[mid], "drops": sorted(drops, key=lambda d: d["item"])}
@@ -123,7 +133,7 @@ def main() -> None:
             "ids. Each drop names its sources: client (the game's own item text names the monster), "
             "strategywiki (StrategyWiki's Victoria Island drop table, from later global MapleStory) and "
             "player (reported by players of Classic, unverified; the only source for shared drops such as "
-            "Leather, ores and feathers)."
+            "Leather, ores and feathers). quest: true marks items that only drop while a quest wants them."
         ),
         "licence": (
             "CC BY-SA 4.0. Includes data from StrategyWiki (https://strategywiki.org/wiki/MapleStory/"

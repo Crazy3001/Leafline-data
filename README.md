@@ -22,7 +22,6 @@ Everything is keyed by the ids OSMS uses, so it joins directly onto OSMS's files
 - Extraction runs on a developer's PC with the game fully closed (`tools/extract.py` refuses to run
   while `MapleStory.exe` is open). Leafline itself never opens game files.
 - Never commit game files (`*.wz`, `*.ms`, `*.img`); `.gitignore` blocks them.
-- Keep this repo private until OSMS's maintainer has been asked about the mirror.
 
 ## Updating
 
@@ -36,5 +35,9 @@ and property trees only; image and sound data are skipped, never decoded.
 
 ## Credits
 
-Map, monster, NPC, quest, item, skill and recipe data: OSMS Data Explorer (https://osmsdataexplorer.com),
-CC BY 4.0, copied without changes. MapleStory and its game data are property of Nexon.
+Everything under `osms/`, copied without changes, in the form OSMS asks for:
+
+> Data from OSMS Data Explorer (https://osmsdataexplorer.com), CC BY 4.0
+
+MapleStory and its game content (names, text, stats, images) are property of Nexon and are not
+covered by OSMS's licence or by anything in this repo.

@@ -4,8 +4,8 @@
  "source": {
   "wz_version": 779,
   "files": {
-   "Quest/QuestData/QuestData_000.wz": "a96a829bcf0020dc84c823d10a56b8b59739efee61aa6a20e6239eab9e2e4298",
-   "String/String_000.wz": "b51c05450fcc416d92dc32106d3bf6bd3c163270068f8ee9e97222a425298391"
+   "Quest/QuestData/QuestData_000.wz": "bc9b875d41786133780dcf53bef7c3046a75c6a9781019f4c79070dd447903ce",
+   "String/String_000.wz": "697ea3472124b4a8b9fe685d589be92413d6530928d4e83d5d9fa121f4850ebe"
   }
  },
  "quests": [
@@ -899,6 +899,69 @@
    "level_to_start": 34
   },
   {
+   "id": 10422,
+   "giver": 512,
+   "turn_in": 512,
+   "level_to_start": 19
+  },
+  {
+   "id": 10423,
+   "giver": 512,
+   "turn_in": 512,
+   "level_to_start": 24
+  },
+  {
+   "id": 10424,
+   "giver": 512,
+   "turn_in": 512,
+   "level_to_start": 24
+  },
+  {
+   "id": 10425,
+   "giver": 517,
+   "turn_in": 516,
+   "level_to_start": 45
+  },
+  {
+   "id": 10426,
+   "giver": 502,
+   "turn_in": 502,
+   "level_to_start": 22
+  },
+  {
+   "id": 10427,
+   "giver": 501,
+   "turn_in": 501,
+   "level_to_start": 38
+  },
+  {
+   "id": 10428,
+   "giver": 502,
+   "turn_in": 502,
+   "level_to_start": 50
+  },
+  {
+   "id": 10429,
+   "giver": 502,
+   "turn_in": 502,
+   "level_to_start": 58,
+   "opens": "2026-12-09T00:00"
+  },
+  {
+   "id": 10430,
+   "giver": 502,
+   "turn_in": 502,
+   "level_to_start": 65,
+   "opens": "2026-12-09T00:00"
+  },
+  {
+   "id": 10431,
+   "giver": 502,
+   "turn_in": 502,
+   "level_to_start": 65,
+   "opens": "2026-12-09T00:00"
+  },
+  {
    "id": 10500,
    "giver": 608,
    "turn_in": 320,
@@ -965,74 +1028,238 @@
    "level_to_start": 50
   },
   {
-   "id": 10617,
-   "giver": 707,
-   "turn_in": 711,
-   "level_to_start": 45,
-   "opens": "2026-12-09T00:00"
+   "id": 10511,
+   "giver": 603,
+   "turn_in": 603,
+   "level_to_start": 54
   },
   {
-   "id": 10618,
-   "giver": 711,
-   "turn_in": 711,
-   "level_to_start": 45,
-   "opens": "2026-12-09T00:00"
+   "id": 10512,
+   "giver": 606,
+   "turn_in": 606,
+   "level_to_start": 22
   },
   {
-   "id": 10619,
-   "giver": 712,
-   "turn_in": 712,
-   "level_to_start": 50,
-   "opens": "2026-12-09T00:00"
+   "id": 10513,
+   "giver": 606,
+   "turn_in": 603,
+   "level_to_start": 22
   },
   {
-   "id": 10620,
-   "giver": 712,
+   "id": 10514,
+   "giver": 603,
+   "turn_in": 603,
+   "level_to_start": 40
+  },
+  {
+   "id": 10515,
+   "giver": 603,
+   "turn_in": 502,
+   "level_to_start": 40
+  },
+  {
+   "id": 10600,
+   "giver": 701,
+   "turn_in": 701,
+   "level_to_start": 39
+  },
+  {
+   "id": 10601,
+   "giver": 701,
+   "turn_in": 701,
+   "level_to_start": 39
+  },
+  {
+   "id": 10602,
+   "giver": 701,
+   "turn_in": 701,
+   "level_to_start": 42
+  },
+  {
+   "id": 10603,
+   "giver": 703,
+   "turn_in": 703,
+   "level_to_start": 49
+  },
+  {
+   "id": 10604,
+   "giver": 703,
    "turn_in": 313,
-   "level_to_start": 50,
-   "opens": "2026-12-09T00:00"
+   "level_to_start": 49
+  },
+  {
+   "id": 10607,
+   "giver": 313,
+   "turn_in": 313,
+   "level_to_start": 39
+  },
+  {
+   "id": 10608,
+   "giver": 313,
+   "turn_in": 304,
+   "level_to_start": 39
+  },
+  {
+   "id": 10609,
+   "giver": 304,
+   "turn_in": 304,
+   "level_to_start": 39
+  },
+  {
+   "id": 10610,
+   "giver": 304,
+   "turn_in": 313,
+   "level_to_start": 39
+  },
+  {
+   "id": 10611,
+   "giver": 313,
+   "turn_in": 702,
+   "level_to_start": 39
+  },
+  {
+   "id": 10612,
+   "giver": 702,
+   "turn_in": 702,
+   "level_to_start": 40
+  },
+  {
+   "id": 10613,
+   "giver": 702,
+   "turn_in": 304,
+   "level_to_start": 40
+  },
+  {
+   "id": 10614,
+   "giver": 305,
+   "turn_in": 702,
+   "level_to_start": 45
+  },
+  {
+   "id": 10615,
+   "giver": 701,
+   "turn_in": 702,
+   "level_to_start": 45
   },
   {
    "id": 10621,
    "giver": 715,
    "turn_in": 715,
-   "level_to_start": 50,
-   "opens": "2026-11-18T00:00"
+   "level_to_start": 50
   },
   {
    "id": 10622,
    "giver": 715,
    "turn_in": 712,
-   "level_to_start": 50,
-   "opens": "2026-11-18T00:00"
+   "level_to_start": 50
   },
   {
    "id": 10623,
    "giver": 712,
    "turn_in": 711,
-   "level_to_start": 50,
-   "opens": "2026-11-18T00:00"
+   "level_to_start": 50
   },
   {
    "id": 10624,
    "giver": 711,
    "turn_in": 711,
-   "level_to_start": 55,
-   "opens": "2026-11-18T00:00"
+   "level_to_start": 53
   },
   {
    "id": 10625,
    "giver": 711,
    "turn_in": 712,
-   "level_to_start": 55,
-   "opens": "2026-11-18T00:00"
+   "level_to_start": 53
   },
   {
    "id": 10626,
    "giver": 712,
    "turn_in": 715,
-   "level_to_start": 55,
-   "opens": "2026-11-18T00:00"
+   "level_to_start": 53
+  },
+  {
+   "id": 10627,
+   "giver": 702,
+   "turn_in": 437,
+   "level_to_start": 55
+  },
+  {
+   "id": 10628,
+   "giver": 437,
+   "turn_in": 437,
+   "level_to_start": 55
+  },
+  {
+   "id": 10629,
+   "giver": 437,
+   "turn_in": 438,
+   "level_to_start": 55
+  },
+  {
+   "id": 10630,
+   "giver": 438,
+   "turn_in": 712,
+   "level_to_start": 55
+  },
+  {
+   "id": 10631,
+   "giver": 712,
+   "turn_in": 438,
+   "level_to_start": 55
+  },
+  {
+   "id": 10632,
+   "giver": 438,
+   "turn_in": 411,
+   "level_to_start": 55
+  },
+  {
+   "id": 10633,
+   "giver": 411,
+   "turn_in": 437,
+   "level_to_start": 55
+  },
+  {
+   "id": 10634,
+   "giver": 437,
+   "turn_in": 438,
+   "level_to_start": 55
+  },
+  {
+   "id": 10635,
+   "giver": 438,
+   "turn_in": 702,
+   "level_to_start": 55
+  },
+  {
+   "id": 10636,
+   "giver": 717,
+   "turn_in": 717,
+   "level_to_start": 55
+  },
+  {
+   "id": 10637,
+   "giver": 717,
+   "turn_in": 717,
+   "level_to_start": 55
+  },
+  {
+   "id": 10638,
+   "giver": 717,
+   "turn_in": 702,
+   "level_to_start": 55
+  },
+  {
+   "id": 10639,
+   "giver": 702,
+   "turn_in": 717,
+   "level_to_start": 55
+  },
+  {
+   "id": 10640,
+   "giver": 717,
+   "turn_in": 717,
+   "level_to_start": 55
   },
   {
    "id": 10700,
@@ -1057,6 +1284,30 @@
    "giver": 802,
    "turn_in": 802,
    "level_to_start": 37
+  },
+  {
+   "id": 10800,
+   "giver": 617,
+   "turn_in": 617,
+   "level_to_start": 26
+  },
+  {
+   "id": 10801,
+   "giver": 617,
+   "turn_in": 617,
+   "level_to_start": 24
+  },
+  {
+   "id": 10802,
+   "giver": 617,
+   "turn_in": 617,
+   "level_to_start": 24
+  },
+  {
+   "id": 10803,
+   "giver": 617,
+   "turn_in": 617,
+   "level_to_start": 24
   },
   {
    "id": 20000,
@@ -1457,6 +1708,47 @@
    "level_to_finish": 10,
    "opens": "2026-10-28T00:00",
    "closes": "2026-11-19T00:00"
+  },
+  {
+   "id": 500012,
+   "giver": 900027,
+   "turn_in": 900027,
+   "level_to_start": 10,
+   "opens": "2026-11-18T16:00",
+   "closes": "2026-12-09T00:00"
+  },
+  {
+   "id": 500013,
+   "turn_in": 900027,
+   "level_to_start": 10,
+   "opens": "2026-11-18T16:00",
+   "closes": "2026-12-09T00:00"
+  },
+  {
+   "id": 500014,
+   "giver": 900027,
+   "turn_in": 900027,
+   "level_to_start": 10,
+   "opens": "2026-11-18T16:00",
+   "closes": "2026-12-09T00:00"
+  },
+  {
+   "id": 500015,
+   "giver": 800019,
+   "turn_in": 800019,
+   "level_to_start": 11,
+   "opens": "2026-11-18T00:00",
+   "closes": "2026-12-10T00:00"
+  },
+  {
+   "id": 500016,
+   "giver": 9010000,
+   "turn_in": 9010000,
+   "level_to_start": 10,
+   "level_to_finish": 10,
+   "opens": "2026-11-18T16:00",
+   "closes": "2026-12-16T23:59",
+   "starts_itself": true
   },
   {
    "id": 506000,

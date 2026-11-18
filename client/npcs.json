@@ -4,8 +4,8 @@
  "source": {
   "wz_version": 779,
   "files": {
-   "Quest/QuestData/QuestData_000.wz": "a96a829bcf0020dc84c823d10a56b8b59739efee61aa6a20e6239eab9e2e4298",
-   "String/String_000.wz": "b51c05450fcc416d92dc32106d3bf6bd3c163270068f8ee9e97222a425298391"
+   "Quest/QuestData/QuestData_000.wz": "bc9b875d41786133780dcf53bef7c3046a75c6a9781019f4c79070dd447903ce",
+   "String/String_000.wz": "697ea3472124b4a8b9fe685d589be92413d6530928d4e83d5d9fa121f4850ebe"
   }
  },
  "npcs": [
@@ -315,7 +315,7 @@
   },
   {
    "id": 707,
-   "role": "Arcforger"
+   "role": "Hollow Furnishings"
   },
   {
    "id": 708,
@@ -328,6 +328,10 @@
   {
    "id": 710,
    "role": "Arcforger"
+  },
+  {
+   "id": 716,
+   "role": "Wandering Peddler"
   },
   {
    "id": 800,
@@ -458,6 +462,10 @@
    "role": "Storage Keeper"
   },
   {
+   "id": 800026,
+   "role": "Change Name"
+  },
+  {
    "id": 900003,
    "role": "Event Assistant"
   },
@@ -484,6 +492,10 @@
   {
    "id": 900026,
    "role": "Witch at Large - Halloween"
+  },
+  {
+   "id": 900027,
+   "role": "Pie Advocate - Thanksgiving"
   },
   {
    "id": 9090000,

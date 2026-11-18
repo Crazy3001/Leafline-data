@@ -3,8 +3,8 @@
  "about": "Map layout numbers from the MapleStory Classic client, keyed by the map id OSMS uses. width and height are the map's camera bounds in pixels; walkable is the summed horizontal length of every floor; platforms counts connected floor pieces; spawn_platforms how many of them monsters spawn on. Game data is Nexon's.",
  "source": {
   "files": {
-   "Map/Map/Map0/Map0_000.wz": "740678ee4e520915b1deba5507e0caedc95a671ac9d3ec5e5b6732c8ef95524f",
-   "Map/Map/Map9/Map9_000.wz": "1428f16155d35a8274f9e2540ad23794c3920899e6937e4e00bd9e19bd122c03"
+   "Map/Map/Map0/Map0_000.wz": "4681f54813c926298f4783831681a56384475327ecd4f59a4fed9a006713b186",
+   "Map/Map/Map9/Map9_000.wz": "ef8194a80d23c2b522b242096f71063597b2d54b73bb2f918850aad83a745833"
   }
  },
  "maps": [
@@ -285,9 +285,9 @@
   },
   {
    "id": 10000000,
-   "width": 6254,
+   "width": 6614,
    "height": 2028,
-   "walkable": 25148,
+   "walkable": 25868,
    "platforms": 29,
    "spawn_points": 0,
    "spawn_platforms": 0,
@@ -639,8 +639,8 @@
    "id": 10001050,
    "width": 4826,
    "height": 940,
-   "walkable": 8277,
-   "platforms": 9,
+   "walkable": 8443,
+   "platforms": 10,
    "spawn_points": 0,
    "spawn_platforms": 0,
    "ropes": 0,
@@ -870,8 +870,8 @@
    "id": 10002005,
    "width": 678,
    "height": 952,
-   "walkable": 2155,
-   "platforms": 6,
+   "walkable": 2135,
+   "platforms": 5,
    "spawn_points": 0,
    "spawn_platforms": 0,
    "ropes": 0,
@@ -1607,7 +1607,7 @@
    "id": 10003091,
    "width": 3581,
    "height": 1554,
-   "walkable": 12101,
+   "walkable": 12075,
    "platforms": 9,
    "spawn_points": 79,
    "spawn_platforms": 7,
@@ -2751,7 +2751,7 @@
    "id": 10005074,
    "width": 1440,
    "height": 2640,
-   "walkable": 6567,
+   "walkable": 6422,
    "platforms": 2,
    "spawn_points": 25,
    "spawn_platforms": 1,
@@ -2902,14 +2902,322 @@
    "ladders": 1
   },
   {
-   "id": 10006121,
-   "width": 1408,
-   "height": 959,
-   "walkable": 2652,
+   "id": 10006000,
+   "width": 2488,
+   "height": 1305,
+   "walkable": 2926,
+   "platforms": 2,
+   "spawn_points": 0,
+   "spawn_platforms": 0,
+   "ropes": 2,
+   "ladders": 0
+  },
+  {
+   "id": 10006001,
+   "width": 800,
+   "height": 600,
+   "walkable": 1958,
+   "platforms": 2,
+   "spawn_points": 0,
+   "spawn_platforms": 0,
+   "ropes": 0,
+   "ladders": 0
+  },
+  {
+   "id": 10006002,
+   "width": 800,
+   "height": 600,
+   "walkable": 1716,
+   "platforms": 2,
+   "spawn_points": 0,
+   "spawn_platforms": 0,
+   "ropes": 0,
+   "ladders": 0
+  },
+  {
+   "id": 10006003,
+   "width": 1498,
+   "height": 1185,
+   "walkable": 1796,
    "platforms": 3,
-   "spawn_points": 8,
+   "spawn_points": 0,
+   "spawn_platforms": 0,
+   "ropes": 1,
+   "ladders": 0
+  },
+  {
+   "id": 10006010,
+   "width": 3208,
+   "height": 1665,
+   "walkable": 6177,
+   "platforms": 2,
+   "spawn_points": 23,
+   "spawn_platforms": 2,
+   "ropes": 3,
+   "ladders": 2
+  },
+  {
+   "id": 10006020,
+   "width": 1408,
+   "height": 1905,
+   "walkable": 5209,
+   "platforms": 2,
+   "spawn_points": 19,
+   "spawn_platforms": 1,
+   "ropes": 5,
+   "ladders": 1
+  },
+  {
+   "id": 10006022,
+   "width": 4828,
+   "height": 2350,
+   "walkable": 25807,
+   "platforms": 25,
+   "spawn_points": 69,
+   "spawn_platforms": 21,
+   "ropes": 20,
+   "ladders": 12
+  },
+  {
+   "id": 10006030,
+   "width": 2578,
+   "height": 1545,
+   "walkable": 4398,
+   "platforms": 3,
+   "spawn_points": 11,
+   "spawn_platforms": 1,
+   "ropes": 1,
+   "ladders": 1
+  },
+  {
+   "id": 10006031,
+   "width": 2488,
+   "height": 1385,
+   "walkable": 7035,
+   "platforms": 8,
+   "spawn_points": 26,
+   "spawn_platforms": 5,
+   "ropes": 10,
+   "ladders": 0
+  },
+  {
+   "id": 10006040,
+   "width": 3748,
+   "height": 2145,
+   "walkable": 8746,
+   "platforms": 3,
+   "spawn_points": 27,
    "spawn_platforms": 2,
    "ropes": 5,
+   "ladders": 6
+  },
+  {
+   "id": 10006050,
+   "width": 3388,
+   "height": 1943,
+   "walkable": 9564,
+   "platforms": 4,
+   "spawn_points": 32,
+   "spawn_platforms": 2,
+   "ropes": 6,
+   "ladders": 0
+  },
+  {
+   "id": 10006060,
+   "width": 4198,
+   "height": 1703,
+   "walkable": 9562,
+   "platforms": 3,
+   "spawn_points": 44,
+   "spawn_platforms": 2,
+   "ropes": 2,
+   "ladders": 2
+  },
+  {
+   "id": 10006070,
+   "width": 4648,
+   "height": 1605,
+   "walkable": 10967,
+   "platforms": 7,
+   "spawn_points": 25,
+   "spawn_platforms": 5,
+   "ropes": 7,
+   "ladders": 0
+  },
+  {
+   "id": 10006071,
+   "width": 1530,
+   "height": 3285,
+   "walkable": 6728,
+   "platforms": 1,
+   "spawn_points": 28,
+   "spawn_platforms": 1,
+   "ropes": 8,
+   "ladders": 0
+  },
+  {
+   "id": 10006072,
+   "width": 2308,
+   "height": 3245,
+   "walkable": 11650,
+   "platforms": 4,
+   "spawn_points": 35,
+   "spawn_platforms": 4,
+   "ropes": 10,
+   "ladders": 10
+  },
+  {
+   "id": 10006080,
+   "width": 4648,
+   "height": 1305,
+   "walkable": 9443,
+   "platforms": 3,
+   "spawn_points": 32,
+   "spawn_platforms": 3,
+   "ropes": 20,
+   "ladders": 4
+  },
+  {
+   "id": 10006090,
+   "width": 1948,
+   "height": 2659,
+   "walkable": 6787,
+   "platforms": 3,
+   "spawn_points": 23,
+   "spawn_platforms": 1,
+   "ropes": 5,
+   "ladders": 0
+  },
+  {
+   "id": 10006100,
+   "width": 1588,
+   "height": 2819,
+   "walkable": 10197,
+   "platforms": 2,
+   "spawn_points": 29,
+   "spawn_platforms": 1,
+   "ropes": 6,
+   "ladders": 0
+  },
+  {
+   "id": 10006110,
+   "width": 1588,
+   "height": 1979,
+   "walkable": 4794,
+   "platforms": 1,
+   "spawn_points": 14,
+   "spawn_platforms": 1,
+   "ropes": 3,
+   "ladders": 1
+  },
+  {
+   "id": 10006120,
+   "width": 3118,
+   "height": 959,
+   "walkable": 6067,
+   "platforms": 4,
+   "spawn_points": 20,
+   "spawn_platforms": 3,
+   "ropes": 5,
+   "ladders": 4
+  },
+  {
+   "id": 10006121,
+   "width": 1588,
+   "height": 959,
+   "walkable": 2688,
+   "platforms": 2,
+   "spawn_points": 8,
+   "spawn_platforms": 1,
+   "ropes": 5,
+   "ladders": 0
+  },
+  {
+   "id": 10006122,
+   "width": 800,
+   "height": 600,
+   "walkable": 1880,
+   "platforms": 2,
+   "spawn_points": 0,
+   "spawn_platforms": 0,
+   "ropes": 0,
+   "ladders": 0
+  },
+  {
+   "id": 10006130,
+   "width": 3208,
+   "height": 959,
+   "walkable": 6237,
+   "platforms": 2,
+   "spawn_points": 24,
+   "spawn_platforms": 2,
+   "ropes": 0,
+   "ladders": 6
+  },
+  {
+   "id": 10006140,
+   "width": 2308,
+   "height": 1979,
+   "walkable": 6607,
+   "platforms": 8,
+   "spawn_points": 18,
+   "spawn_platforms": 8,
+   "ropes": 8,
+   "ladders": 3
+  },
+  {
+   "id": 10006150,
+   "width": 2128,
+   "height": 2819,
+   "walkable": 14071,
+   "platforms": 1,
+   "spawn_points": 42,
+   "spawn_platforms": 1,
+   "ropes": 7,
+   "ladders": 0
+  },
+  {
+   "id": 10006152,
+   "width": 800,
+   "height": 600,
+   "walkable": 1880,
+   "platforms": 2,
+   "spawn_points": 0,
+   "spawn_platforms": 0,
+   "ropes": 0,
+   "ladders": 0
+  },
+  {
+   "id": 10006160,
+   "width": 2668,
+   "height": 2099,
+   "walkable": 11937,
+   "platforms": 12,
+   "spawn_points": 37,
+   "spawn_platforms": 7,
+   "ropes": 11,
+   "ladders": 5
+  },
+  {
+   "id": 10006161,
+   "width": 2398,
+   "height": 1859,
+   "walkable": 7829,
+   "platforms": 14,
+   "spawn_points": 24,
+   "spawn_platforms": 3,
+   "ropes": 5,
+   "ladders": 3
+  },
+  {
+   "id": 10006162,
+   "width": 3658,
+   "height": 959,
+   "walkable": 7347,
+   "platforms": 4,
+   "spawn_points": 27,
+   "spawn_platforms": 3,
+   "ropes": 8,
    "ladders": 0
   },
   {
@@ -3344,11 +3652,11 @@
   {
    "id": 80003000,
    "width": 1844,
-   "height": 1555,
+   "height": 1512,
    "walkable": 8544,
    "platforms": 16,
-   "spawn_points": 10,
-   "spawn_platforms": 4,
+   "spawn_points": 8,
+   "spawn_platforms": 3,
    "ropes": 12,
    "ladders": 3
   },
@@ -3377,7 +3685,7 @@
   {
    "id": 80003300,
    "width": 1408,
-   "height": 550,
+   "height": 768,
    "walkable": 1428,
    "platforms": 1,
    "spawn_points": 0,
@@ -3387,8 +3695,8 @@
   },
   {
    "id": 80003400,
-   "width": 1428,
-   "height": 505,
+   "width": 1408,
+   "height": 850,
    "walkable": 1998,
    "platforms": 6,
    "spawn_points": 0,
@@ -3541,8 +3849,8 @@
   },
   {
    "id": 90040020,
-   "width": 2200,
-   "height": 1332,
+   "width": 2276,
+   "height": 1370,
    "walkable": 7549,
    "platforms": 3,
    "spawn_points": 0,
@@ -3683,6 +3991,17 @@
    "ladders": 0
   },
   {
+   "id": 99999999,
+   "width": 1498,
+   "height": 460,
+   "walkable": 438,
+   "platforms": 1,
+   "spawn_points": 0,
+   "spawn_platforms": 0,
+   "ropes": 0,
+   "ladders": 0
+  },
+  {
    "id": 900000000,
    "width": 778,
    "height": 550,
@@ -3692,17 +4011,6 @@
    "spawn_platforms": 0,
    "ropes": 1,
    "ladders": 1
-  },
-  {
-   "id": 900000003,
-   "width": 1498,
-   "height": 460,
-   "walkable": 1158,
-   "platforms": 1,
-   "spawn_points": 0,
-   "spawn_platforms": 0,
-   "ropes": 0,
-   "ladders": 0
   }
  ]
 }

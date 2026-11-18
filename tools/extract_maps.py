@@ -5,7 +5,8 @@ has, how many of those monsters spawn on, how many spawn points there are, and i
 ladders. Numbers only: no images, names or text. Run with the game fully closed.
 
 Also compares spawn points and portals with OSMS's maps.json and lists maps that differ, which
-shows whether a game patch changed maps OSMS has not caught up with.
+shows whether a game patch changed maps OSMS has not caught up with. Maps a patch added that OSMS
+doesn't list yet are written too, so their layouts are ready when OSMS adds them.
 
     python tools/extract_maps.py                       # default install path
     python tools/extract_maps.py "D:/Games/maplestorycw"
@@ -90,12 +91,14 @@ def main() -> int:
         files[rel] = sha256(path)
         for entry in wz.root.children:
             name = entry.name.removesuffix(".img")
-            if entry.kind == "img" and name.isdigit() and int(name) in osms:
+            if entry.kind == "img" and name.isdigit():
                 maps[int(name)] = layout(wz.image(entry))
 
     differ = []
     for mid, m in sorted(maps.items()):
-        theirs = osms[mid]
+        theirs = osms.get(mid)
+        if theirs is None:
+            continue
         o_spawns = len(theirs.get("mobs") or [])
         o_portals = sum(1 for x in theirs.get("portals") or [] if x.get("dest_map_id") not in (None, NO_MAP))
         if (m["spawn_points"], m["_portals"]) != (o_spawns, o_portals):
@@ -110,7 +113,9 @@ def main() -> int:
              "floor; platforms counts connected floor pieces; spawn_platforms how many of them monsters spawn on. "
              "Game data is Nexon's.")
     write(ROOT / "client" / "maps.json", {"schema": 1, "about": about, "source": {"files": files}, "maps": out})
-    print(f"{len(maps)} of {len(osms)} OSMS maps -> client/maps.json; not in the client files read: {missing}")
+    new = sorted(set(maps) - set(osms))
+    print(f"{len(maps) - len(new)} of {len(osms)} OSMS maps -> client/maps.json; not in the client files read: {missing}")
+    print(f"{len(new)} maps in the client that OSMS doesn't list yet, written too: {new}")
     print(f"{len(differ)} maps differ from OSMS in spawn points or portals:")
     for line in differ[:40]:
         print("  " + line)

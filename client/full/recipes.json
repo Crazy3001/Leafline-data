@@ -1,0 +1,8494 @@
+[
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 4010100,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 100,
+  "ingredients": [
+   {
+    "item_id": 4010000,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 4010101,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 100,
+  "ingredients": [
+   {
+    "item_id": 4010001,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002017,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 20,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002016,
+    "count": 1
+   },
+   {
+    "item_id": 4010101,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 4010102,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 6,
+  "meso_cost": 200,
+  "ingredients": [
+   {
+    "item_id": 4010002,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002018,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1002016,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082001,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 1200,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 2
+   },
+   {
+    "item_id": 4003006,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002030,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002029,
+    "count": 1
+   },
+   {
+    "item_id": 4010101,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002031,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1002029,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 4010103,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 9,
+  "meso_cost": 300,
+  "ingredients": [
+   {
+    "item_id": 4010003,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 4010106,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 9,
+  "meso_cost": 300,
+  "ingredients": [
+   {
+    "item_id": 4010006,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002033,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002032,
+    "count": 1
+   },
+   {
+    "item_id": 4020106,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002034,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1002032,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002036,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002035,
+    "count": 1
+   },
+   {
+    "item_id": 4010101,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002037,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1002035,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082002,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 3
+   },
+   {
+    "item_id": 4003006,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 3030000,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 100000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 10
+   },
+   {
+    "item_id": 4010100,
+    "count": 10
+   },
+   {
+    "item_id": 4003001,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 3000028,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 15000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4000014,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 4010104,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 12,
+  "meso_cost": 400,
+  "ingredients": [
+   {
+    "item_id": 4010004,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002055,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002054,
+    "count": 1
+   },
+   {
+    "item_id": 4010101,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002056,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1002054,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002058,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002057,
+    "count": 1
+   },
+   {
+    "item_id": 4010101,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002059,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1002057,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082008,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2400,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 4
+   },
+   {
+    "item_id": 4003006,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 3000029,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 20000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4000014,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 3000032,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 20000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 10
+   },
+   {
+    "item_id": 4003000,
+    "count": 40
+   },
+   {
+    "item_id": 4003012,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 4010105,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 15,
+  "meso_cost": 500,
+  "ingredients": [
+   {
+    "item_id": 4010005,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002079,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002078,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002080,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1002078,
+    "count": 1
+   },
+   {
+    "item_id": 4010106,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002088,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002087,
+    "count": 1
+   },
+   {
+    "item_id": 4010106,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002089,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1002087,
+    "count": 1
+   },
+   {
+    "item_id": 4010105,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082018,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4003006,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072044,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4010102,
+    "count": 5
+   },
+   {
+    "item_id": 4003006,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072045,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 3
+   },
+   {
+    "item_id": 4010104,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072046,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 3
+   },
+   {
+    "item_id": 4010106,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072047,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 3
+   },
+   {
+    "item_id": 4000017,
+    "count": 25
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 3000031,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 25000,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 10
+   },
+   {
+    "item_id": 4003008,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 50
+   },
+   {
+    "item_id": 4003012,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002101,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002102,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002101,
+    "count": 1
+   },
+   {
+    "item_id": 4010101,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002103,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1002101,
+    "count": 1
+   },
+   {
+    "item_id": 4010106,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082028,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 3600,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082029,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1082028,
+    "count": 1
+   },
+   {
+    "item_id": 4010101,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082030,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1082028,
+    "count": 1
+   },
+   {
+    "item_id": 4010105,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072062,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4020103,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072063,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4010102,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072064,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4010104,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072065,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4020100,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 3020003,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 300000,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 5
+   },
+   {
+    "item_id": 4010101,
+    "count": 10
+   },
+   {
+    "item_id": 4010100,
+    "count": 10
+   },
+   {
+    "item_id": 4003000,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002121,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002120,
+    "count": 1
+   },
+   {
+    "item_id": 4020100,
+    "count": 7
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002122,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002120,
+    "count": 1
+   },
+   {
+    "item_id": 4020105,
+    "count": 7
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082040,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 7
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082041,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1082040,
+    "count": 1
+   },
+   {
+    "item_id": 4020106,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082042,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1082040,
+    "count": 1
+   },
+   {
+    "item_id": 4020108,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072085,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4020104,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072086,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4010102,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072087,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4020108,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002140,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002139,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 8
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002141,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1002139,
+    "count": 1
+   },
+   {
+    "item_id": 4010106,
+    "count": 8
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1092014,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1092013,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1092015,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1092013,
+    "count": 1
+   },
+   {
+    "item_id": 4010103,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082052,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 8
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082053,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1082052,
+    "count": 1
+   },
+   {
+    "item_id": 4010103,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082054,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1082052,
+    "count": 1
+   },
+   {
+    "item_id": 4020108,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072097,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4010105,
+    "count": 4
+   },
+   {
+    "item_id": 4010106,
+    "count": 2
+   },
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072098,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4010102,
+    "count": 4
+   },
+   {
+    "item_id": 4010106,
+    "count": 2
+   },
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072099,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4010103,
+    "count": 4
+   },
+   {
+    "item_id": 4010106,
+    "count": 2
+   },
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002163,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 58800,
+  "ingredients": [
+   {
+    "item_id": 4010104,
+    "count": 10
+   },
+   {
+    "item_id": 4010103,
+    "count": 5
+   },
+   {
+    "item_id": 4020103,
+    "count": 8
+   },
+   {
+    "item_id": 4003000,
+    "count": 27
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002164,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 58800,
+  "ingredients": [
+   {
+    "item_id": 4010104,
+    "count": 10
+   },
+   {
+    "item_id": 4010102,
+    "count": 5
+   },
+   {
+    "item_id": 4020108,
+    "count": 8
+   },
+   {
+    "item_id": 4003000,
+    "count": 27
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002166,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1002165,
+    "count": 1
+   },
+   {
+    "item_id": 4010104,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1002167,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1002165,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082064,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 13200,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 10
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082065,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1082064,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 8
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1082066,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1082064,
+    "count": 1
+   },
+   {
+    "item_id": 4010106,
+    "count": 8
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072112,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4020108,
+    "count": 2
+   },
+   {
+    "item_id": 4020103,
+    "count": 3
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072113,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4020108,
+    "count": 2
+   },
+   {
+    "item_id": 4010102,
+    "count": 3
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072114,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4020108,
+    "count": 2
+   },
+   {
+    "item_id": 4010105,
+    "count": 3
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Smithing",
+  "discipline_skill_id": 92000000,
+  "output_item_id": 1072115,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4020108,
+    "count": 2
+   },
+   {
+    "item_id": 4010106,
+    "count": 3
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 4003000,
+  "output_count": 10,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 1
+   },
+   {
+    "item_id": 4010101,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1322001,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 20,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1302003,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 2500,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 2
+   },
+   {
+    "item_id": 4003001,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1312003,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 2500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 2
+   },
+   {
+    "item_id": 4003001,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472001,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 3500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 3
+   },
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4003000,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472002,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1472001,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472003,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1472001,
+    "count": 1
+   },
+   {
+    "item_id": 4010106,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1322005,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 2900,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 3
+   },
+   {
+    "item_id": 4003001,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1322006,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 3100,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 3
+   },
+   {
+    "item_id": 4003001,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 3030001,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 100000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 10
+   },
+   {
+    "item_id": 4010100,
+    "count": 10
+   },
+   {
+    "item_id": 4003001,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1412002,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 4500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4003001,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472004,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 4500,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 2
+   },
+   {
+    "item_id": 4010101,
+    "count": 2
+   },
+   {
+    "item_id": 4003006,
+    "count": 20
+   },
+   {
+    "item_id": 4003000,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472005,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1472004,
+    "count": 1
+   },
+   {
+    "item_id": 4010101,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472006,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1472004,
+    "count": 1
+   },
+   {
+    "item_id": 4010103,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1322009,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 3900,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4003001,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 4003000,
+  "output_count": 3,
+  "req_skill_level": 5,
+  "craft_exp": 15,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 4000023,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1422003,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 5500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4003001,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1442003,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 5500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 1
+   },
+   {
+    "item_id": 4003006,
+    "count": 30
+   },
+   {
+    "item_id": 4003001,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472007,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 5500,
+  "ingredients": [
+   {
+    "item_id": 1472000,
+    "count": 1
+   },
+   {
+    "item_id": 4010101,
+    "count": 3
+   },
+   {
+    "item_id": 4003006,
+    "count": 30
+   },
+   {
+    "item_id": 4003001,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1402004,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 6500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 3
+   },
+   {
+    "item_id": 4010102,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472008,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 6500,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 3
+   },
+   {
+    "item_id": 4010101,
+    "count": 3
+   },
+   {
+    "item_id": 4003006,
+    "count": 40
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472009,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1472008,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472010,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1472008,
+    "count": 1
+   },
+   {
+    "item_id": 4010103,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1332011,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 7500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4010102,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1412005,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 9000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4020103,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1422005,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 9000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4010104,
+    "count": 2
+   },
+   {
+    "item_id": 4003001,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1442005,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 9000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4010102,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472011,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 9000,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 4
+   },
+   {
+    "item_id": 4010101,
+    "count": 3
+   },
+   {
+    "item_id": 4003006,
+    "count": 50
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472012,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1472011,
+    "count": 1
+   },
+   {
+    "item_id": 4010104,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472013,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1472011,
+    "count": 1
+   },
+   {
+    "item_id": 4020108,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1332012,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 9500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 6
+   },
+   {
+    "item_id": 4010102,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1412006,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 11500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4010104,
+    "count": 2
+   },
+   {
+    "item_id": 4010106,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1422006,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 11500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4010104,
+    "count": 2
+   },
+   {
+    "item_id": 4010106,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1442006,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 11500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4010102,
+    "count": 2
+   },
+   {
+    "item_id": 4003001,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472014,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 11500,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 4
+   },
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4003006,
+    "count": 60
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472015,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 40000,
+  "ingredients": [
+   {
+    "item_id": 1472014,
+    "count": 1
+   },
+   {
+    "item_id": 4020100,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472016,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 40000,
+  "ingredients": [
+   {
+    "item_id": 1472014,
+    "count": 1
+   },
+   {
+    "item_id": 4010103,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472017,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 45000,
+  "ingredients": [
+   {
+    "item_id": 1472014,
+    "count": 1
+   },
+   {
+    "item_id": 4020108,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1442010,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 45000,
+  "ingredients": [
+   {
+    "item_id": 1442003,
+    "count": 1
+   },
+   {
+    "item_id": 4010106,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 27
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1442012,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 45000,
+  "ingredients": [
+   {
+    "item_id": 1442003,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 27
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1332016,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 13500,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 5
+   },
+   {
+    "item_id": 4010106,
+    "count": 5
+   },
+   {
+    "item_id": 4020107,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1412007,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 16500,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 5
+   },
+   {
+    "item_id": 4010106,
+    "count": 5
+   },
+   {
+    "item_id": 4020107,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1422007,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 16500,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 5
+   },
+   {
+    "item_id": 4010106,
+    "count": 5
+   },
+   {
+    "item_id": 4020107,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1442007,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 16500,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 5
+   },
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4020100,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472018,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 16500,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 5
+   },
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472019,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1472018,
+    "count": 1
+   },
+   {
+    "item_id": 4020100,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472020,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 1472018,
+    "count": 1
+   },
+   {
+    "item_id": 4020105,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Weaponcrafting",
+  "discipline_skill_id": 92010000,
+  "output_item_id": 1472021,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 2000,
+  "ingredients": [
+   {
+    "item_id": 1472018,
+    "count": 1
+   },
+   {
+    "item_id": 4020108,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 4003008,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 100,
+  "ingredients": [
+   {
+    "item_id": 4000010,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 4003008,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 100,
+  "ingredients": [
+   {
+    "item_id": 4000011,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 4003008,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 100,
+  "ingredients": [
+   {
+    "item_id": 4000062,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 4003007,
+  "output_count": 10,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 100,
+  "ingredients": [
+   {
+    "item_id": 4000062,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1002012,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 20,
+  "meso_cost": 600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 2
+   },
+   {
+    "item_id": 4000004,
+    "count": 10
+   },
+   {
+    "item_id": 4003007,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1002013,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 20,
+  "meso_cost": 600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 2
+   },
+   {
+    "item_id": 4000002,
+    "count": 10
+   },
+   {
+    "item_id": 4003007,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082000,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 1200,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 4
+   },
+   {
+    "item_id": 4003007,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1002019,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 4
+   },
+   {
+    "item_id": 4000009,
+    "count": 10
+   },
+   {
+    "item_id": 4003007,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1002020,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 4
+   },
+   {
+    "item_id": 4000002,
+    "count": 10
+   },
+   {
+    "item_id": 4003007,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1002021,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 4
+   },
+   {
+    "item_id": 4000004,
+    "count": 10
+   },
+   {
+    "item_id": 4003007,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1002026,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 4
+   },
+   {
+    "item_id": 4000009,
+    "count": 10
+   },
+   {
+    "item_id": 4003007,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1002028,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 4
+   },
+   {
+    "item_id": 4000006,
+    "count": 10
+   },
+   {
+    "item_id": 4003007,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082003,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 5
+   },
+   {
+    "item_id": 4020102,
+    "count": 1
+   },
+   {
+    "item_id": 4003007,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 3030002,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 100000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4010100,
+    "count": 5
+   },
+   {
+    "item_id": 4003008,
+    "count": 5
+   },
+   {
+    "item_id": 4003001,
+    "count": 10
+   },
+   {
+    "item_id": 4003000,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1062001,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 1360,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 6
+   },
+   {
+    "item_id": 4003011,
+    "count": 1
+   },
+   {
+    "item_id": 4003014,
+    "count": 1
+   },
+   {
+    "item_id": 4003007,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1062002,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 1360,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 6
+   },
+   {
+    "item_id": 4003014,
+    "count": 2
+   },
+   {
+    "item_id": 4003007,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082009,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2400,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 6
+   },
+   {
+    "item_id": 4020102,
+    "count": 2
+   },
+   {
+    "item_id": 4003007,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082010,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2400,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 6
+   },
+   {
+    "item_id": 4020103,
+    "count": 2
+   },
+   {
+    "item_id": 4003007,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082011,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2400,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 6
+   },
+   {
+    "item_id": 4020101,
+    "count": 2
+   },
+   {
+    "item_id": 4003007,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1002084,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 7
+   },
+   {
+    "item_id": 4003014,
+    "count": 1
+   },
+   {
+    "item_id": 4003010,
+    "count": 1
+   },
+   {
+    "item_id": 4003012,
+    "count": 1
+   },
+   {
+    "item_id": 4003007,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1002085,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 7
+   },
+   {
+    "item_id": 4003014,
+    "count": 1
+   },
+   {
+    "item_id": 4003010,
+    "count": 1
+   },
+   {
+    "item_id": 4003011,
+    "count": 1
+   },
+   {
+    "item_id": 4003007,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1002086,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 7
+   },
+   {
+    "item_id": 4003014,
+    "count": 1
+   },
+   {
+    "item_id": 4003010,
+    "count": 1
+   },
+   {
+    "item_id": 4003013,
+    "count": 1
+   },
+   {
+    "item_id": 4003007,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082019,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 7
+   },
+   {
+    "item_id": 4020102,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082020,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 7
+   },
+   {
+    "item_id": 4020100,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082021,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 7
+   },
+   {
+    "item_id": 4020108,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072048,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 7
+   },
+   {
+    "item_id": 4010104,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072049,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 7
+   },
+   {
+    "item_id": 4020106,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072050,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 7
+   },
+   {
+    "item_id": 4020104,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082031,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 3600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 8
+   },
+   {
+    "item_id": 4020100,
+    "count": 4
+   },
+   {
+    "item_id": 4003007,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082032,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 3600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 8
+   },
+   {
+    "item_id": 4020105,
+    "count": 4
+   },
+   {
+    "item_id": 4003007,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082033,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 3600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 8
+   },
+   {
+    "item_id": 4020108,
+    "count": 4
+   },
+   {
+    "item_id": 4003007,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072066,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 8
+   },
+   {
+    "item_id": 4020100,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072067,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 8
+   },
+   {
+    "item_id": 4020102,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072068,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 8
+   },
+   {
+    "item_id": 4010104,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072069,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 8
+   },
+   {
+    "item_id": 4020104,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082043,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 9
+   },
+   {
+    "item_id": 4020100,
+    "count": 5
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082044,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 9
+   },
+   {
+    "item_id": 4020105,
+    "count": 5
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082045,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 9
+   },
+   {
+    "item_id": 4020108,
+    "count": 5
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072088,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 9
+   },
+   {
+    "item_id": 4020100,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072089,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 9
+   },
+   {
+    "item_id": 4020101,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072090,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 9
+   },
+   {
+    "item_id": 4020104,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1102009,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 9
+   },
+   {
+    "item_id": 4010107,
+    "count": 1
+   },
+   {
+    "item_id": 4020105,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1102010,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 9
+   },
+   {
+    "item_id": 4010107,
+    "count": 1
+   },
+   {
+    "item_id": 4020100,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1102011,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 9
+   },
+   {
+    "item_id": 4010107,
+    "count": 1
+   },
+   {
+    "item_id": 4020107,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1102012,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 9
+   },
+   {
+    "item_id": 4010107,
+    "count": 1
+   },
+   {
+    "item_id": 4020108,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082055,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 8400,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 10
+   },
+   {
+    "item_id": 4020100,
+    "count": 6
+   },
+   {
+    "item_id": 4003007,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082056,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 8400,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 10
+   },
+   {
+    "item_id": 4020105,
+    "count": 6
+   },
+   {
+    "item_id": 4003007,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082057,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 8400,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 10
+   },
+   {
+    "item_id": 4020108,
+    "count": 6
+   },
+   {
+    "item_id": 4003007,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072100,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 10
+   },
+   {
+    "item_id": 4020100,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072101,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 10
+   },
+   {
+    "item_id": 4020105,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072102,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 10
+   },
+   {
+    "item_id": 4010106,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072103,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 10
+   },
+   {
+    "item_id": 4020104,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 4003008,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 27,
+  "meso_cost": 900,
+  "ingredients": [
+   {
+    "item_id": 4000028,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1302022,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 57500,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 30
+   },
+   {
+    "item_id": 4000029,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 27
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 3000083,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 45000,
+  "ingredients": [
+   {
+    "item_id": 4000028,
+    "count": 10
+   },
+   {
+    "item_id": 4003014,
+    "count": 5
+   },
+   {
+    "item_id": 4003012,
+    "count": 5
+   },
+   {
+    "item_id": 4003007,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082067,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 13200,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 12
+   },
+   {
+    "item_id": 4020100,
+    "count": 8
+   },
+   {
+    "item_id": 4003007,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082068,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 13200,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 12
+   },
+   {
+    "item_id": 4020105,
+    "count": 8
+   },
+   {
+    "item_id": 4003007,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1082069,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 13200,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 12
+   },
+   {
+    "item_id": 4020108,
+    "count": 8
+   },
+   {
+    "item_id": 4003007,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072116,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 12
+   },
+   {
+    "item_id": 4010106,
+    "count": 4
+   },
+   {
+    "item_id": 4020100,
+    "count": 2
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072117,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 12
+   },
+   {
+    "item_id": 4010106,
+    "count": 4
+   },
+   {
+    "item_id": 4020105,
+    "count": 2
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072118,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 12
+   },
+   {
+    "item_id": 4010106,
+    "count": 4
+   },
+   {
+    "item_id": 4020101,
+    "count": 2
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Tailoring",
+  "discipline_skill_id": 92020000,
+  "output_item_id": 1072119,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4003008,
+    "count": 12
+   },
+   {
+    "item_id": 4010106,
+    "count": 4
+   },
+   {
+    "item_id": 4020103,
+    "count": 2
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2060000,
+  "output_count": 500,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 1
+   },
+   {
+    "item_id": 4003002,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2060000,
+  "output_count": 50,
+  "req_skill_level": 1,
+  "craft_exp": 0,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 2061000,
+    "count": 100
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2061000,
+  "output_count": 500,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 1
+   },
+   {
+    "item_id": 4003002,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2061000,
+  "output_count": 50,
+  "req_skill_level": 1,
+  "craft_exp": 0,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 2060000,
+    "count": 100
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 4003001,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 100,
+  "ingredients": [
+   {
+    "item_id": 4000005,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 4003001,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 6,
+  "meso_cost": 200,
+  "ingredients": [
+   {
+    "item_id": 4000015,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1402000,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 2500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1452000,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 2500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 4
+   },
+   {
+    "item_id": 4000002,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1462000,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 2500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1372000,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1382000,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 3010001,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 10
+   },
+   {
+    "item_id": 4003008,
+    "count": 5
+   },
+   {
+    "item_id": 4003013,
+    "count": 2
+   },
+   {
+    "item_id": 4003014,
+    "count": 1
+   },
+   {
+    "item_id": 4003000,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 4003001,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 9,
+  "meso_cost": 300,
+  "ingredients": [
+   {
+    "item_id": 4000151,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1402001,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 3500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1452001,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 3500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 5
+   },
+   {
+    "item_id": 4010101,
+    "count": 1
+   },
+   {
+    "item_id": 4003000,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1462001,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 3500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1372001,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 5
+   },
+   {
+    "item_id": 4000009,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 3030003,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 100000,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4010100,
+    "count": 5
+   },
+   {
+    "item_id": 4003001,
+    "count": 20
+   },
+   {
+    "item_id": 4003000,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2060001,
+  "output_count": 500,
+  "req_skill_level": 4,
+  "craft_exp": 12,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 1
+   },
+   {
+    "item_id": 4010100,
+    "count": 1
+   },
+   {
+    "item_id": 4003002,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2060001,
+  "output_count": 5,
+  "req_skill_level": 4,
+  "craft_exp": 0,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 2061001,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2061001,
+  "output_count": 500,
+  "req_skill_level": 4,
+  "craft_exp": 12,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 1
+   },
+   {
+    "item_id": 4010100,
+    "count": 1
+   },
+   {
+    "item_id": 4003002,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2061001,
+  "output_count": 5,
+  "req_skill_level": 4,
+  "craft_exp": 0,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 2060001,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1452002,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 4500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 12
+   },
+   {
+    "item_id": 4000004,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1462002,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 4500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1382003,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 3500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 6
+   },
+   {
+    "item_id": 4010104,
+    "count": 1
+   },
+   {
+    "item_id": 4003000,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 3000006,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 20000,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 10
+   },
+   {
+    "item_id": 4003000,
+    "count": 40
+   },
+   {
+    "item_id": 4003012,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 4003001,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 15,
+  "meso_cost": 500,
+  "ingredients": [
+   {
+    "item_id": 4000152,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1452003,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 5500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 7
+   },
+   {
+    "item_id": 4010101,
+    "count": 2
+   },
+   {
+    "item_id": 4020106,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1462003,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 5500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 7
+   },
+   {
+    "item_id": 4010101,
+    "count": 2
+   },
+   {
+    "item_id": 4020106,
+    "count": 1
+   },
+   {
+    "item_id": 4020102,
+    "count": 1
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1322010,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 4500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 7
+   },
+   {
+    "item_id": 4003006,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 3010002,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 10
+   },
+   {
+    "item_id": 4003008,
+    "count": 5
+   },
+   {
+    "item_id": 4003012,
+    "count": 2
+   },
+   {
+    "item_id": 4003014,
+    "count": 1
+   },
+   {
+    "item_id": 4003000,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 3000005,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 25000,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 10
+   },
+   {
+    "item_id": 4003008,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 50
+   },
+   {
+    "item_id": 4003012,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1452004,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 6500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 8
+   },
+   {
+    "item_id": 4010106,
+    "count": 1
+   },
+   {
+    "item_id": 4020103,
+    "count": 1
+   },
+   {
+    "item_id": 4020106,
+    "count": 1
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1462004,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 6500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 8
+   },
+   {
+    "item_id": 4010105,
+    "count": 2
+   },
+   {
+    "item_id": 4020106,
+    "count": 1
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 3020001,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 300000,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 20
+   },
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4010100,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2060002,
+  "output_count": 500,
+  "req_skill_level": 7,
+  "craft_exp": 21,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 1
+   },
+   {
+    "item_id": 4010101,
+    "count": 1
+   },
+   {
+    "item_id": 4003002,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2060002,
+  "output_count": 5,
+  "req_skill_level": 7,
+  "craft_exp": 0,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 2061002,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2061002,
+  "output_count": 500,
+  "req_skill_level": 7,
+  "craft_exp": 21,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 1
+   },
+   {
+    "item_id": 4010101,
+    "count": 1
+   },
+   {
+    "item_id": 4003002,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2061002,
+  "output_count": 5,
+  "req_skill_level": 7,
+  "craft_exp": 0,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 2060002,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1452005,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 9000,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 9
+   },
+   {
+    "item_id": 4010104,
+    "count": 1
+   },
+   {
+    "item_id": 4020100,
+    "count": 1
+   },
+   {
+    "item_id": 4020104,
+    "count": 1
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1452006,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 11500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 10
+   },
+   {
+    "item_id": 4010101,
+    "count": 2
+   },
+   {
+    "item_id": 4020108,
+    "count": 2
+   },
+   {
+    "item_id": 4000036,
+    "count": 40
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1462005,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 11500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 10
+   },
+   {
+    "item_id": 4010101,
+    "count": 2
+   },
+   {
+    "item_id": 4010106,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1462006,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 70000,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 11
+   },
+   {
+    "item_id": 4010104,
+    "count": 2
+   },
+   {
+    "item_id": 4020107,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 27
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2060003,
+  "output_count": 500,
+  "req_skill_level": 10,
+  "craft_exp": 30,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 1
+   },
+   {
+    "item_id": 4010103,
+    "count": 1
+   },
+   {
+    "item_id": 4003002,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2060003,
+  "output_count": 5,
+  "req_skill_level": 10,
+  "craft_exp": 0,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 2061003,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2061003,
+  "output_count": 500,
+  "req_skill_level": 10,
+  "craft_exp": 30,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 1
+   },
+   {
+    "item_id": 4010102,
+    "count": 1
+   },
+   {
+    "item_id": 4003002,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 2061003,
+  "output_count": 5,
+  "req_skill_level": 10,
+  "craft_exp": 0,
+  "meso_cost": 0,
+  "ingredients": [
+   {
+    "item_id": 2060003,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1452007,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 16500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 12
+   },
+   {
+    "item_id": 4010102,
+    "count": 3
+   },
+   {
+    "item_id": 4020105,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Woodcrafting",
+  "discipline_skill_id": 92030000,
+  "output_item_id": 1462007,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 16500,
+  "ingredients": [
+   {
+    "item_id": 4003001,
+    "count": 12
+   },
+   {
+    "item_id": 4010106,
+    "count": 3
+   },
+   {
+    "item_id": 4020106,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 4003006,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 100,
+  "ingredients": [
+   {
+    "item_id": 4000049,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1002000,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 20,
+  "meso_cost": 300,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 1
+   },
+   {
+    "item_id": 4000004,
+    "count": 5
+   },
+   {
+    "item_id": 4000001,
+    "count": 5
+   },
+   {
+    "item_id": 4003007,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1002001,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 20,
+  "meso_cost": 300,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 1
+   },
+   {
+    "item_id": 4000001,
+    "count": 10
+   },
+   {
+    "item_id": 4003007,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1002002,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 20,
+  "meso_cost": 300,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 1
+   },
+   {
+    "item_id": 4000004,
+    "count": 10
+   },
+   {
+    "item_id": 4003007,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1002022,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 2
+   },
+   {
+    "item_id": 4000009,
+    "count": 10
+   },
+   {
+    "item_id": 4003007,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1002023,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 2
+   },
+   {
+    "item_id": 4000011,
+    "count": 10
+   },
+   {
+    "item_id": 4003007,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1322002,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 1900,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 6
+   },
+   {
+    "item_id": 4003007,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082004,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 3
+   },
+   {
+    "item_id": 4000016,
+    "count": 15
+   },
+   {
+    "item_id": 4003007,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082005,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 3
+   },
+   {
+    "item_id": 4010100,
+    "count": 1
+   },
+   {
+    "item_id": 4003007,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082006,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 3
+   },
+   {
+    "item_id": 4000016,
+    "count": 15
+   },
+   {
+    "item_id": 4003007,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082007,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 3
+   },
+   {
+    "item_id": 4000017,
+    "count": 15
+   },
+   {
+    "item_id": 4003007,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 3030004,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 100000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4003001,
+    "count": 20
+   },
+   {
+    "item_id": 4003000,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 4003006,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 12,
+  "meso_cost": 400,
+  "ingredients": [
+   {
+    "item_id": 4000018,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082012,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2400,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 4
+   },
+   {
+    "item_id": 4020105,
+    "count": 2
+   },
+   {
+    "item_id": 4003007,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082013,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2400,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 4
+   },
+   {
+    "item_id": 4020100,
+    "count": 2
+   },
+   {
+    "item_id": 4003007,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082014,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2400,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 4
+   },
+   {
+    "item_id": 4000013,
+    "count": 20
+   },
+   {
+    "item_id": 4003007,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082015,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2400,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 4
+   },
+   {
+    "item_id": 4010100,
+    "count": 2
+   },
+   {
+    "item_id": 4003007,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082016,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2400,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 4
+   },
+   {
+    "item_id": 4010102,
+    "count": 2
+   },
+   {
+    "item_id": 4003007,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082017,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 2400,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 4
+   },
+   {
+    "item_id": 4000017,
+    "count": 20
+   },
+   {
+    "item_id": 4003007,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082022,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4020105,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082023,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4020100,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082024,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4020108,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082025,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4010100,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082026,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4010102,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082027,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4000017,
+    "count": 25
+   },
+   {
+    "item_id": 4003007,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072051,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4010100,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072052,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4000018,
+    "count": 25
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072053,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4020100,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072054,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4020105,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072055,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4020100,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072056,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4000018,
+    "count": 25
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072057,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 1500,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 5
+   },
+   {
+    "item_id": 4000017,
+    "count": 25
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 3010005,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 15,
+  "meso_cost": 5000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4010101,
+    "count": 2
+   },
+   {
+    "item_id": 4003008,
+    "count": 5
+   },
+   {
+    "item_id": 4003012,
+    "count": 3
+   },
+   {
+    "item_id": 4003000,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 4003006,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 18,
+  "meso_cost": 600,
+  "ingredients": [
+   {
+    "item_id": 4000025,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082034,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 3600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4010106,
+    "count": 1
+   },
+   {
+    "item_id": 4000024,
+    "count": 30
+   },
+   {
+    "item_id": 4003007,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082035,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 3600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4010106,
+    "count": 1
+   },
+   {
+    "item_id": 4000013,
+    "count": 30
+   },
+   {
+    "item_id": 4003007,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082036,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 3600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4010106,
+    "count": 1
+   },
+   {
+    "item_id": 4020108,
+    "count": 3
+   },
+   {
+    "item_id": 4003007,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082037,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 3600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4003007,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082038,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 3600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4010104,
+    "count": 4
+   },
+   {
+    "item_id": 4003007,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082039,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 3600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4010106,
+    "count": 4
+   },
+   {
+    "item_id": 4003007,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072070,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4020100,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072071,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4020105,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072072,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4000027,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072073,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4020104,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072074,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4010100,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072075,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4010100,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072076,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072077,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4010104,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072078,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 1800,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 6
+   },
+   {
+    "item_id": 4010106,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082046,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 7
+   },
+   {
+    "item_id": 4010100,
+    "count": 5
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082047,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 7
+   },
+   {
+    "item_id": 4010102,
+    "count": 5
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082048,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 7
+   },
+   {
+    "item_id": 4010106,
+    "count": 5
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082049,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 7
+   },
+   {
+    "item_id": 4010106,
+    "count": 5
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082050,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 7
+   },
+   {
+    "item_id": 4010101,
+    "count": 5
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082051,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 6000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 7
+   },
+   {
+    "item_id": 4010105,
+    "count": 5
+   },
+   {
+    "item_id": 4003007,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072091,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 7
+   },
+   {
+    "item_id": 4000027,
+    "count": 35
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072092,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 7
+   },
+   {
+    "item_id": 4000032,
+    "count": 35
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072093,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 7
+   },
+   {
+    "item_id": 4020102,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072094,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 7
+   },
+   {
+    "item_id": 4020100,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072095,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 7
+   },
+   {
+    "item_id": 4020102,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072096,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 3000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 7
+   },
+   {
+    "item_id": 4020103,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082058,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 8400,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4010101,
+    "count": 6
+   },
+   {
+    "item_id": 4020102,
+    "count": 1
+   },
+   {
+    "item_id": 4003007,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082059,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 8400,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4010106,
+    "count": 6
+   },
+   {
+    "item_id": 4020100,
+    "count": 1
+   },
+   {
+    "item_id": 4003007,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082060,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 8400,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4010104,
+    "count": 6
+   },
+   {
+    "item_id": 4020108,
+    "count": 1
+   },
+   {
+    "item_id": 4003007,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082061,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 8400,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4020100,
+    "count": 6
+   },
+   {
+    "item_id": 4000036,
+    "count": 40
+   },
+   {
+    "item_id": 4003007,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082062,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 8400,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4010106,
+    "count": 6
+   },
+   {
+    "item_id": 4000036,
+    "count": 40
+   },
+   {
+    "item_id": 4003007,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082063,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 8400,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4020108,
+    "count": 6
+   },
+   {
+    "item_id": 4000036,
+    "count": 40
+   },
+   {
+    "item_id": 4003007,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072104,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4000033,
+    "count": 40
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072105,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4020106,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072106,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4020100,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072107,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4020102,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072108,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4020100,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072109,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4020105,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072110,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4020103,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072111,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 4200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 8
+   },
+   {
+    "item_id": 4020106,
+    "count": 6
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 4003006,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 30,
+  "meso_cost": 900,
+  "ingredients": [
+   {
+    "item_id": 4000041,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1322019,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 57500,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 9
+   },
+   {
+    "item_id": 4020100,
+    "count": 7
+   },
+   {
+    "item_id": 4000055,
+    "count": 30
+   },
+   {
+    "item_id": 4003007,
+    "count": 27
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 3000080,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 45000,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4003009,
+    "count": 10
+   },
+   {
+    "item_id": 3000014,
+    "count": 1
+   },
+   {
+    "item_id": 4003007,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082070,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 13200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4010106,
+    "count": 8
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003007,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082071,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 13200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4010104,
+    "count": 8
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003007,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082072,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 13200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4010106,
+    "count": 8
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003007,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082073,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 13200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4020100,
+    "count": 8
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003007,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082074,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 13200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4020105,
+    "count": 8
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003007,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1082075,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 13200,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4020106,
+    "count": 8
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003007,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072120,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4000040,
+    "count": 50
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072121,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4000037,
+    "count": 50
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072122,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4010105,
+    "count": 8
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072123,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4020105,
+    "count": 8
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072124,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4020100,
+    "count": 8
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072125,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4020105,
+    "count": 8
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072126,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4020101,
+    "count": 8
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Leatherworking",
+  "discipline_skill_id": 92040000,
+  "output_item_id": 1072127,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 6600,
+  "ingredients": [
+   {
+    "item_id": 4003006,
+    "count": 10
+   },
+   {
+    "item_id": 4020103,
+    "count": 8
+   },
+   {
+    "item_id": 4000050,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 4020100,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 200,
+  "ingredients": [
+   {
+    "item_id": 4020000,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 4020102,
+  "output_count": 1,
+  "req_skill_level": 1,
+  "craft_exp": 3,
+  "meso_cost": 200,
+  "ingredients": [
+   {
+    "item_id": 4020002,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 4020103,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 6,
+  "meso_cost": 400,
+  "ingredients": [
+   {
+    "item_id": 4020003,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 4020106,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 6,
+  "meso_cost": 400,
+  "ingredients": [
+   {
+    "item_id": 4020006,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 4003009,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 6,
+  "meso_cost": 200,
+  "ingredients": [
+   {
+    "item_id": 4000049,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040000,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020100,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040004,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020106,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040008,
+  "output_count": 1,
+  "req_skill_level": 2,
+  "craft_exp": 40,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020103,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 4020105,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 9,
+  "meso_cost": 600,
+  "ingredients": [
+   {
+    "item_id": 4020005,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 1382001,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 2500,
+  "ingredients": [
+   {
+    "item_id": 4010104,
+    "count": 3
+   },
+   {
+    "item_id": 4020105,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 1382002,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 2500,
+  "ingredients": [
+   {
+    "item_id": 4010104,
+    "count": 3
+   },
+   {
+    "item_id": 4020103,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040404,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 30,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020106,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040408,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 30,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020103,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 3030005,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 100000,
+  "ingredients": [
+   {
+    "item_id": 4010106,
+    "count": 5
+   },
+   {
+    "item_id": 4000063,
+    "count": 50
+   },
+   {
+    "item_id": 4003001,
+    "count": 20
+   },
+   {
+    "item_id": 4003000,
+    "count": 20
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 3000003,
+  "output_count": 1,
+  "req_skill_level": 3,
+  "craft_exp": 60,
+  "meso_cost": 15000,
+  "ingredients": [
+   {
+    "item_id": 4010100,
+    "count": 10
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 4020104,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 12,
+  "meso_cost": 800,
+  "ingredients": [
+   {
+    "item_id": 4020004,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 1372002,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 3500,
+  "ingredients": [
+   {
+    "item_id": 4010101,
+    "count": 4
+   },
+   {
+    "item_id": 4000016,
+    "count": 30
+   },
+   {
+    "item_id": 4003000,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040604,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 40,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020106,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040608,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 40,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020103,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 3000002,
+  "output_count": 1,
+  "req_skill_level": 4,
+  "craft_exp": 80,
+  "meso_cost": 20000,
+  "ingredients": [
+   {
+    "item_id": 4010104,
+    "count": 5
+   },
+   {
+    "item_id": 4000024,
+    "count": 25
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 4020101,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 15,
+  "meso_cost": 1000,
+  "ingredients": [
+   {
+    "item_id": 4020001,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 1372003,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 4500,
+  "ingredients": [
+   {
+    "item_id": 4010102,
+    "count": 5
+   },
+   {
+    "item_id": 4003004,
+    "count": 1
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 1382004,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 100,
+  "meso_cost": 4500,
+  "ingredients": [
+   {
+    "item_id": 4010104,
+    "count": 5
+   },
+   {
+    "item_id": 4020106,
+    "count": 1
+   },
+   {
+    "item_id": 4020101,
+    "count": 2
+   },
+   {
+    "item_id": 4003000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040900,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 50,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020107,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040904,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 50,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020100,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040500,
+  "output_count": 1,
+  "req_skill_level": 5,
+  "craft_exp": 50,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020107,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 4020107,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 18,
+  "meso_cost": 1200,
+  "ingredients": [
+   {
+    "item_id": 4020007,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 4020108,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 18,
+  "meso_cost": 1200,
+  "ingredients": [
+   {
+    "item_id": 4020008,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 1372004,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 120,
+  "meso_cost": 5500,
+  "ingredients": [
+   {
+    "item_id": 4010102,
+    "count": 6
+   },
+   {
+    "item_id": 4020102,
+    "count": 4
+   },
+   {
+    "item_id": 4003000,
+    "count": 18
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040700,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 60,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020102,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040704,
+  "output_count": 1,
+  "req_skill_level": 6,
+  "craft_exp": 60,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020101,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 1372005,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 7500,
+  "ingredients": [
+   {
+    "item_id": 4010102,
+    "count": 7
+   },
+   {
+    "item_id": 4020106,
+    "count": 5
+   },
+   {
+    "item_id": 4003000,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2041000,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 70,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020107,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2041004,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 70,
+  "meso_cost": 10000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020105,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 3000081,
+  "output_count": 1,
+  "req_skill_level": 7,
+  "craft_exp": 140,
+  "meso_cost": 35000,
+  "ingredients": [
+   {
+    "item_id": 4010104,
+    "count": 7
+   },
+   {
+    "item_id": 4000063,
+    "count": 35
+   },
+   {
+    "item_id": 4000051,
+    "count": 50
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 1372006,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 9500,
+  "ingredients": [
+   {
+    "item_id": 4020106,
+    "count": 8
+   },
+   {
+    "item_id": 4020105,
+    "count": 3
+   },
+   {
+    "item_id": 4020107,
+    "count": 3
+   },
+   {
+    "item_id": 4003005,
+    "count": 1
+   },
+   {
+    "item_id": 4003000,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040300,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 80,
+  "meso_cost": 20000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020108,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040304,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 80,
+  "meso_cost": 20000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020108,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040308,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 80,
+  "meso_cost": 20000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020108,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040312,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 80,
+  "meso_cost": 20000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020108,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 3000082,
+  "output_count": 1,
+  "req_skill_level": 8,
+  "craft_exp": 160,
+  "meso_cost": 40000,
+  "ingredients": [
+   {
+    "item_id": 4010106,
+    "count": 8
+   },
+   {
+    "item_id": 4000063,
+    "count": 40
+   },
+   {
+    "item_id": 4020107,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 1382005,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 180,
+  "meso_cost": 115000,
+  "ingredients": [
+   {
+    "item_id": 4010104,
+    "count": 9
+   },
+   {
+    "item_id": 4020101,
+    "count": 4
+   },
+   {
+    "item_id": 4020105,
+    "count": 3
+   },
+   {
+    "item_id": 4003005,
+    "count": 1
+   },
+   {
+    "item_id": 4003000,
+    "count": 27
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040808,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 90,
+  "meso_cost": 30000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 45
+   },
+   {
+    "item_id": 4020100,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2040812,
+  "output_count": 1,
+  "req_skill_level": 9,
+  "craft_exp": 90,
+  "meso_cost": 30000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 45
+   },
+   {
+    "item_id": 4020108,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 1372007,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 200,
+  "meso_cost": 13500,
+  "ingredients": [
+   {
+    "item_id": 4010102,
+    "count": 10
+   },
+   {
+    "item_id": 4020106,
+    "count": 4
+   },
+   {
+    "item_id": 4020103,
+    "count": 4
+   },
+   {
+    "item_id": 4003004,
+    "count": 1
+   },
+   {
+    "item_id": 4003000,
+    "count": 30
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2041008,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 100,
+  "meso_cost": 20000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020100,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2041012,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 100,
+  "meso_cost": 20000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020100,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2041016,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 100,
+  "meso_cost": 20000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020100,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "discipline": "Arcforge",
+  "discipline_skill_id": 92050000,
+  "output_item_id": 2041020,
+  "output_count": 1,
+  "req_skill_level": 10,
+  "craft_exp": 100,
+  "meso_cost": 20000,
+  "ingredients": [
+   {
+    "item_id": 4003009,
+    "count": 1
+   },
+   {
+    "item_id": 4000063,
+    "count": 10
+   },
+   {
+    "item_id": 4020100,
+    "count": 3
+   }
+  ]
+ }
+]

@@ -1,0 +1,2041 @@
+[
+ {
+  "id": 1,
+  "name": "Heena",
+  "maps": [
+   1
+  ]
+ },
+ {
+  "id": 2,
+  "name": "Sera",
+  "maps": [
+   1
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Roger",
+  "maps": [
+   10
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Nina",
+  "maps": [
+   20
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Sen",
+  "maps": [
+   21
+  ]
+ },
+ {
+  "id": 6,
+  "name": "Peter",
+  "maps": [
+   30
+  ]
+ },
+ {
+  "id": 7,
+  "name": "Todd",
+  "maps": [
+   30
+  ]
+ },
+ {
+  "id": 8,
+  "name": "Robin",
+  "maps": [
+   40
+  ]
+ },
+ {
+  "id": 9,
+  "name": "Sam",
+  "maps": [
+   40
+  ]
+ },
+ {
+  "id": 10,
+  "name": "Maria",
+  "maps": [
+   50
+  ]
+ },
+ {
+  "id": 11,
+  "name": "Mai",
+  "maps": [
+   50
+  ]
+ },
+ {
+  "id": 12,
+  "name": "Biggs",
+  "maps": [
+   60
+  ]
+ },
+ {
+  "id": 13,
+  "name": "Yoona",
+  "maps": [
+   60
+  ]
+ },
+ {
+  "id": 14,
+  "name": "Bari",
+  "maps": [
+   60
+  ]
+ },
+ {
+  "id": 15,
+  "name": "Shanks",
+  "maps": [
+   60
+  ]
+ },
+ {
+  "id": 16,
+  "name": "Pan",
+  "maps": [
+   61
+  ]
+ },
+ {
+  "id": 17,
+  "name": "Lucas",
+  "maps": [
+   1010
+  ]
+ },
+ {
+  "id": 18,
+  "name": "Pio",
+  "maps": [
+   1010
+  ]
+ },
+ {
+  "id": 19,
+  "name": "Rain",
+  "maps": [
+   1010
+  ]
+ },
+ {
+  "id": 20,
+  "name": "Sid",
+  "maps": [
+   1011
+  ]
+ },
+ {
+  "id": 21,
+  "name": "Lucy",
+  "maps": [
+   1013
+  ]
+ },
+ {
+  "id": 100,
+  "name": "John",
+  "maps": [
+   10000000
+  ]
+ },
+ {
+  "id": 101,
+  "name": "Phil",
+  "maps": [
+   10000000
+  ]
+ },
+ {
+  "id": 102,
+  "name": "Teo",
+  "maps": [
+   10000000
+  ]
+ },
+ {
+  "id": 103,
+  "name": "Jane",
+  "maps": [
+   10000000
+  ]
+ },
+ {
+  "id": 104,
+  "name": "VIP Cab",
+  "maps": [
+   10000000
+  ]
+ },
+ {
+  "id": 105,
+  "name": "Mr. Kim",
+  "maps": [
+   10000000
+  ]
+ },
+ {
+  "id": 106,
+  "name": "Chef",
+  "maps": [
+   10000000
+  ]
+ },
+ {
+  "id": 107,
+  "name": "Olaf",
+  "maps": [
+   10000000
+  ]
+ },
+ {
+  "id": 108,
+  "name": "Natasha",
+  "maps": [
+   10000001
+  ]
+ },
+ {
+  "id": 109,
+  "name": "Mina",
+  "maps": [
+   10000002
+  ]
+ },
+ {
+  "id": 110,
+  "name": "Silver",
+  "maps": [
+   10000003
+  ]
+ },
+ {
+  "id": 111,
+  "name": "Mr. Goldstein",
+  "maps": [
+   10000000
+  ]
+ },
+ {
+  "id": 112,
+  "name": "Pason",
+  "maps": [
+   10000000
+  ]
+ },
+ {
+  "id": 113,
+  "name": "Mariel",
+  "maps": []
+ },
+ {
+  "id": 114,
+  "name": "Inky",
+  "maps": []
+ },
+ {
+  "id": 200,
+  "name": "Regular Cab",
+  "maps": [
+   10001000
+  ]
+ },
+ {
+  "id": 201,
+  "name": "Rina",
+  "maps": [
+   10001000
+  ]
+ },
+ {
+  "id": 202,
+  "name": "Chief Stan",
+  "maps": [
+   10001000
+  ]
+ },
+ {
+  "id": 203,
+  "name": "Mrs. Ming Ming",
+  "maps": [
+   10001000
+  ]
+ },
+ {
+  "id": 204,
+  "name": "Camila",
+  "maps": [
+   10001000
+  ]
+ },
+ {
+  "id": 205,
+  "name": "Jay",
+  "maps": [
+   10001000
+  ]
+ },
+ {
+  "id": 206,
+  "name": "Bruce",
+  "maps": [
+   10001000
+  ]
+ },
+ {
+  "id": 207,
+  "name": "Maya",
+  "maps": [
+   10001001
+  ]
+ },
+ {
+  "id": 208,
+  "name": "Vicious",
+  "maps": [
+   10001040
+  ]
+ },
+ {
+  "id": 209,
+  "name": "Doofus",
+  "maps": [
+   10001040,
+   10001052
+  ]
+ },
+ {
+  "id": 210,
+  "name": "Karl",
+  "maps": [
+   10001041
+  ]
+ },
+ {
+  "id": 211,
+  "name": "Sam",
+  "maps": [
+   10001041
+  ]
+ },
+ {
+  "id": 212,
+  "name": "Luna",
+  "maps": [
+   10001042
+  ]
+ },
+ {
+  "id": 213,
+  "name": "Denma the Owner",
+  "maps": [
+   10001043
+  ]
+ },
+ {
+  "id": 214,
+  "name": "Dr. Feeble",
+  "maps": [
+   10001043
+  ]
+ },
+ {
+  "id": 215,
+  "name": "Natalie",
+  "maps": [
+   10001044
+  ]
+ },
+ {
+  "id": 216,
+  "name": "Brittany",
+  "maps": [
+   10001044
+  ]
+ },
+ {
+  "id": 217,
+  "name": "Ms. Tan",
+  "maps": [
+   10001045
+  ]
+ },
+ {
+  "id": 218,
+  "name": "Pia",
+  "maps": [
+   10001050
+  ]
+ },
+ {
+  "id": 219,
+  "name": "Cloy",
+  "maps": [
+   10001050
+  ]
+ },
+ {
+  "id": 220,
+  "name": "Mr. Lee",
+  "maps": [
+   10001050
+  ]
+ },
+ {
+  "id": 221,
+  "name": "Athena Pierce",
+  "maps": [
+   10001051
+  ]
+ },
+ {
+  "id": 222,
+  "name": "Trainer Bartos",
+  "maps": [
+   10001052
+  ]
+ },
+ {
+  "id": 223,
+  "name": "Trainer Frod",
+  "maps": [
+   10001052
+  ]
+ },
+ {
+  "id": 224,
+  "name": "Anne",
+  "maps": [
+   10001060
+  ]
+ },
+ {
+  "id": 225,
+  "name": "Utah",
+  "maps": [
+   10001082
+  ]
+ },
+ {
+  "id": 226,
+  "name": "Luke",
+  "maps": [
+   10001100
+  ]
+ },
+ {
+  "id": 227,
+  "name": "Bowman Job Instructor",
+  "maps": [
+   10001090
+  ]
+ },
+ {
+  "id": 228,
+  "name": "Casey",
+  "maps": [
+   10001050
+  ]
+ },
+ {
+  "id": 229,
+  "name": "Arthur",
+  "maps": [
+   10001007
+  ]
+ },
+ {
+  "id": 230,
+  "name": "Tommy",
+  "maps": [
+   10001007
+  ]
+ },
+ {
+  "id": 231,
+  "name": "Bianca",
+  "maps": [
+   10001000
+  ]
+ },
+ {
+  "id": 232,
+  "name": "Raymond",
+  "maps": [
+   10001007
+  ]
+ },
+ {
+  "id": 233,
+  "name": "Oak",
+  "maps": [
+   10001007
+  ]
+ },
+ {
+  "id": 234,
+  "name": "Flint",
+  "maps": [
+   10001007
+  ]
+ },
+ {
+  "id": 235,
+  "name": "Community Board",
+  "maps": [
+   10001000
+  ]
+ },
+ {
+  "id": 236,
+  "name": "Doorbell",
+  "maps": [
+   10001000
+  ]
+ },
+ {
+  "id": 237,
+  "name": "Mailbox",
+  "maps": [
+   88000000
+  ]
+ },
+ {
+  "id": 238,
+  "name": "Worn Wooden Chest",
+  "maps": []
+ },
+ {
+  "id": 239,
+  "name": "Reinforced Wooden Chest",
+  "maps": []
+ },
+ {
+  "id": 300,
+  "name": "Estelle",
+  "maps": [
+   10002010
+  ]
+ },
+ {
+  "id": 301,
+  "name": "Regular Cab",
+  "maps": [
+   10002000
+  ]
+ },
+ {
+  "id": 302,
+  "name": "VIP Cab",
+  "maps": [
+   10002000
+  ]
+ },
+ {
+  "id": 303,
+  "name": "Francois",
+  "maps": [
+   10002000
+  ]
+ },
+ {
+  "id": 304,
+  "name": "Arwen the Fairy",
+  "maps": [
+   10002000
+  ]
+ },
+ {
+  "id": 305,
+  "name": "Rowen the Fairy",
+  "maps": [
+   10002000
+  ]
+ },
+ {
+  "id": 306,
+  "name": "Shane",
+  "maps": [
+   10002000
+  ]
+ },
+ {
+  "id": 307,
+  "name": "Mr. Park",
+  "maps": [
+   10002000
+  ]
+ },
+ {
+  "id": 308,
+  "name": "Betty",
+  "maps": [
+   10002000
+  ]
+ },
+ {
+  "id": 309,
+  "name": "Wing the Fairy",
+  "maps": [
+   10002000
+  ]
+ },
+ {
+  "id": 310,
+  "name": "Flora the Fairy",
+  "maps": [
+   10002001
+  ]
+ },
+ {
+  "id": 311,
+  "name": "Serabi the Fairy",
+  "maps": [
+   10002001
+  ]
+ },
+ {
+  "id": 312,
+  "name": "Len the Fairy",
+  "maps": [
+   10002002
+  ]
+ },
+ {
+  "id": 313,
+  "name": "Grendel the Really Old",
+  "maps": [
+   10002003
+  ]
+ },
+ {
+  "id": 314,
+  "name": "Louis",
+  "maps": [
+   10002040,
+   10002041,
+   10002042,
+   10002043,
+   10002044
+  ]
+ },
+ {
+  "id": 315,
+  "name": "A pile of flowers",
+  "maps": [
+   10002041
+  ]
+ },
+ {
+  "id": 316,
+  "name": "A pile of herbs",
+  "maps": [
+   10002044
+  ]
+ },
+ {
+  "id": 317,
+  "name": "Mar the Fairy",
+  "maps": [
+   10002004
+  ]
+ },
+ {
+  "id": 318,
+  "name": "El Moth",
+  "maps": [
+   10002062
+  ]
+ },
+ {
+  "id": 319,
+  "name": "Magician Job Instructor",
+  "maps": [
+   10002070
+  ]
+ },
+ {
+  "id": 320,
+  "name": "Ronnie",
+  "maps": [
+   10002071
+  ]
+ },
+ {
+  "id": 321,
+  "name": "Fully Bloomed Bluebell",
+  "maps": [
+   10002050
+  ]
+ },
+ {
+  "id": 322,
+  "name": "Joel",
+  "maps": [
+   10002090
+  ]
+ },
+ {
+  "id": 323,
+  "name": "Cherry",
+  "maps": [
+   10002090
+  ]
+ },
+ {
+  "id": 324,
+  "name": "Purin",
+  "maps": [
+   10002091
+  ]
+ },
+ {
+  "id": 325,
+  "name": "Door of Dimension",
+  "maps": []
+ },
+ {
+  "id": 326,
+  "name": "Lyn the Librarian",
+  "maps": [
+   10002005
+  ]
+ },
+ {
+  "id": 327,
+  "name": "Sabrina the Scribe",
+  "maps": [
+   10002005
+  ]
+ },
+ {
+  "id": 328,
+  "name": "Jon the Justicar",
+  "maps": [
+   10002005
+  ]
+ },
+ {
+  "id": 400,
+  "name": "Regular Cab",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 401,
+  "name": "JM From tha Streetz",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 402,
+  "name": "Alex",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 403,
+  "name": "Shumi",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 404,
+  "name": "Mong from Kong",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 405,
+  "name": "Mr. Hong",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 406,
+  "name": "Nella",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 407,
+  "name": "Icarus",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 408,
+  "name": "Cutthroat Manny",
+  "maps": [
+   10003001
+  ]
+ },
+ {
+  "id": 409,
+  "name": "Don Hwang",
+  "maps": [
+   10003001
+  ]
+ },
+ {
+  "id": 410,
+  "name": "Dr. Faymus",
+  "maps": [
+   10003002
+  ]
+ },
+ {
+  "id": 411,
+  "name": "Dark Lord",
+  "maps": [
+   10003003
+  ]
+ },
+ {
+  "id": 412,
+  "name": "Jane Doe",
+  "maps": [
+   10003004
+  ]
+ },
+ {
+  "id": 413,
+  "name": "Don Giovanni",
+  "maps": [
+   10003005
+  ]
+ },
+ {
+  "id": 414,
+  "name": "Andre",
+  "maps": [
+   10003005
+  ]
+ },
+ {
+  "id": 415,
+  "name": "Chris",
+  "maps": [
+   10003006
+  ]
+ },
+ {
+  "id": 416,
+  "name": "Tulcus",
+  "maps": [
+   10003091
+  ]
+ },
+ {
+  "id": 417,
+  "name": "Jake",
+  "maps": [
+   10003060
+  ]
+ },
+ {
+  "id": 418,
+  "name": "The Ticket Gate",
+  "maps": [
+   10003060
+  ]
+ },
+ {
+  "id": 419,
+  "name": "Exit",
+  "maps": [
+   10003100,
+   10003101,
+   10003103,
+   10003104,
+   10003106,
+   10003107,
+   10003108
+  ]
+ },
+ {
+  "id": 420,
+  "name": "Treasure Chest",
+  "maps": [
+   10003102
+  ]
+ },
+ {
+  "id": 421,
+  "name": "Treasure Chest",
+  "maps": [
+   10003105
+  ]
+ },
+ {
+  "id": 422,
+  "name": "Treasure Chest",
+  "maps": [
+   10003109
+  ]
+ },
+ {
+  "id": 423,
+  "name": "Door of Dimension",
+  "maps": []
+ },
+ {
+  "id": 424,
+  "name": "Thief Job Instructor",
+  "maps": [
+   10003080
+  ]
+ },
+ {
+  "id": 425,
+  "name": "Roxy",
+  "maps": [
+   10003007
+  ]
+ },
+ {
+  "id": 426,
+  "name": "Jack",
+  "maps": [
+   10003007
+  ]
+ },
+ {
+  "id": 427,
+  "name": "Scarlett",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 428,
+  "name": "Max",
+  "maps": [
+   10003007
+  ]
+ },
+ {
+  "id": 429,
+  "name": "Weston",
+  "maps": [
+   10003007
+  ]
+ },
+ {
+  "id": 430,
+  "name": "Ben",
+  "maps": [
+   10003007
+  ]
+ },
+ {
+  "id": 431,
+  "name": "Community Board",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 432,
+  "name": "Doorbell",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 433,
+  "name": "Mailbox",
+  "maps": [
+   88001000
+  ]
+ },
+ {
+  "id": 434,
+  "name": "Rusty Safe",
+  "maps": []
+ },
+ {
+  "id": 435,
+  "name": "Reinforced Safe",
+  "maps": []
+ },
+ {
+  "id": 436,
+  "name": "Slade",
+  "maps": [
+   10003098
+  ]
+ },
+ {
+  "id": 437,
+  "name": "Alston",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 438,
+  "name": "Whitney",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 500,
+  "name": "Regular Cab",
+  "maps": [
+   10004000
+  ]
+ },
+ {
+  "id": 501,
+  "name": "Blackbull",
+  "maps": [
+   10004000
+  ]
+ },
+ {
+  "id": 502,
+  "name": "Manji",
+  "maps": [
+   10004000
+  ]
+ },
+ {
+  "id": 503,
+  "name": "Mr. Thunder",
+  "maps": [
+   10004000
+  ]
+ },
+ {
+  "id": 504,
+  "name": "Silas Irons",
+  "maps": [
+   10004000
+  ]
+ },
+ {
+  "id": 505,
+  "name": "Mr. Wang",
+  "maps": [
+   10004000
+  ]
+ },
+ {
+  "id": 506,
+  "name": "Ayan",
+  "maps": [
+   10004000
+  ]
+ },
+ {
+  "id": 507,
+  "name": "River",
+  "maps": [
+   10004001
+  ]
+ },
+ {
+  "id": 508,
+  "name": "Harry",
+  "maps": [
+   10004001
+  ]
+ },
+ {
+  "id": 509,
+  "name": "Arturo",
+  "maps": [
+   10004002
+  ]
+ },
+ {
+  "id": 510,
+  "name": "Sophia",
+  "maps": [
+   10004002
+  ]
+ },
+ {
+  "id": 511,
+  "name": "Dances with Balrog",
+  "maps": [
+   10004003
+  ]
+ },
+ {
+  "id": 512,
+  "name": "Winston",
+  "maps": [
+   10004051
+  ]
+ },
+ {
+  "id": 513,
+  "name": "Mike",
+  "maps": [
+   10004121
+  ]
+ },
+ {
+  "id": 514,
+  "name": "Warrior Job Instructor",
+  "maps": [
+   10004023
+  ]
+ },
+ {
+  "id": 515,
+  "name": "Shuang",
+  "maps": [
+   10004133
+  ]
+ },
+ {
+  "id": 516,
+  "name": "Shawn",
+  "maps": [
+   10004133
+  ]
+ },
+ {
+  "id": 517,
+  "name": "Bulletin Board",
+  "maps": [
+   10004133
+  ]
+ },
+ {
+  "id": 600,
+  "name": "Regular Cab",
+  "maps": [
+   10005000
+  ]
+ },
+ {
+  "id": 601,
+  "name": "VIP Cab",
+  "maps": []
+ },
+ {
+  "id": 602,
+  "name": "Chrishrama",
+  "maps": [
+   10005000
+  ]
+ },
+ {
+  "id": 603,
+  "name": "Sabitrama",
+  "maps": [
+   10005000
+  ]
+ },
+ {
+  "id": 604,
+  "name": "Mr. Oh",
+  "maps": [
+   10005000
+  ]
+ },
+ {
+  "id": 605,
+  "name": "Eurek the Alchemist",
+  "maps": [
+   10005000
+  ]
+ },
+ {
+  "id": 606,
+  "name": "Hotel Receptionist",
+  "maps": [
+   10005001
+  ]
+ },
+ {
+  "id": 607,
+  "name": "Mr. Sweatbottom",
+  "maps": [
+   10005002
+  ]
+ },
+ {
+  "id": 608,
+  "name": "Mr. Wetbottom",
+  "maps": [
+   10005003
+  ]
+ },
+ {
+  "id": 609,
+  "name": "Mysterious Statue",
+  "maps": [
+   10005000
+  ]
+ },
+ {
+  "id": 610,
+  "name": "Crumbling Statue",
+  "maps": [
+   10005040,
+   10005041,
+   10005042,
+   10005043,
+   10005044,
+   10005045,
+   10005046
+  ]
+ },
+ {
+  "id": 611,
+  "name": "A pile of pink flowers",
+  "maps": [
+   10005041
+  ]
+ },
+ {
+  "id": 612,
+  "name": "A pile of blue flowers",
+  "maps": [
+   10005043
+  ]
+ },
+ {
+  "id": 613,
+  "name": "A pile of white flowers",
+  "maps": [
+   10005046
+  ]
+ },
+ {
+  "id": 614,
+  "name": "24 Hr Mobile Store",
+  "maps": [
+   10005070
+  ]
+ },
+ {
+  "id": 615,
+  "name": "Door of Dimension",
+  "maps": []
+ },
+ {
+  "id": 616,
+  "name": "Bluebell Bud",
+  "maps": [
+   10005050
+  ]
+ },
+ {
+  "id": 617,
+  "name": "Worn Notice Board",
+  "maps": [
+   10005070
+  ]
+ },
+ {
+  "id": 700,
+  "name": "Luma",
+  "maps": [
+   10006002
+  ]
+ },
+ {
+  "id": 701,
+  "name": "Zelya",
+  "maps": [
+   10006001
+  ]
+ },
+ {
+  "id": 702,
+  "name": "Myen",
+  "maps": [
+   10006000
+  ]
+ },
+ {
+  "id": 703,
+  "name": "Myra",
+  "maps": [
+   10006150
+  ]
+ },
+ {
+  "id": 704,
+  "name": "Cave Fairy's Storage",
+  "maps": [
+   10006000
+  ]
+ },
+ {
+  "id": 705,
+  "name": "Fully Bloomed Bluebell",
+  "maps": [
+   10006000
+  ]
+ },
+ {
+  "id": 706,
+  "name": "Bluebell Bud",
+  "maps": [
+   10006000
+  ]
+ },
+ {
+  "id": 707,
+  "name": "Nyroth",
+  "maps": [
+   10006001
+  ]
+ },
+ {
+  "id": 708,
+  "name": "Nyra",
+  "maps": []
+ },
+ {
+  "id": 709,
+  "name": "Torin",
+  "maps": [
+   10006002
+  ]
+ },
+ {
+  "id": 710,
+  "name": "Nyroth",
+  "maps": []
+ },
+ {
+  "id": 711,
+  "name": "Jaime the Explorer",
+  "maps": [
+   10006140
+  ]
+ },
+ {
+  "id": 712,
+  "name": "Daniel the Scholar",
+  "maps": [
+   10006160
+  ]
+ },
+ {
+  "id": 713,
+  "name": "Fully Bloomed Bluebell",
+  "maps": []
+ },
+ {
+  "id": 714,
+  "name": "Corrupted Bluebell",
+  "maps": []
+ },
+ {
+  "id": 715,
+  "name": "Tamya",
+  "maps": [
+   10006022
+  ]
+ },
+ {
+  "id": 716,
+  "name": "Sylka",
+  "maps": [
+   10006152
+  ]
+ },
+ {
+  "id": 717,
+  "name": "Glimmer",
+  "maps": [
+   10006122
+  ]
+ },
+ {
+  "id": 800,
+  "name": "Valen",
+  "maps": [
+   10007000
+  ]
+ },
+ {
+  "id": 801,
+  "name": "Pison",
+  "maps": [
+   10007000
+  ]
+ },
+ {
+  "id": 802,
+  "name": "Riel",
+  "maps": [
+   10007000
+  ]
+ },
+ {
+  "id": 803,
+  "name": "Roel",
+  "maps": [
+   10007000
+  ]
+ },
+ {
+  "id": 804,
+  "name": "Rael",
+  "maps": [
+   10007000
+  ]
+ },
+ {
+  "id": 1000,
+  "name": "Agatha",
+  "maps": []
+ },
+ {
+  "id": 1001,
+  "name": "Platform Usher",
+  "maps": []
+ },
+ {
+  "id": 1002,
+  "name": "Sunny",
+  "maps": []
+ },
+ {
+  "id": 1003,
+  "name": "Aileen",
+  "maps": []
+ },
+ {
+  "id": 1004,
+  "name": "Rini",
+  "maps": []
+ },
+ {
+  "id": 1005,
+  "name": "Shuri",
+  "maps": []
+ },
+ {
+  "id": 1006,
+  "name": "Erin",
+  "maps": []
+ },
+ {
+  "id": 1007,
+  "name": "Staff Sergeant Charlie",
+  "maps": []
+ },
+ {
+  "id": 1008,
+  "name": "Corporal Wilson",
+  "maps": []
+ },
+ {
+  "id": 1009,
+  "name": "Corporal Easy",
+  "maps": []
+ },
+ {
+  "id": 1010,
+  "name": "Lisa",
+  "maps": []
+ },
+ {
+  "id": 1011,
+  "name": "Trina",
+  "maps": []
+ },
+ {
+  "id": 1012,
+  "name": "Neri the Fairy",
+  "maps": []
+ },
+ {
+  "id": 1013,
+  "name": "Nuri the Fairy",
+  "maps": []
+ },
+ {
+  "id": 1014,
+  "name": "Edel the Fairy",
+  "maps": []
+ },
+ {
+  "id": 1015,
+  "name": "Kriel the Fairy",
+  "maps": []
+ },
+ {
+  "id": 1016,
+  "name": "Elma the Housekeeper",
+  "maps": []
+ },
+ {
+  "id": 1017,
+  "name": "Neve",
+  "maps": []
+ },
+ {
+  "id": 1018,
+  "name": "Franz the Owner",
+  "maps": []
+ },
+ {
+  "id": 1019,
+  "name": "Riza the Assistant",
+  "maps": []
+ },
+ {
+  "id": 1020,
+  "name": "Mino the Owner",
+  "maps": []
+ },
+ {
+  "id": 1021,
+  "name": "Rinz the Assistant",
+  "maps": []
+ },
+ {
+  "id": 1022,
+  "name": "Romi",
+  "maps": []
+ },
+ {
+  "id": 1023,
+  "name": "Spiruna",
+  "maps": []
+ },
+ {
+  "id": 1024,
+  "name": "????",
+  "maps": []
+ },
+ {
+  "id": 1025,
+  "name": "Barun",
+  "maps": []
+ },
+ {
+  "id": 1026,
+  "name": "Huckle",
+  "maps": []
+ },
+ {
+  "id": 1027,
+  "name": "Statue",
+  "maps": []
+ },
+ {
+  "id": 1028,
+  "name": "Orbis Magic Spot",
+  "maps": []
+ },
+ {
+  "id": 1029,
+  "name": "El Nath Magic Spot",
+  "maps": []
+ },
+ {
+  "id": 1030,
+  "name": "Heracle",
+  "maps": []
+ },
+ {
+  "id": 1100,
+  "name": "Master Sergeant Fox",
+  "maps": []
+ },
+ {
+  "id": 1101,
+  "name": "Sergeant Bravo",
+  "maps": []
+ },
+ {
+  "id": 1102,
+  "name": "Jade",
+  "maps": []
+ },
+ {
+  "id": 1103,
+  "name": "Scadur",
+  "maps": []
+ },
+ {
+  "id": 1104,
+  "name": "Tylus",
+  "maps": []
+ },
+ {
+  "id": 1105,
+  "name": "Robeira",
+  "maps": []
+ },
+ {
+  "id": 1106,
+  "name": "Rene",
+  "maps": []
+ },
+ {
+  "id": 1107,
+  "name": "Arec",
+  "maps": []
+ },
+ {
+  "id": 1108,
+  "name": "Vogen",
+  "maps": []
+ },
+ {
+  "id": 1109,
+  "name": "Gordon",
+  "maps": []
+ },
+ {
+  "id": 1110,
+  "name": "Mr. Thalj",
+  "maps": []
+ },
+ {
+  "id": 1111,
+  "name": "Alcaster",
+  "maps": []
+ },
+ {
+  "id": 1112,
+  "name": "Scott",
+  "maps": []
+ },
+ {
+  "id": 1113,
+  "name": "Rumi",
+  "maps": []
+ },
+ {
+  "id": 1114,
+  "name": "Hana",
+  "maps": []
+ },
+ {
+  "id": 1115,
+  "name": "Jeff",
+  "maps": []
+ },
+ {
+  "id": 1116,
+  "name": "Glibber",
+  "maps": []
+ },
+ {
+  "id": 1117,
+  "name": "Adobis",
+  "maps": []
+ },
+ {
+  "id": 1118,
+  "name": "Amon",
+  "maps": []
+ },
+ {
+  "id": 1119,
+  "name": "Ali",
+  "maps": []
+ },
+ {
+  "id": 1120,
+  "name": "Aura",
+  "maps": []
+ },
+ {
+  "id": 1121,
+  "name": "Lira",
+  "maps": []
+ },
+ {
+  "id": 1122,
+  "name": "Rock Covered in Snow",
+  "maps": []
+ },
+ {
+  "id": 1123,
+  "name": "Holy Stone",
+  "maps": []
+ },
+ {
+  "id": 1124,
+  "name": "Small Tomb",
+  "maps": []
+ },
+ {
+  "id": 1125,
+  "name": "Piece of Statue",
+  "maps": []
+ },
+ {
+  "id": 800000,
+  "name": "Lakelis",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 800001,
+  "name": "Cloto",
+  "maps": [
+   80000000,
+   80000100,
+   80000200,
+   80000300,
+   80000400
+  ]
+ },
+ {
+  "id": 800002,
+  "name": "Nella",
+  "maps": [
+   80000000,
+   80000100,
+   80000200,
+   80000300,
+   80000400,
+   80000500,
+   80000600
+  ]
+ },
+ {
+  "id": 800003,
+  "name": "Bowman Job Instructor",
+  "maps": [
+   80001000
+  ]
+ },
+ {
+  "id": 800004,
+  "name": "Magician Job Instructor",
+  "maps": [
+   80001100
+  ]
+ },
+ {
+  "id": 800005,
+  "name": "Thief Job Instructor",
+  "maps": [
+   80001200
+  ]
+ },
+ {
+  "id": 800006,
+  "name": "Warrior Job Instructor",
+  "maps": [
+   80001300
+  ]
+ },
+ {
+  "id": 800007,
+  "name": "Free Market Maple TV",
+  "maps": [
+   80002000
+  ]
+ },
+ {
+  "id": 800008,
+  "name": "Fredrick",
+  "maps": [
+   80002000
+  ]
+ },
+ {
+  "id": 800009,
+  "name": "Scrooge",
+  "maps": [
+   80002000
+  ]
+ },
+ {
+  "id": 800010,
+  "name": "Anvil",
+  "maps": [
+   10004000
+  ]
+ },
+ {
+  "id": 800011,
+  "name": "Weaponcrafting Station",
+  "maps": [
+   10003000,
+   10004000
+  ]
+ },
+ {
+  "id": 800012,
+  "name": "Sewing Machine",
+  "maps": [
+   10002000
+  ]
+ },
+ {
+  "id": 800013,
+  "name": "Woodcrafting Station",
+  "maps": [
+   10001040,
+   10002000,
+   10006000
+  ]
+ },
+ {
+  "id": 800014,
+  "name": "Leatherworking Station",
+  "maps": [
+   10001040,
+   10003000
+  ]
+ },
+ {
+  "id": 800015,
+  "name": "Arcane Station",
+  "maps": [
+   10002000,
+   10005000,
+   10006001
+  ]
+ },
+ {
+  "id": 800016,
+  "name": "Maple Administrator",
+  "maps": [
+   89000000
+  ]
+ },
+ {
+  "id": 800018,
+  "name": "Lewis",
+  "maps": [
+   80002000
+  ]
+ },
+ {
+  "id": 800019,
+  "name": "Tory",
+  "maps": [
+   10001050,
+   80003100,
+   80003400
+  ]
+ },
+ {
+  "id": 800020,
+  "name": "Timmy",
+  "maps": [
+   80003100,
+   80003200,
+   80003300
+  ]
+ },
+ {
+  "id": 800021,
+  "name": "Growlie",
+  "maps": [
+   80003000
+  ]
+ },
+ {
+  "id": 800026,
+  "name": "Captain Al",
+  "maps": []
+ },
+ {
+  "id": 800100,
+  "name": "Zelya",
+  "maps": []
+ },
+ {
+  "id": 800101,
+  "name": "Moss Firefly",
+  "maps": [
+   10006003
+  ]
+ },
+ {
+  "id": 800102,
+  "name": "Dewdrop Firefly",
+  "maps": []
+ },
+ {
+  "id": 800103,
+  "name": "Amethyst Firefly",
+  "maps": []
+ },
+ {
+  "id": 900000,
+  "name": "Maple Administrator",
+  "maps": []
+ },
+ {
+  "id": 900001,
+  "name": "Maple Administrator",
+  "maps": [
+   900000000
+  ]
+ },
+ {
+  "id": 900002,
+  "name": "Maple Administrator",
+  "maps": []
+ },
+ {
+  "id": 900003,
+  "name": "Lyn",
+  "maps": []
+ },
+ {
+  "id": 900004,
+  "name": "Whitney",
+  "maps": []
+ },
+ {
+  "id": 900010,
+  "name": "Paul",
+  "maps": [
+   10000000
+  ]
+ },
+ {
+  "id": 900011,
+  "name": "Vikoon",
+  "maps": [
+   90050000
+  ]
+ },
+ {
+  "id": 900012,
+  "name": "Pietro",
+  "maps": [
+   90050001
+  ]
+ },
+ {
+  "id": 900013,
+  "name": "Pietra",
+  "maps": [
+   90050000
+  ]
+ },
+ {
+  "id": 900014,
+  "name": "Chun Ji",
+  "maps": [
+   10003010
+  ]
+ },
+ {
+  "id": 900015,
+  "name": "Mr. Pickall",
+  "maps": [
+   10003000
+  ]
+ },
+ {
+  "id": 900016,
+  "name": "Harry",
+  "maps": [
+   90040200,
+   90040201,
+   90040202,
+   90040203
+  ]
+ },
+ {
+  "id": 900017,
+  "name": "Rooney",
+  "maps": []
+ },
+ {
+  "id": 900018,
+  "name": "Rupi",
+  "maps": []
+ },
+ {
+  "id": 900019,
+  "name": "Rudi",
+  "maps": []
+ },
+ {
+  "id": 900020,
+  "name": "Torr",
+  "maps": []
+ },
+ {
+  "id": 900021,
+  "name": "Branch Snowman",
+  "maps": []
+ },
+ {
+  "id": 900022,
+  "name": "Metal Bucket Snowman",
+  "maps": []
+ },
+ {
+  "id": 900023,
+  "name": "Straw Hat Snowman",
+  "maps": []
+ },
+ {
+  "id": 900024,
+  "name": "Scarf Snowman",
+  "maps": []
+ },
+ {
+  "id": 900025,
+  "name": "Cliff",
+  "maps": []
+ },
+ {
+  "id": 900026,
+  "name": "Malady",
+  "maps": []
+ },
+ {
+  "id": 900027,
+  "name": "Grandma Benson",
+  "maps": [
+   10001000,
+   10003000
+  ]
+ },
+ {
+  "id": 9010000,
+  "name": "Maple Administrator",
+  "maps": [
+   10001000,
+   10003000
+  ]
+ },
+ {
+  "id": 9090000,
+  "name": "Mr. Wang",
+  "maps": []
+ }
+]

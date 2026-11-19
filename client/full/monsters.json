@@ -1,0 +1,3946 @@
+[
+ {
+  "id": 1,
+  "name": "Tutorial Jr. Sentinel",
+  "spawns": [
+   {
+    "map_id": 30,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "name": "Snail",
+  "spawns": [
+   {
+    "map_id": 40,
+    "count": 40
+   },
+   {
+    "map_id": 41,
+    "count": 29
+   },
+   {
+    "map_id": 42,
+    "count": 20
+   },
+   {
+    "map_id": 1000,
+    "count": 7
+   },
+   {
+    "map_id": 1001,
+    "count": 12
+   },
+   {
+    "map_id": 1002,
+    "count": 14
+   },
+   {
+    "map_id": 1003,
+    "count": 7
+   },
+   {
+    "map_id": 1004,
+    "count": 11
+   },
+   {
+    "map_id": 1005,
+    "count": 14
+   },
+   {
+    "map_id": 1006,
+    "count": 10
+   },
+   {
+    "map_id": 1014,
+    "count": 6
+   },
+   {
+    "map_id": 1020,
+    "count": 3
+   },
+   {
+    "map_id": 1021,
+    "count": 9
+   },
+   {
+    "map_id": 10000011,
+    "count": 20
+   },
+   {
+    "map_id": 10000012,
+    "count": 9
+   },
+   {
+    "map_id": 10000013,
+    "count": 13
+   },
+   {
+    "map_id": 10000020,
+    "count": 5
+   },
+   {
+    "map_id": 10000022,
+    "count": 2
+   },
+   {
+    "map_id": 10001030,
+    "count": 13
+   },
+   {
+    "map_id": 10001080,
+    "count": 7
+   },
+   {
+    "map_id": 10002020,
+    "count": 3
+   },
+   {
+    "map_id": 10002030,
+    "count": 15
+   },
+   {
+    "map_id": 10002050,
+    "count": 10
+   },
+   {
+    "map_id": 10002070,
+    "count": 9
+   },
+   {
+    "map_id": 10003030,
+    "count": 1
+   },
+   {
+    "map_id": 10003040,
+    "count": 4
+   },
+   {
+    "map_id": 10003052,
+    "count": 5
+   },
+   {
+    "map_id": 10004030,
+    "count": 6
+   },
+   {
+    "map_id": 10004040,
+    "count": 6
+   },
+   {
+    "map_id": 10004053,
+    "count": 11
+   },
+   {
+    "map_id": 10004060,
+    "count": 9
+   },
+   {
+    "map_id": 10004070,
+    "count": 12
+   },
+   {
+    "map_id": 10004090,
+    "count": 3
+   },
+   {
+    "map_id": 10005011,
+    "count": 1
+   },
+   {
+    "map_id": 10005012,
+    "count": 1
+   },
+   {
+    "map_id": 10005020,
+    "count": 7
+   },
+   {
+    "map_id": 10005090,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Blue Snail",
+  "spawns": [
+   {
+    "map_id": 41,
+    "count": 13
+   },
+   {
+    "map_id": 42,
+    "count": 21
+   },
+   {
+    "map_id": 50,
+    "count": 17
+   },
+   {
+    "map_id": 1000,
+    "count": 13
+   },
+   {
+    "map_id": 1001,
+    "count": 7
+   },
+   {
+    "map_id": 1002,
+    "count": 3
+   },
+   {
+    "map_id": 1004,
+    "count": 19
+   },
+   {
+    "map_id": 1005,
+    "count": 12
+   },
+   {
+    "map_id": 1006,
+    "count": 16
+   },
+   {
+    "map_id": 1014,
+    "count": 10
+   },
+   {
+    "map_id": 1020,
+    "count": 11
+   },
+   {
+    "map_id": 1021,
+    "count": 8
+   },
+   {
+    "map_id": 10000010,
+    "count": 20
+   },
+   {
+    "map_id": 10000011,
+    "count": 12
+   },
+   {
+    "map_id": 10000013,
+    "count": 1
+   },
+   {
+    "map_id": 10000020,
+    "count": 14
+   },
+   {
+    "map_id": 10000021,
+    "count": 2
+   },
+   {
+    "map_id": 10000022,
+    "count": 11
+   },
+   {
+    "map_id": 10001010,
+    "count": 4
+   },
+   {
+    "map_id": 10001011,
+    "count": 3
+   },
+   {
+    "map_id": 10001012,
+    "count": 2
+   },
+   {
+    "map_id": 10001020,
+    "count": 1
+   },
+   {
+    "map_id": 10001030,
+    "count": 20
+   },
+   {
+    "map_id": 10001060,
+    "count": 5
+   },
+   {
+    "map_id": 10001080,
+    "count": 3
+   },
+   {
+    "map_id": 10001081,
+    "count": 7
+   },
+   {
+    "map_id": 10001090,
+    "count": 4
+   },
+   {
+    "map_id": 10003010,
+    "count": 8
+   },
+   {
+    "map_id": 10003020,
+    "count": 8
+   },
+   {
+    "map_id": 10003030,
+    "count": 2
+   },
+   {
+    "map_id": 10003040,
+    "count": 6
+   },
+   {
+    "map_id": 10003050,
+    "count": 14
+   },
+   {
+    "map_id": 10003051,
+    "count": 9
+   },
+   {
+    "map_id": 10003052,
+    "count": 6
+   },
+   {
+    "map_id": 10003070,
+    "count": 7
+   },
+   {
+    "map_id": 10004010,
+    "count": 10
+   },
+   {
+    "map_id": 10004030,
+    "count": 8
+   },
+   {
+    "map_id": 10004040,
+    "count": 1
+   },
+   {
+    "map_id": 10004050,
+    "count": 9
+   },
+   {
+    "map_id": 10004090,
+    "count": 15
+   },
+   {
+    "map_id": 10004100,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Shroom",
+  "spawns": [
+   {
+    "map_id": 50,
+    "count": 14
+   },
+   {
+    "map_id": 1000,
+    "count": 17
+   },
+   {
+    "map_id": 1001,
+    "count": 12
+   },
+   {
+    "map_id": 1003,
+    "count": 23
+   },
+   {
+    "map_id": 1005,
+    "count": 10
+   },
+   {
+    "map_id": 1006,
+    "count": 7
+   },
+   {
+    "map_id": 10000022,
+    "count": 2
+   },
+   {
+    "map_id": 10001010,
+    "count": 10
+   },
+   {
+    "map_id": 10001011,
+    "count": 6
+   },
+   {
+    "map_id": 10001021,
+    "count": 10
+   },
+   {
+    "map_id": 10001060,
+    "count": 22
+   },
+   {
+    "map_id": 10001080,
+    "count": 2
+   },
+   {
+    "map_id": 10001090,
+    "count": 10
+   },
+   {
+    "map_id": 10003020,
+    "count": 9
+   },
+   {
+    "map_id": 10003030,
+    "count": 8
+   },
+   {
+    "map_id": 10003040,
+    "count": 5
+   },
+   {
+    "map_id": 10003050,
+    "count": 3
+   },
+   {
+    "map_id": 10003051,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Red Snail",
+  "spawns": [
+   {
+    "map_id": 42,
+    "count": 1
+   },
+   {
+    "map_id": 50,
+    "count": 11
+   },
+   {
+    "map_id": 1000,
+    "count": 24
+   },
+   {
+    "map_id": 1001,
+    "count": 5
+   },
+   {
+    "map_id": 1002,
+    "count": 5
+   },
+   {
+    "map_id": 1004,
+    "count": 11
+   },
+   {
+    "map_id": 1005,
+    "count": 8
+   },
+   {
+    "map_id": 1006,
+    "count": 6
+   },
+   {
+    "map_id": 1014,
+    "count": 12
+   },
+   {
+    "map_id": 1020,
+    "count": 12
+   },
+   {
+    "map_id": 1021,
+    "count": 4
+   },
+   {
+    "map_id": 10000010,
+    "count": 12
+   },
+   {
+    "map_id": 10000011,
+    "count": 13
+   },
+   {
+    "map_id": 10000013,
+    "count": 2
+   },
+   {
+    "map_id": 10000020,
+    "count": 11
+   },
+   {
+    "map_id": 10000021,
+    "count": 4
+   },
+   {
+    "map_id": 10000022,
+    "count": 4
+   },
+   {
+    "map_id": 10001010,
+    "count": 6
+   },
+   {
+    "map_id": 10001011,
+    "count": 6
+   },
+   {
+    "map_id": 10001012,
+    "count": 6
+   },
+   {
+    "map_id": 10001020,
+    "count": 5
+   },
+   {
+    "map_id": 10001021,
+    "count": 9
+   },
+   {
+    "map_id": 10001030,
+    "count": 11
+   },
+   {
+    "map_id": 10001060,
+    "count": 7
+   },
+   {
+    "map_id": 10001080,
+    "count": 6
+   },
+   {
+    "map_id": 10001081,
+    "count": 1
+   },
+   {
+    "map_id": 10001090,
+    "count": 2
+   },
+   {
+    "map_id": 10003020,
+    "count": 7
+   },
+   {
+    "map_id": 10003030,
+    "count": 5
+   },
+   {
+    "map_id": 10003040,
+    "count": 14
+   },
+   {
+    "map_id": 10003050,
+    "count": 10
+   },
+   {
+    "map_id": 10003051,
+    "count": 8
+   },
+   {
+    "map_id": 10003052,
+    "count": 8
+   },
+   {
+    "map_id": 10003080,
+    "count": 23
+   },
+   {
+    "map_id": 10004020,
+    "count": 22
+   },
+   {
+    "map_id": 10004021,
+    "count": 12
+   },
+   {
+    "map_id": 10004022,
+    "count": 9
+   },
+   {
+    "map_id": 10004030,
+    "count": 1
+   },
+   {
+    "map_id": 10004040,
+    "count": 7
+   },
+   {
+    "map_id": 10004050,
+    "count": 16
+   },
+   {
+    "map_id": 10004051,
+    "count": 9
+   },
+   {
+    "map_id": 10004052,
+    "count": 8
+   },
+   {
+    "map_id": 10004054,
+    "count": 5
+   },
+   {
+    "map_id": 10004060,
+    "count": 11
+   },
+   {
+    "map_id": 10004070,
+    "count": 4
+   },
+   {
+    "map_id": 10004080,
+    "count": 8
+   },
+   {
+    "map_id": 10004090,
+    "count": 5
+   },
+   {
+    "map_id": 10004100,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "name": "Stump",
+  "spawns": [
+   {
+    "map_id": 10000011,
+    "count": 11
+   },
+   {
+    "map_id": 10000013,
+    "count": 10
+   },
+   {
+    "map_id": 10001010,
+    "count": 4
+   },
+   {
+    "map_id": 10001011,
+    "count": 12
+   },
+   {
+    "map_id": 10001012,
+    "count": 10
+   },
+   {
+    "map_id": 10001020,
+    "count": 16
+   },
+   {
+    "map_id": 10001030,
+    "count": 5
+   },
+   {
+    "map_id": 10002010,
+    "count": 27
+   },
+   {
+    "map_id": 10002030,
+    "count": 19
+   },
+   {
+    "map_id": 10002050,
+    "count": 12
+   },
+   {
+    "map_id": 10002060,
+    "count": 8
+   },
+   {
+    "map_id": 10002061,
+    "count": 28
+   },
+   {
+    "map_id": 10002062,
+    "count": 27
+   },
+   {
+    "map_id": 10002070,
+    "count": 21
+   },
+   {
+    "map_id": 10003010,
+    "count": 24
+   },
+   {
+    "map_id": 10003020,
+    "count": 2
+   },
+   {
+    "map_id": 10003030,
+    "count": 3
+   },
+   {
+    "map_id": 10003040,
+    "count": 3
+   },
+   {
+    "map_id": 10003070,
+    "count": 15
+   },
+   {
+    "map_id": 10004010,
+    "count": 24
+   },
+   {
+    "map_id": 10004020,
+    "count": 27
+   },
+   {
+    "map_id": 10004021,
+    "count": 20
+   },
+   {
+    "map_id": 10004022,
+    "count": 9
+   },
+   {
+    "map_id": 10004030,
+    "count": 15
+   },
+   {
+    "map_id": 10004040,
+    "count": 15
+   },
+   {
+    "map_id": 10004042,
+    "count": 4
+   },
+   {
+    "map_id": 10004050,
+    "count": 14
+   },
+   {
+    "map_id": 10004051,
+    "count": 16
+   },
+   {
+    "map_id": 10004052,
+    "count": 8
+   },
+   {
+    "map_id": 10004060,
+    "count": 15
+   },
+   {
+    "map_id": 10004070,
+    "count": 6
+   },
+   {
+    "map_id": 10004080,
+    "count": 2
+   },
+   {
+    "map_id": 10004090,
+    "count": 8
+   },
+   {
+    "map_id": 10005020,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "name": "Slime",
+  "spawns": [
+   {
+    "map_id": 10000010,
+    "count": 11
+   },
+   {
+    "map_id": 10000011,
+    "count": 11
+   },
+   {
+    "map_id": 10000012,
+    "count": 12
+   },
+   {
+    "map_id": 10000020,
+    "count": 17
+   },
+   {
+    "map_id": 10000022,
+    "count": 6
+   },
+   {
+    "map_id": 10001010,
+    "count": 5
+   },
+   {
+    "map_id": 10001011,
+    "count": 8
+   },
+   {
+    "map_id": 10001012,
+    "count": 17
+   },
+   {
+    "map_id": 10001020,
+    "count": 6
+   },
+   {
+    "map_id": 10001030,
+    "count": 9
+   },
+   {
+    "map_id": 10001060,
+    "count": 7
+   },
+   {
+    "map_id": 10001080,
+    "count": 7
+   },
+   {
+    "map_id": 10001081,
+    "count": 8
+   },
+   {
+    "map_id": 10001090,
+    "count": 6
+   },
+   {
+    "map_id": 10001100,
+    "count": 14
+   },
+   {
+    "map_id": 10002010,
+    "count": 18
+   },
+   {
+    "map_id": 10002020,
+    "count": 25
+   },
+   {
+    "map_id": 10002027,
+    "count": 7
+   },
+   {
+    "map_id": 10002030,
+    "count": 24
+   },
+   {
+    "map_id": 10002031,
+    "count": 21
+   },
+   {
+    "map_id": 10002032,
+    "count": 11
+   },
+   {
+    "map_id": 10002033,
+    "count": 10
+   },
+   {
+    "map_id": 10002034,
+    "count": 2
+   },
+   {
+    "map_id": 10002050,
+    "count": 16
+   },
+   {
+    "map_id": 10002060,
+    "count": 22
+   },
+   {
+    "map_id": 10002061,
+    "count": 30
+   },
+   {
+    "map_id": 10002070,
+    "count": 26
+   },
+   {
+    "map_id": 10002072,
+    "count": 15
+   },
+   {
+    "map_id": 10002073,
+    "count": 2
+   },
+   {
+    "map_id": 10002074,
+    "count": 12
+   },
+   {
+    "map_id": 10002075,
+    "count": 13
+   },
+   {
+    "map_id": 10002076,
+    "count": 14
+   },
+   {
+    "map_id": 10003020,
+    "count": 6
+   },
+   {
+    "map_id": 10003030,
+    "count": 6
+   },
+   {
+    "map_id": 10003040,
+    "count": 23
+   },
+   {
+    "map_id": 10003050,
+    "count": 10
+   },
+   {
+    "map_id": 10003051,
+    "count": 10
+   },
+   {
+    "map_id": 10003052,
+    "count": 13
+   },
+   {
+    "map_id": 10003090,
+    "count": 9
+   },
+   {
+    "map_id": 10003091,
+    "count": 6
+   },
+   {
+    "map_id": 10003092,
+    "count": 7
+   },
+   {
+    "map_id": 10003093,
+    "count": 7
+   },
+   {
+    "map_id": 10003094,
+    "count": 9
+   },
+   {
+    "map_id": 10005010,
+    "count": 16
+   },
+   {
+    "map_id": 10005011,
+    "count": 8
+   },
+   {
+    "map_id": 10005012,
+    "count": 2
+   },
+   {
+    "map_id": 10005020,
+    "count": 15
+   },
+   {
+    "map_id": 10005030,
+    "count": 13
+   },
+   {
+    "map_id": 10005031,
+    "count": 2
+   },
+   {
+    "map_id": 10005050,
+    "count": 4
+   },
+   {
+    "map_id": 10005051,
+    "count": 9
+   },
+   {
+    "map_id": 10005054,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "name": "Pig",
+  "spawns": [
+   {
+    "map_id": 10000012,
+    "count": 18
+   },
+   {
+    "map_id": 10000020,
+    "count": 6
+   },
+   {
+    "map_id": 10000021,
+    "count": 8
+   },
+   {
+    "map_id": 10000022,
+    "count": 1
+   },
+   {
+    "map_id": 10001020,
+    "count": 16
+   },
+   {
+    "map_id": 10001030,
+    "count": 3
+   },
+   {
+    "map_id": 10001060,
+    "count": 3
+   },
+   {
+    "map_id": 10001070,
+    "count": 5
+   },
+   {
+    "map_id": 10001080,
+    "count": 15
+   },
+   {
+    "map_id": 10001090,
+    "count": 2
+   },
+   {
+    "map_id": 10003020,
+    "count": 9
+   },
+   {
+    "map_id": 10003030,
+    "count": 9
+   },
+   {
+    "map_id": 10003040,
+    "count": 7
+   },
+   {
+    "map_id": 10003050,
+    "count": 3
+   },
+   {
+    "map_id": 10003051,
+    "count": 2
+   },
+   {
+    "map_id": 10003052,
+    "count": 3
+   },
+   {
+    "map_id": 80003200,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "name": "Orange Mushroom",
+  "spawns": [
+   {
+    "map_id": 1000,
+    "count": 5
+   },
+   {
+    "map_id": 1001,
+    "count": 4
+   },
+   {
+    "map_id": 1002,
+    "count": 12
+   },
+   {
+    "map_id": 1003,
+    "count": 5
+   },
+   {
+    "map_id": 1006,
+    "count": 6
+   },
+   {
+    "map_id": 1014,
+    "count": 6
+   },
+   {
+    "map_id": 1020,
+    "count": 12
+   },
+   {
+    "map_id": 1021,
+    "count": 4
+   },
+   {
+    "map_id": 10000012,
+    "count": 9
+   },
+   {
+    "map_id": 10000013,
+    "count": 8
+   },
+   {
+    "map_id": 10000020,
+    "count": 9
+   },
+   {
+    "map_id": 10000022,
+    "count": 3
+   },
+   {
+    "map_id": 10001002,
+    "count": 6
+   },
+   {
+    "map_id": 10001010,
+    "count": 5
+   },
+   {
+    "map_id": 10001011,
+    "count": 8
+   },
+   {
+    "map_id": 10001012,
+    "count": 11
+   },
+   {
+    "map_id": 10001021,
+    "count": 15
+   },
+   {
+    "map_id": 10001030,
+    "count": 3
+   },
+   {
+    "map_id": 10001060,
+    "count": 2
+   },
+   {
+    "map_id": 10001080,
+    "count": 6
+   },
+   {
+    "map_id": 10001090,
+    "count": 2
+   },
+   {
+    "map_id": 10003010,
+    "count": 8
+   },
+   {
+    "map_id": 10003011,
+    "count": 5
+   },
+   {
+    "map_id": 10003020,
+    "count": 7
+   },
+   {
+    "map_id": 10003030,
+    "count": 3
+   },
+   {
+    "map_id": 10003050,
+    "count": 8
+   },
+   {
+    "map_id": 10003051,
+    "count": 8
+   },
+   {
+    "map_id": 10003052,
+    "count": 10
+   },
+   {
+    "map_id": 10003070,
+    "count": 8
+   },
+   {
+    "map_id": 10003080,
+    "count": 9
+   },
+   {
+    "map_id": 10003081,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "name": "Ribbon Pig",
+  "spawns": [
+   {
+    "map_id": 10000020,
+    "count": 6
+   },
+   {
+    "map_id": 10000021,
+    "count": 8
+   },
+   {
+    "map_id": 10000022,
+    "count": 5
+   },
+   {
+    "map_id": 10001020,
+    "count": 10
+   },
+   {
+    "map_id": 10001030,
+    "count": 1
+   },
+   {
+    "map_id": 10001060,
+    "count": 3
+   },
+   {
+    "map_id": 10001070,
+    "count": 4
+   },
+   {
+    "map_id": 10001080,
+    "count": 11
+   },
+   {
+    "map_id": 10001090,
+    "count": 7
+   },
+   {
+    "map_id": 10003020,
+    "count": 21
+   },
+   {
+    "map_id": 10003030,
+    "count": 10
+   },
+   {
+    "map_id": 10003040,
+    "count": 7
+   },
+   {
+    "map_id": 10003050,
+    "count": 5
+   },
+   {
+    "map_id": 10003051,
+    "count": 5
+   },
+   {
+    "map_id": 10003052,
+    "count": 3
+   },
+   {
+    "map_id": 80003200,
+    "count": 17
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "name": "Dark Stump",
+  "spawns": [
+   {
+    "map_id": 10002010,
+    "count": 13
+   },
+   {
+    "map_id": 10002060,
+    "count": 10
+   },
+   {
+    "map_id": 10002061,
+    "count": 12
+   },
+   {
+    "map_id": 10002062,
+    "count": 13
+   },
+   {
+    "map_id": 10003070,
+    "count": 7
+   },
+   {
+    "map_id": 10003080,
+    "count": 11
+   },
+   {
+    "map_id": 10004010,
+    "count": 14
+   },
+   {
+    "map_id": 10004021,
+    "count": 10
+   },
+   {
+    "map_id": 10004022,
+    "count": 3
+   },
+   {
+    "map_id": 10004030,
+    "count": 21
+   },
+   {
+    "map_id": 10004040,
+    "count": 11
+   },
+   {
+    "map_id": 10004042,
+    "count": 4
+   },
+   {
+    "map_id": 10004050,
+    "count": 13
+   },
+   {
+    "map_id": 10004052,
+    "count": 14
+   },
+   {
+    "map_id": 10004053,
+    "count": 17
+   },
+   {
+    "map_id": 10004054,
+    "count": 17
+   },
+   {
+    "map_id": 10004055,
+    "count": 4
+   },
+   {
+    "map_id": 10004060,
+    "count": 3
+   },
+   {
+    "map_id": 10004070,
+    "count": 5
+   },
+   {
+    "map_id": 10004090,
+    "count": 10
+   },
+   {
+    "map_id": 10004091,
+    "count": 2
+   },
+   {
+    "map_id": 10004100,
+    "count": 6
+   },
+   {
+    "map_id": 10004110,
+    "count": 5
+   },
+   {
+    "map_id": 10004120,
+    "count": 10
+   },
+   {
+    "map_id": 10004121,
+    "count": 10
+   },
+   {
+    "map_id": 10005010,
+    "count": 4
+   },
+   {
+    "map_id": 10005020,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "name": "Octopus",
+  "spawns": [
+   {
+    "map_id": 10003010,
+    "count": 10
+   },
+   {
+    "map_id": 10003011,
+    "count": 12
+   },
+   {
+    "map_id": 10003080,
+    "count": 8
+   },
+   {
+    "map_id": 10003081,
+    "count": 12
+   },
+   {
+    "map_id": 10005010,
+    "count": 2
+   },
+   {
+    "map_id": 10005011,
+    "count": 2
+   },
+   {
+    "map_id": 10005030,
+    "count": 19
+   },
+   {
+    "map_id": 10005031,
+    "count": 15
+   },
+   {
+    "map_id": 10005050,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "name": "Green Mushroom",
+  "spawns": [
+   {
+    "map_id": 10001010,
+    "count": 5
+   },
+   {
+    "map_id": 10001011,
+    "count": 4
+   },
+   {
+    "map_id": 10001012,
+    "count": 13
+   },
+   {
+    "map_id": 10001100,
+    "count": 9
+   },
+   {
+    "map_id": 10002010,
+    "count": 8
+   },
+   {
+    "map_id": 10002020,
+    "count": 30
+   },
+   {
+    "map_id": 10002021,
+    "count": 9
+   },
+   {
+    "map_id": 10002027,
+    "count": 12
+   },
+   {
+    "map_id": 10002030,
+    "count": 3
+   },
+   {
+    "map_id": 10002032,
+    "count": 16
+   },
+   {
+    "map_id": 10002033,
+    "count": 16
+   },
+   {
+    "map_id": 10002034,
+    "count": 9
+   },
+   {
+    "map_id": 10002062,
+    "count": 8
+   },
+   {
+    "map_id": 10002073,
+    "count": 14
+   },
+   {
+    "map_id": 10002074,
+    "count": 16
+   },
+   {
+    "map_id": 10002075,
+    "count": 31
+   },
+   {
+    "map_id": 10002076,
+    "count": 13
+   },
+   {
+    "map_id": 10003010,
+    "count": 2
+   },
+   {
+    "map_id": 10003020,
+    "count": 3
+   },
+   {
+    "map_id": 10003030,
+    "count": 4
+   },
+   {
+    "map_id": 10003040,
+    "count": 10
+   },
+   {
+    "map_id": 10003051,
+    "count": 2
+   },
+   {
+    "map_id": 10003052,
+    "count": 2
+   },
+   {
+    "map_id": 10003070,
+    "count": 7
+   },
+   {
+    "map_id": 10004010,
+    "count": 5
+   },
+   {
+    "map_id": 10004022,
+    "count": 32
+   },
+   {
+    "map_id": 10004030,
+    "count": 14
+   },
+   {
+    "map_id": 10004060,
+    "count": 6
+   },
+   {
+    "map_id": 10004090,
+    "count": 12
+   },
+   {
+    "map_id": 10005010,
+    "count": 16
+   },
+   {
+    "map_id": 10005011,
+    "count": 2
+   },
+   {
+    "map_id": 10005020,
+    "count": 8
+   },
+   {
+    "map_id": 10005050,
+    "count": 4
+   },
+   {
+    "map_id": 10005051,
+    "count": 7
+   },
+   {
+    "map_id": 80000500,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "name": "Bubbling",
+  "spawns": [
+   {
+    "map_id": 10003061,
+    "count": 64
+   },
+   {
+    "map_id": 10003102,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "name": "Axe Stump",
+  "spawns": [
+   {
+    "map_id": 10002030,
+    "count": 2
+   },
+   {
+    "map_id": 10002070,
+    "count": 13
+   },
+   {
+    "map_id": 10003080,
+    "count": 2
+   },
+   {
+    "map_id": 10004020,
+    "count": 4
+   },
+   {
+    "map_id": 10004021,
+    "count": 7
+   },
+   {
+    "map_id": 10004022,
+    "count": 5
+   },
+   {
+    "map_id": 10004023,
+    "count": 1
+   },
+   {
+    "map_id": 10004042,
+    "count": 11
+   },
+   {
+    "map_id": 10004051,
+    "count": 12
+   },
+   {
+    "map_id": 10004052,
+    "count": 12
+   },
+   {
+    "map_id": 10004053,
+    "count": 6
+   },
+   {
+    "map_id": 10004055,
+    "count": 3
+   },
+   {
+    "map_id": 10004057,
+    "count": 5
+   },
+   {
+    "map_id": 10004070,
+    "count": 5
+   },
+   {
+    "map_id": 10004080,
+    "count": 3
+   },
+   {
+    "map_id": 10004090,
+    "count": 8
+   },
+   {
+    "map_id": 10004091,
+    "count": 6
+   },
+   {
+    "map_id": 10004100,
+    "count": 1
+   },
+   {
+    "map_id": 10004110,
+    "count": 11
+   },
+   {
+    "map_id": 10004120,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "name": "Blue Mushroom",
+  "spawns": [
+   {
+    "map_id": 10001080,
+    "count": 2
+   },
+   {
+    "map_id": 10001081,
+    "count": 16
+   },
+   {
+    "map_id": 10001090,
+    "count": 11
+   },
+   {
+    "map_id": 10001100,
+    "count": 5
+   },
+   {
+    "map_id": 10001101,
+    "count": 12
+   },
+   {
+    "map_id": 10001102,
+    "count": 12
+   },
+   {
+    "map_id": 10001103,
+    "count": 7
+   },
+   {
+    "map_id": 10001104,
+    "count": 4
+   },
+   {
+    "map_id": 10001105,
+    "count": 5
+   },
+   {
+    "map_id": 10001106,
+    "count": 7
+   },
+   {
+    "map_id": 10002034,
+    "count": 1
+   },
+   {
+    "map_id": 10003011,
+    "count": 3
+   },
+   {
+    "map_id": 10003030,
+    "count": 2
+   },
+   {
+    "map_id": 10003040,
+    "count": 4
+   },
+   {
+    "map_id": 10003080,
+    "count": 1
+   },
+   {
+    "map_id": 10003081,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "name": "Stirge",
+  "spawns": [
+   {
+    "map_id": 10003062,
+    "count": 38
+   },
+   {
+    "map_id": 10003063,
+    "count": 21
+   },
+   {
+    "map_id": 10003064,
+    "count": 18
+   },
+   {
+    "map_id": 10005064,
+    "count": 35
+   },
+   {
+    "map_id": 10005065,
+    "count": 38
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "name": "Jr. Necki",
+  "spawns": [
+   {
+    "map_id": 10003066,
+    "count": 14
+   },
+   {
+    "map_id": 10003067,
+    "count": 18
+   },
+   {
+    "map_id": 10003090,
+    "count": 10
+   },
+   {
+    "map_id": 10003091,
+    "count": 17
+   },
+   {
+    "map_id": 10003092,
+    "count": 19
+   },
+   {
+    "map_id": 10003093,
+    "count": 27
+   },
+   {
+    "map_id": 10003094,
+    "count": 21
+   },
+   {
+    "map_id": 10003095,
+    "count": 3
+   },
+   {
+    "map_id": 10003096,
+    "count": 3
+   },
+   {
+    "map_id": 10003097,
+    "count": 11
+   },
+   {
+    "map_id": 10003110,
+    "count": 16
+   },
+   {
+    "map_id": 10003111,
+    "count": 12
+   },
+   {
+    "map_id": 10005010,
+    "count": 3
+   },
+   {
+    "map_id": 10005011,
+    "count": 11
+   },
+   {
+    "map_id": 10005030,
+    "count": 8
+   },
+   {
+    "map_id": 10005031,
+    "count": 11
+   },
+   {
+    "map_id": 10005050,
+    "count": 1
+   },
+   {
+    "map_id": 10005051,
+    "count": 5
+   },
+   {
+    "map_id": 10005052,
+    "count": 4
+   },
+   {
+    "map_id": 10005053,
+    "count": 3
+   },
+   {
+    "map_id": 10005054,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "name": "Horny Mushroom",
+  "spawns": [
+   {
+    "map_id": 10002027,
+    "count": 17
+   },
+   {
+    "map_id": 10002034,
+    "count": 13
+   },
+   {
+    "map_id": 10002072,
+    "count": 14
+   },
+   {
+    "map_id": 10002073,
+    "count": 15
+   },
+   {
+    "map_id": 10002074,
+    "count": 16
+   },
+   {
+    "map_id": 10002076,
+    "count": 15
+   },
+   {
+    "map_id": 10003090,
+    "count": 3
+   },
+   {
+    "map_id": 10003091,
+    "count": 20
+   },
+   {
+    "map_id": 10005010,
+    "count": 9
+   },
+   {
+    "map_id": 10005012,
+    "count": 16
+   },
+   {
+    "map_id": 10005020,
+    "count": 6
+   },
+   {
+    "map_id": 10005050,
+    "count": 10
+   },
+   {
+    "map_id": 10005051,
+    "count": 9
+   },
+   {
+    "map_id": 10005060,
+    "count": 15
+   },
+   {
+    "map_id": 10005061,
+    "count": 15
+   },
+   {
+    "map_id": 10005062,
+    "count": 38
+   },
+   {
+    "map_id": 10005063,
+    "count": 41
+   },
+   {
+    "map_id": 10005064,
+    "count": 9
+   },
+   {
+    "map_id": 10005065,
+    "count": 5
+   },
+   {
+    "map_id": 10005066,
+    "count": 16
+   },
+   {
+    "map_id": 10005067,
+    "count": 9
+   },
+   {
+    "map_id": 10005070,
+    "count": 4
+   },
+   {
+    "map_id": 10005075,
+    "count": 2
+   },
+   {
+    "map_id": 80000500,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "name": "Dark Axe Stump",
+  "spawns": [
+   {
+    "map_id": 10004022,
+    "count": 9
+   },
+   {
+    "map_id": 10004023,
+    "count": 14
+   },
+   {
+    "map_id": 10004041,
+    "count": 7
+   },
+   {
+    "map_id": 10004042,
+    "count": 5
+   },
+   {
+    "map_id": 10004053,
+    "count": 23
+   },
+   {
+    "map_id": 10004054,
+    "count": 25
+   },
+   {
+    "map_id": 10004055,
+    "count": 17
+   },
+   {
+    "map_id": 10004056,
+    "count": 15
+   },
+   {
+    "map_id": 10004057,
+    "count": 2
+   },
+   {
+    "map_id": 10004070,
+    "count": 5
+   },
+   {
+    "map_id": 10004080,
+    "count": 11
+   },
+   {
+    "map_id": 10004090,
+    "count": 10
+   },
+   {
+    "map_id": 10004091,
+    "count": 2
+   },
+   {
+    "map_id": 10004100,
+    "count": 8
+   },
+   {
+    "map_id": 10004110,
+    "count": 5
+   },
+   {
+    "map_id": 10004111,
+    "count": 7
+   },
+   {
+    "map_id": 10004112,
+    "count": 12
+   },
+   {
+    "map_id": 10004113,
+    "count": 13
+   },
+   {
+    "map_id": 10004114,
+    "count": 10
+   },
+   {
+    "map_id": 10004115,
+    "count": 10
+   },
+   {
+    "map_id": 10004120,
+    "count": 11
+   },
+   {
+    "map_id": 10004121,
+    "count": 15
+   },
+   {
+    "map_id": 10005020,
+    "count": 2
+   },
+   {
+    "map_id": 10005030,
+    "count": 6
+   },
+   {
+    "map_id": 10005051,
+    "count": 7
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "name": "Zombie Mushroom",
+  "spawns": [
+   {
+    "map_id": 10005060,
+    "count": 11
+   },
+   {
+    "map_id": 10005061,
+    "count": 32
+   },
+   {
+    "map_id": 10005062,
+    "count": 61
+   },
+   {
+    "map_id": 10005063,
+    "count": 23
+   },
+   {
+    "map_id": 10005064,
+    "count": 7
+   },
+   {
+    "map_id": 10005065,
+    "count": 6
+   },
+   {
+    "map_id": 10005066,
+    "count": 29
+   },
+   {
+    "map_id": 10005067,
+    "count": 9
+   },
+   {
+    "map_id": 10005070,
+    "count": 23
+   },
+   {
+    "map_id": 10005078,
+    "count": 13
+   },
+   {
+    "map_id": 10006031,
+    "count": 6
+   },
+   {
+    "map_id": 10006080,
+    "count": 4
+   },
+   {
+    "map_id": 10006090,
+    "count": 7
+   },
+   {
+    "map_id": 10006100,
+    "count": 5
+   },
+   {
+    "map_id": 10006121,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "name": "Wild Boar",
+  "spawns": [
+   {
+    "map_id": 10004023,
+    "count": 15
+   },
+   {
+    "map_id": 10004041,
+    "count": 22
+   },
+   {
+    "map_id": 10004070,
+    "count": 4
+   },
+   {
+    "map_id": 10004080,
+    "count": 7
+   },
+   {
+    "map_id": 10004091,
+    "count": 23
+   },
+   {
+    "map_id": 10004100,
+    "count": 5
+   },
+   {
+    "map_id": 10004110,
+    "count": 5
+   },
+   {
+    "map_id": 10004120,
+    "count": 7
+   },
+   {
+    "map_id": 10004121,
+    "count": 11
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "name": "Evil Eye",
+  "spawns": [
+   {
+    "map_id": 10005066,
+    "count": 21
+   },
+   {
+    "map_id": 10005067,
+    "count": 16
+   },
+   {
+    "map_id": 10005070,
+    "count": 31
+   },
+   {
+    "map_id": 10005071,
+    "count": 19
+   },
+   {
+    "map_id": 10005072,
+    "count": 36
+   },
+   {
+    "map_id": 10005073,
+    "count": 38
+   },
+   {
+    "map_id": 10005074,
+    "count": 23
+   },
+   {
+    "map_id": 10006120,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "name": "Iron Hog",
+  "spawns": [
+   {
+    "map_id": 10000021,
+    "count": 1
+   },
+   {
+    "map_id": 10001003,
+    "count": 20
+   },
+   {
+    "map_id": 10001004,
+    "count": 22
+   },
+   {
+    "map_id": 10001005,
+    "count": 13
+   },
+   {
+    "map_id": 10001090,
+    "count": 2
+   },
+   {
+    "map_id": 10001100,
+    "count": 3
+   },
+   {
+    "map_id": 10003020,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "name": "Fairy 1",
+  "spawns": []
+ },
+ {
+  "id": 26,
+  "name": "Fairy 2",
+  "spawns": [
+   {
+    "map_id": 10001005,
+    "count": 2
+   },
+   {
+    "map_id": 10006161,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "name": "Fairy 3",
+  "spawns": [
+   {
+    "map_id": 10002080,
+    "count": 2
+   },
+   {
+    "map_id": 10002081,
+    "count": 2
+   },
+   {
+    "map_id": 10006121,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "name": "Fairy 4",
+  "spawns": [
+   {
+    "map_id": 10001101,
+    "count": 2
+   },
+   {
+    "map_id": 10001102,
+    "count": 3
+   },
+   {
+    "map_id": 10001103,
+    "count": 1
+   },
+   {
+    "map_id": 10001104,
+    "count": 1
+   },
+   {
+    "map_id": 10001105,
+    "count": 1
+   },
+   {
+    "map_id": 10001106,
+    "count": 1
+   },
+   {
+    "map_id": 10006150,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "name": "Ligator",
+  "spawns": [
+   {
+    "map_id": 10003090,
+    "count": 41
+   },
+   {
+    "map_id": 10003091,
+    "count": 36
+   },
+   {
+    "map_id": 10003092,
+    "count": 28
+   },
+   {
+    "map_id": 10003093,
+    "count": 14
+   },
+   {
+    "map_id": 10003110,
+    "count": 17
+   },
+   {
+    "map_id": 10003111,
+    "count": 14
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "name": "Fire Boar",
+  "spawns": [
+   {
+    "map_id": 10004054,
+    "count": 4
+   },
+   {
+    "map_id": 10004055,
+    "count": 10
+   },
+   {
+    "map_id": 10004056,
+    "count": 20
+   },
+   {
+    "map_id": 10004100,
+    "count": 4
+   },
+   {
+    "map_id": 10004101,
+    "count": 21
+   },
+   {
+    "map_id": 10004102,
+    "count": 8
+   },
+   {
+    "map_id": 10004110,
+    "count": 5
+   },
+   {
+    "map_id": 10004111,
+    "count": 18
+   },
+   {
+    "map_id": 10004112,
+    "count": 19
+   },
+   {
+    "map_id": 10004113,
+    "count": 24
+   },
+   {
+    "map_id": 10004114,
+    "count": 21
+   },
+   {
+    "map_id": 10004115,
+    "count": 26
+   },
+   {
+    "map_id": 10004120,
+    "count": 9
+   },
+   {
+    "map_id": 10004121,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "name": "Curse Eye",
+  "spawns": [
+   {
+    "map_id": 10002022,
+    "count": 5
+   },
+   {
+    "map_id": 10002024,
+    "count": 4
+   },
+   {
+    "map_id": 10002080,
+    "count": 15
+   },
+   {
+    "map_id": 10002081,
+    "count": 13
+   },
+   {
+    "map_id": 10002082,
+    "count": 17
+   },
+   {
+    "map_id": 10002083,
+    "count": 20
+   },
+   {
+    "map_id": 10005011,
+    "count": 11
+   },
+   {
+    "map_id": 10005012,
+    "count": 20
+   },
+   {
+    "map_id": 10005050,
+    "count": 2
+   },
+   {
+    "map_id": 10005051,
+    "count": 2
+   },
+   {
+    "map_id": 10005052,
+    "count": 19
+   },
+   {
+    "map_id": 10005053,
+    "count": 14
+   },
+   {
+    "map_id": 10005054,
+    "count": 23
+   },
+   {
+    "map_id": 10006060,
+    "count": 11
+   },
+   {
+    "map_id": 10006071,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "name": "Jr. Wraith",
+  "spawns": [
+   {
+    "map_id": 10003063,
+    "count": 69
+   },
+   {
+    "map_id": 10003064,
+    "count": 31
+   },
+   {
+    "map_id": 10003066,
+    "count": 83
+   },
+   {
+    "map_id": 10003067,
+    "count": 32
+   },
+   {
+    "map_id": 10003105,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "name": "Jr. Boogie 1",
+  "spawns": [
+   {
+    "map_id": 10003105,
+    "count": 1
+   },
+   {
+    "map_id": 10003109,
+    "count": 1
+   },
+   {
+    "map_id": 10004041,
+    "count": 3
+   },
+   {
+    "map_id": 10004057,
+    "count": 1
+   },
+   {
+    "map_id": 10005011,
+    "count": 1
+   },
+   {
+    "map_id": 10005052,
+    "count": 1
+   },
+   {
+    "map_id": 10005053,
+    "count": 3
+   },
+   {
+    "map_id": 10005054,
+    "count": 5
+   },
+   {
+    "map_id": 10006031,
+    "count": 3
+   },
+   {
+    "map_id": 10006100,
+    "count": 2
+   },
+   {
+    "map_id": 10006162,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "name": "Jr. Boogie 2",
+  "spawns": [
+   {
+    "map_id": 10003109,
+    "count": 1
+   },
+   {
+    "map_id": 10004041,
+    "count": 3
+   },
+   {
+    "map_id": 10004057,
+    "count": 1
+   },
+   {
+    "map_id": 10005053,
+    "count": 3
+   },
+   {
+    "map_id": 10005054,
+    "count": 5
+   },
+   {
+    "map_id": 10005066,
+    "count": 2
+   },
+   {
+    "map_id": 10005071,
+    "count": 2
+   },
+   {
+    "map_id": 10005072,
+    "count": 2
+   },
+   {
+    "map_id": 10005073,
+    "count": 2
+   },
+   {
+    "map_id": 10005074,
+    "count": 2
+   },
+   {
+    "map_id": 10005075,
+    "count": 2
+   },
+   {
+    "map_id": 10005078,
+    "count": 2
+   },
+   {
+    "map_id": 10006090,
+    "count": 3
+   },
+   {
+    "map_id": 10006130,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "name": "Lupin",
+  "spawns": [
+   {
+    "map_id": 10001100,
+    "count": 4
+   },
+   {
+    "map_id": 10001101,
+    "count": 6
+   },
+   {
+    "map_id": 10001103,
+    "count": 3
+   },
+   {
+    "map_id": 10001104,
+    "count": 3
+   },
+   {
+    "map_id": 10001105,
+    "count": 7
+   },
+   {
+    "map_id": 10002021,
+    "count": 14
+   },
+   {
+    "map_id": 10002023,
+    "count": 10
+   },
+   {
+    "map_id": 10002027,
+    "count": 3
+   },
+   {
+    "map_id": 10003030,
+    "count": 1
+   },
+   {
+    "map_id": 10003095,
+    "count": 28
+   },
+   {
+    "map_id": 10003096,
+    "count": 10
+   },
+   {
+    "map_id": 10004023,
+    "count": 3
+   },
+   {
+    "map_id": 10004055,
+    "count": 3
+   },
+   {
+    "map_id": 10004114,
+    "count": 14
+   },
+   {
+    "map_id": 10004115,
+    "count": 12
+   },
+   {
+    "map_id": 10005012,
+    "count": 15
+   },
+   {
+    "map_id": 10005050,
+    "count": 2
+   },
+   {
+    "map_id": 10005051,
+    "count": 10
+   },
+   {
+    "map_id": 10005052,
+    "count": 12
+   },
+   {
+    "map_id": 10005054,
+    "count": 23
+   },
+   {
+    "map_id": 10006050,
+    "count": 6
+   },
+   {
+    "map_id": 10007010,
+    "count": 27
+   },
+   {
+    "map_id": 10007020,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "name": "Lorang",
+  "spawns": [
+   {
+    "map_id": 10007010,
+    "count": 36
+   },
+   {
+    "map_id": 10007020,
+    "count": 35
+   },
+   {
+    "map_id": 10007021,
+    "count": 17
+   },
+   {
+    "map_id": 10007030,
+    "count": 18
+   },
+   {
+    "map_id": 10007031,
+    "count": 8
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "name": "Cold Eye",
+  "spawns": [
+   {
+    "map_id": 10002081,
+    "count": 4
+   },
+   {
+    "map_id": 10005076,
+    "count": 32
+   },
+   {
+    "map_id": 10005077,
+    "count": 25
+   },
+   {
+    "map_id": 10005090,
+    "count": 22
+   },
+   {
+    "map_id": 10005091,
+    "count": 17
+   },
+   {
+    "map_id": 10005100,
+    "count": 23
+   },
+   {
+    "map_id": 10005101,
+    "count": 13
+   },
+   {
+    "map_id": 10005102,
+    "count": 15
+   },
+   {
+    "map_id": 10005103,
+    "count": 8
+   },
+   {
+    "map_id": 10005104,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "name": "Zombie Lupin",
+  "spawns": [
+   {
+    "map_id": 10002022,
+    "count": 26
+   },
+   {
+    "map_id": 10002023,
+    "count": 25
+   },
+   {
+    "map_id": 10002024,
+    "count": 26
+   },
+   {
+    "map_id": 10002025,
+    "count": 11
+   },
+   {
+    "map_id": 10002026,
+    "count": 16
+   },
+   {
+    "map_id": 10003096,
+    "count": 13
+   },
+   {
+    "map_id": 10003097,
+    "count": 31
+   },
+   {
+    "map_id": 10006031,
+    "count": 7
+   },
+   {
+    "map_id": 10006130,
+    "count": 7
+   },
+   {
+    "map_id": 10006160,
+    "count": 7
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "name": "Ghost Stump",
+  "spawns": [
+   {
+    "map_id": 10004130,
+    "count": 23
+   },
+   {
+    "map_id": 10004131,
+    "count": 11
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "name": "Copper Drake",
+  "spawns": [
+   {
+    "map_id": 10004056,
+    "count": 22
+   },
+   {
+    "map_id": 10004101,
+    "count": 13
+   },
+   {
+    "map_id": 10004102,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "name": "Tortie",
+  "spawns": [
+   {
+    "map_id": 10007021,
+    "count": 6
+   },
+   {
+    "map_id": 10007031,
+    "count": 6
+   },
+   {
+    "map_id": 10007040,
+    "count": 25
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "name": "Wooden Mask",
+  "spawns": [
+   {
+    "map_id": 10004130,
+    "count": 10
+   },
+   {
+    "map_id": 10004131,
+    "count": 30
+   },
+   {
+    "map_id": 10004132,
+    "count": 8
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "name": "Wraith",
+  "spawns": [
+   {
+    "map_id": 10003064,
+    "count": 48
+   },
+   {
+    "map_id": 10003065,
+    "count": 59
+   },
+   {
+    "map_id": 10003067,
+    "count": 57
+   },
+   {
+    "map_id": 10003068,
+    "count": 68
+   },
+   {
+    "map_id": 10003109,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "name": "Clang",
+  "spawns": [
+   {
+    "map_id": 10007030,
+    "count": 29
+   },
+   {
+    "map_id": 10007031,
+    "count": 17
+   },
+   {
+    "map_id": 10007040,
+    "count": 13
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "name": "Drake",
+  "spawns": [
+   {
+    "map_id": 10005075,
+    "count": 18
+   },
+   {
+    "map_id": 10005076,
+    "count": 20
+   },
+   {
+    "map_id": 10005077,
+    "count": 15
+   },
+   {
+    "map_id": 10005090,
+    "count": 23
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "name": "Croco",
+  "spawns": [
+   {
+    "map_id": 10003093,
+    "count": 6
+   },
+   {
+    "map_id": 10003094,
+    "count": 24
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "name": "Malady",
+  "spawns": [
+   {
+    "map_id": 10002025,
+    "count": 15
+   },
+   {
+    "map_id": 10002026,
+    "count": 23
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "name": "Stone Golem",
+  "spawns": [
+   {
+    "map_id": 10001100,
+    "count": 3
+   },
+   {
+    "map_id": 10001101,
+    "count": 4
+   },
+   {
+    "map_id": 10001102,
+    "count": 9
+   },
+   {
+    "map_id": 10001103,
+    "count": 9
+   },
+   {
+    "map_id": 10001104,
+    "count": 7
+   },
+   {
+    "map_id": 10001105,
+    "count": 10
+   },
+   {
+    "map_id": 10001106,
+    "count": 8
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "name": "Dark Stone Golem",
+  "spawns": [
+   {
+    "map_id": 10005052,
+    "count": 9
+   },
+   {
+    "map_id": 10005053,
+    "count": 7
+   },
+   {
+    "map_id": 10005054,
+    "count": 19
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "name": "Red Drake",
+  "spawns": [
+   {
+    "map_id": 10004102,
+    "count": 17
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "name": "Wild Kargo",
+  "spawns": [
+   {
+    "map_id": 10005077,
+    "count": 7
+   },
+   {
+    "map_id": 10005090,
+    "count": 10
+   },
+   {
+    "map_id": 10005091,
+    "count": 14
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "name": "Tauromacis",
+  "spawns": [
+   {
+    "map_id": 10005101,
+    "count": 4
+   },
+   {
+    "map_id": 10005102,
+    "count": 4
+   },
+   {
+    "map_id": 10005103,
+    "count": 2
+   },
+   {
+    "map_id": 10005104,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "name": "Taurospear",
+  "spawns": [
+   {
+    "map_id": 10005103,
+    "count": 4
+   },
+   {
+    "map_id": 10005104,
+    "count": 5
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "name": "Glowshroom",
+  "spawns": [
+   {
+    "map_id": 10006010,
+    "count": 8
+   },
+   {
+    "map_id": 10006022,
+    "count": 21
+   },
+   {
+    "map_id": 10006050,
+    "count": 12
+   },
+   {
+    "map_id": 10006060,
+    "count": 19
+   },
+   {
+    "map_id": 10006070,
+    "count": 1
+   },
+   {
+    "map_id": 10006071,
+    "count": 12
+   },
+   {
+    "map_id": 10006072,
+    "count": 11
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "name": "Raffle",
+  "spawns": [
+   {
+    "map_id": 10006030,
+    "count": 5
+   },
+   {
+    "map_id": 10006040,
+    "count": 10
+   },
+   {
+    "map_id": 10006050,
+    "count": 14
+   },
+   {
+    "map_id": 10006060,
+    "count": 14
+   },
+   {
+    "map_id": 10006071,
+    "count": 12
+   },
+   {
+    "map_id": 10006072,
+    "count": 12
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "name": "Golden Stirge",
+  "spawns": [
+   {
+    "map_id": 10006020,
+    "count": 6
+   },
+   {
+    "map_id": 10006040,
+    "count": 6
+   },
+   {
+    "map_id": 10006080,
+    "count": 3
+   },
+   {
+    "map_id": 10006130,
+    "count": 4
+   },
+   {
+    "map_id": 10006140,
+    "count": 3
+   },
+   {
+    "map_id": 10006162,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "name": "Aqumander",
+  "spawns": [
+   {
+    "map_id": 10006010,
+    "count": 9
+   },
+   {
+    "map_id": 10006020,
+    "count": 4
+   },
+   {
+    "map_id": 10006022,
+    "count": 29
+   },
+   {
+    "map_id": 10006030,
+    "count": 6
+   },
+   {
+    "map_id": 10006040,
+    "count": 11
+   },
+   {
+    "map_id": 10006070,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "name": "Echopus",
+  "spawns": [
+   {
+    "map_id": 10006010,
+    "count": 6
+   },
+   {
+    "map_id": 10006020,
+    "count": 9
+   },
+   {
+    "map_id": 10006072,
+    "count": 12
+   },
+   {
+    "map_id": 10006090,
+    "count": 13
+   },
+   {
+    "map_id": 10006100,
+    "count": 11
+   },
+   {
+    "map_id": 10006110,
+    "count": 5
+   },
+   {
+    "map_id": 10006150,
+    "count": 16
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "name": "Rafflesia",
+  "spawns": [
+   {
+    "map_id": 10006022,
+    "count": 19
+   },
+   {
+    "map_id": 10006031,
+    "count": 10
+   },
+   {
+    "map_id": 10006070,
+    "count": 12
+   },
+   {
+    "map_id": 10006080,
+    "count": 13
+   },
+   {
+    "map_id": 10006130,
+    "count": 11
+   },
+   {
+    "map_id": 10006140,
+    "count": 10
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "name": "Duskmander",
+  "spawns": [
+   {
+    "map_id": 10006070,
+    "count": 6
+   },
+   {
+    "map_id": 10006080,
+    "count": 12
+   },
+   {
+    "map_id": 10006100,
+    "count": 11
+   },
+   {
+    "map_id": 10006110,
+    "count": 9
+   },
+   {
+    "map_id": 10006120,
+    "count": 11
+   },
+   {
+    "map_id": 10006160,
+    "count": 9
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "name": "Myewood",
+  "spawns": [
+   {
+    "map_id": 10006140,
+    "count": 5
+   },
+   {
+    "map_id": 10006150,
+    "count": 21
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "name": "Rotten Mushroom",
+  "spawns": [
+   {
+    "map_id": 10006121,
+    "count": 4
+   },
+   {
+    "map_id": 10006160,
+    "count": 15
+   },
+   {
+    "map_id": 10006161,
+    "count": 13
+   },
+   {
+    "map_id": 10006162,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "name": "Sporewood",
+  "spawns": [
+   {
+    "map_id": 10006161,
+    "count": 8
+   },
+   {
+    "map_id": 10006162,
+    "count": 7
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "name": "Rocky Mask",
+  "spawns": [
+   {
+    "map_id": 10004131,
+    "count": 12
+   },
+   {
+    "map_id": 10004132,
+    "count": 17
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "name": "Skeledog",
+  "spawns": [
+   {
+    "map_id": 10004134,
+    "count": 16
+   },
+   {
+    "map_id": 10004135,
+    "count": 13
+   },
+   {
+    "map_id": 10004136,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "name": "Mummydog",
+  "spawns": [
+   {
+    "map_id": 10004134,
+    "count": 7
+   },
+   {
+    "map_id": 10004135,
+    "count": 10
+   },
+   {
+    "map_id": 10004136,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "name": "Skeleton Soldier",
+  "spawns": [
+   {
+    "map_id": 10004135,
+    "count": 2
+   },
+   {
+    "map_id": 10004136,
+    "count": 2
+   },
+   {
+    "map_id": 10004140,
+    "count": 20
+   },
+   {
+    "map_id": 10004141,
+    "count": 12
+   },
+   {
+    "map_id": 10004142,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "name": "Officer Skeleton",
+  "spawns": [
+   {
+    "map_id": 10004137,
+    "count": 9
+   },
+   {
+    "map_id": 10004138,
+    "count": 3
+   },
+   {
+    "map_id": 10004140,
+    "count": 5
+   },
+   {
+    "map_id": 10004141,
+    "count": 8
+   },
+   {
+    "map_id": 10004142,
+    "count": 14
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "name": "Commander Skeleton",
+  "spawns": [
+   {
+    "map_id": 10004137,
+    "count": 5
+   },
+   {
+    "map_id": 10004138,
+    "count": 14
+   }
+  ]
+ },
+ {
+  "id": 90,
+  "name": "Super Jr. Necki",
+  "spawns": [
+   {
+    "map_id": 10002043,
+    "count": 18
+   },
+   {
+    "map_id": 10003100,
+    "count": 3
+   },
+   {
+    "map_id": 10005044,
+    "count": 5
+   },
+   {
+    "map_id": 90040001,
+    "count": 14
+   },
+   {
+    "map_id": 90040004,
+    "count": 14
+   }
+  ]
+ },
+ {
+  "id": 91,
+  "name": "Super Slime",
+  "spawns": [
+   {
+    "map_id": 10005044,
+    "count": 11
+   }
+  ]
+ },
+ {
+  "id": 92,
+  "name": "Super Ribbon Pig",
+  "spawns": [
+   {
+    "map_id": 10001082,
+    "count": 28
+   }
+  ]
+ },
+ {
+  "id": 93,
+  "name": "Super Stirge",
+  "spawns": [
+   {
+    "map_id": 10003101,
+    "count": 12
+   },
+   {
+    "map_id": 10003106,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "id": 94,
+  "name": "Ultra Jr. Necki 1",
+  "spawns": [
+   {
+    "map_id": 90040201,
+    "count": 3
+   },
+   {
+    "map_id": 90040202,
+    "count": 4
+   }
+  ]
+ },
+ {
+  "id": 1032,
+  "name": "Flyeye",
+  "spawns": []
+ },
+ {
+  "id": 700000,
+  "name": "Mushmom",
+  "spawns": [
+   {
+    "map_id": 10001005,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 700001,
+  "name": "Jr. Balrog",
+  "spawns": [
+   {
+    "map_id": 10005105,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 700002,
+  "name": "Zombie Mushmom",
+  "spawns": [
+   {
+    "map_id": 10005078,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 700003,
+  "name": "Rotten Mushmom",
+  "spawns": [
+   {
+    "map_id": 10006121,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 700004,
+  "name": "Mano",
+  "spawns": [
+   {
+    "map_id": 10000013,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 700005,
+  "name": "Crimson Balrog",
+  "spawns": []
+ },
+ {
+  "id": 700006,
+  "name": "Shade",
+  "spawns": [
+   {
+    "map_id": 10003112,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 700007,
+  "name": "Stumpy",
+  "spawns": [
+   {
+    "map_id": 10004057,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 700008,
+  "name": "Faust",
+  "spawns": []
+ },
+ {
+  "id": 800000,
+  "name": "Ligator",
+  "spawns": [
+   {
+    "map_id": 80000000,
+    "count": 22
+   }
+  ]
+ },
+ {
+  "id": 800001,
+  "name": "Jr. Necki",
+  "spawns": [
+   {
+    "map_id": 80000400,
+    "count": 6
+   }
+  ]
+ },
+ {
+  "id": 800002,
+  "name": "Curse Eye",
+  "spawns": [
+   {
+    "map_id": 80000400,
+    "count": 3
+   }
+  ]
+ },
+ {
+  "id": 800003,
+  "name": "King Slime",
+  "spawns": [
+   {
+    "map_id": 80000400,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 800010,
+  "name": "Evil Eye",
+  "spawns": [
+   {
+    "map_id": 80001000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "id": 800011,
+  "name": "Zombie Mushroom",
+  "spawns": [
+   {
+    "map_id": 10006160,
+    "count": 6
+   },
+   {
+    "map_id": 80001000,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "id": 800012,
+  "name": "Curse Eye",
+  "spawns": [
+   {
+    "map_id": 80001100,
+    "count": 13
+   }
+  ]
+ },
+ {
+  "id": 800013,
+  "name": "Horny Mushroom",
+  "spawns": [
+   {
+    "map_id": 80001100,
+    "count": 13
+   }
+  ]
+ },
+ {
+  "id": 800014,
+  "name": "Cold Eye",
+  "spawns": [
+   {
+    "map_id": 80001200,
+    "count": 13
+   }
+  ]
+ },
+ {
+  "id": 800015,
+  "name": "Blue Mushroom",
+  "spawns": [
+   {
+    "map_id": 80001200,
+    "count": 13
+   }
+  ]
+ },
+ {
+  "id": 800016,
+  "name": "Fire Boar",
+  "spawns": [
+   {
+    "map_id": 80001300,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "id": 800017,
+  "name": "Lupin",
+  "spawns": [
+   {
+    "map_id": 80001300,
+    "count": 15
+   }
+  ]
+ },
+ {
+  "id": 800018,
+  "name": "",
+  "spawns": []
+ },
+ {
+  "id": 800019,
+  "name": "Moon Bunny",
+  "spawns": []
+ },
+ {
+  "id": 800020,
+  "name": "Stirge",
+  "spawns": [
+   {
+    "map_id": 80003000,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": 800021,
+  "name": "Stirge",
+  "spawns": [
+   {
+    "map_id": 80003000,
+    "count": 2
+   }
+  ]
+ },
+ {
+  "id": 800022,
+  "name": "Flyeye",
+  "spawns": [
+   {
+    "map_id": 80003000,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 800023,
+  "name": "Flyeye",
+  "spawns": [
+   {
+    "map_id": 80003000,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 800024,
+  "name": "Goblin Fire",
+  "spawns": [
+   {
+    "map_id": 80003000,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 800025,
+  "name": "Goblin Fire",
+  "spawns": [
+   {
+    "map_id": 80003000,
+    "count": 1
+   }
+  ]
+ },
+ {
+  "id": 800026,
+  "name": "Glowshroom",
+  "spawns": []
+ },
+ {
+  "id": 800027,
+  "name": "Golden Stirge",
+  "spawns": []
+ },
+ {
+  "id": 800028,
+  "name": "Raffle",
+  "spawns": []
+ },
+ {
+  "id": 800029,
+  "name": "Aqumander",
+  "spawns": []
+ },
+ {
+  "id": 800030,
+  "name": "Rafflesia",
+  "spawns": []
+ },
+ {
+  "id": 800031,
+  "name": "Duskmander",
+  "spawns": []
+ },
+ {
+  "id": 800032,
+  "name": "Myewood",
+  "spawns": []
+ },
+ {
+  "id": 800033,
+  "name": "Rotten Mushroom",
+  "spawns": []
+ },
+ {
+  "id": 800034,
+  "name": "Sporewood",
+  "spawns": []
+ },
+ {
+  "id": 800035,
+  "name": "Darkwood",
+  "spawns": []
+ },
+ {
+  "id": 810000,
+  "name": "Mano",
+  "spawns": []
+ },
+ {
+  "id": 810001,
+  "name": "King Slime",
+  "spawns": []
+ },
+ {
+  "id": 810002,
+  "name": "Mushmom",
+  "spawns": []
+ },
+ {
+  "id": 810003,
+  "name": "Zombie Mushmom",
+  "spawns": []
+ },
+ {
+  "id": 810004,
+  "name": "Rotten Mushmom",
+  "spawns": []
+ },
+ {
+  "id": 810005,
+  "name": "Jr. Balrog",
+  "spawns": []
+ },
+ {
+  "id": 900000,
+  "name": "Orange Slime",
+  "spawns": []
+ },
+ {
+  "id": 900001,
+  "name": "Turkey",
+  "spawns": []
+ },
+ {
+  "id": 910000,
+  "name": "Straw Traning Dummy",
+  "spawns": []
+ },
+ {
+  "id": 9100000,
+  "name": "Monsters Near Your Level",
+  "spawns": []
+ },
+ {
+  "id": 9990000,
+  "name": "Test(Basic)",
+  "spawns": []
+ },
+ {
+  "id": 9990001,
+  "name": "Test(Fire)",
+  "spawns": []
+ },
+ {
+  "id": 9990002,
+  "name": "Test(Poison)",
+  "spawns": []
+ },
+ {
+  "id": 9990003,
+  "name": "Test(Ice)",
+  "spawns": []
+ },
+ {
+  "id": 9990004,
+  "name": "Test(Lightning)",
+  "spawns": []
+ },
+ {
+  "id": 9990005,
+  "name": "Test(Undead)",
+  "spawns": []
+ }
+]

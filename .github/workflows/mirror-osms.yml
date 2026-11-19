@@ -1,6 +1,7 @@
 name: Mirror OSMS
 
-# Once a day, copy any OSMS file whose checksum changed into osms/v1/ and commit it.
+# Once a day, copy any OSMS file whose checksum changed into osms/v1/, rebuild merged/v1/ from it
+# and the client extraction in client/full/, and commit both.
 # Usually finishes in well under a minute; nothing is committed when nothing changed.
 on:
   schedule:
@@ -24,14 +25,15 @@ jobs:
         with:
           python-version: "3.12"
       - run: python tools/mirror_osms.py
+      - run: python tools/build_merged.py
       - name: Commit changes
         run: |
-          if git diff --quiet -- osms; then
+          if git diff --quiet -- osms merged && [ -z "$(git status --porcelain -- merged)" ]; then
             echo "OSMS unchanged"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add osms
+          git add osms merged
           git commit -m "Mirror OSMS $(jq -r .data_updated_at osms/v1/meta.json)"
           git push

@@ -12,6 +12,8 @@ this repo is the fallback and fills in what OSMS does not publish.
 | `shops/shops.json` | NPC shop stock at launch prices | Leafline's own list (same file as `data/shops.json` in Leafline) |
 | `client/quests.json` | Per quest: giver and turn-in NPC ids, job codes, level to start and to finish, fame and mesos to start, open and close dates | Extracted from the game client |
 | `client/npcs.json` | NPC role labels ("Grocer", "Weapon Seller" ...) | Extracted from the game client |
+| `client/full/` | OSMS-shaped records built from the client: maps, NPCs, quests, items, recipes, and monster names and spawns. Names and numbers only. Monster stats and skills are not here: the client keeps them in encrypted packs | Extracted from the game client |
+| `merged/v1/` | OSMS's v1 files with `client/full/` laid over them, in OSMS's format. A plain copy of OSMS whenever OSMS has caught up with the client; Leafline uses it only when its `meta.json` is newer than OSMS's | OSMS Data Explorer (CC BY 4.0) and the game client |
 | `client/maps.json` | Per map: size, walkable floor length, platforms, platforms monsters spawn on, spawn points, ropes, ladders | Extracted from the game client |
 | `drops/signature.json` | The etc items each monster drops (presence, no rates), each with its sources | Game client item text, [StrategyWiki](https://strategywiki.org/wiki/MapleStory/Drops_(Victoria_Island)) (CC BY-SA 4.0), and player reports (`sources/player_reported_drops.json`, the only source for shared drops like Leather and ores) |
 | `sources/` | Snapshots of outside sources the lists are built from | As named in each file |
@@ -20,8 +22,9 @@ Everything is keyed by the ids OSMS uses, so it joins directly onto OSMS's files
 
 ## Rules
 
-- `client/` holds facts only: ids, numbers, dates and short role labels. No dialogue, descriptions,
-  names, images, sprites or sounds. Game data belongs to Nexon.
+- `client/` holds facts only: ids, numbers, dates and short role labels, plus names in `client/full/`
+  (map, monster, NPC, quest and item names). No dialogue, descriptions, images, sprites or sounds.
+  Game data belongs to Nexon.
 - Extraction runs on a developer's PC with the game fully closed (`tools/extract.py` refuses to run
   while `MapleStory.exe` is open). Leafline itself never opens game files.
 - Never commit game files (`*.wz`, `*.ms`, `*.img`); `.gitignore` blocks them.
@@ -32,6 +35,8 @@ Everything is keyed by the ids OSMS uses, so it joins directly onto OSMS's files
 python tools/mirror_osms.py      # copy any OSMS file whose checksum changed (also runs daily on GitHub)
 python tools/extract.py          # after a game patch, game closed; default install D:/Games/maplestorycw
 python tools/extract_maps.py     # same, for map layout; also lists maps whose spawns or portals differ from OSMS
+python tools/extract_full.py     # same, for client/full/ (OSMS-shaped records)
+python tools/build_merged.py     # rebuild merged/v1/ from osms/ and client/full/ (also runs daily on GitHub)
 python tools/build_drops.py      # rebuild drops/signature.json from osms/ and sources/
 ```
 

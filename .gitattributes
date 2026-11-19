@@ -1,2 +1,4 @@
 # Mirrored files must stay byte-for-byte as OSMS published them, so their checksums match.
 osms/v1/*.json -text
+# Merged files are checked against their sha256 in merged/v1/meta.json the same way.
+merged/v1/*.json -text

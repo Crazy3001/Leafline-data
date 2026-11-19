@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "about": "OSMS-shaped records built from the MapleStory Classic client by tools/extract_full.py: names and numbers only, no descriptions, dialogue or images. Game data is Nexon's.",
+ "extracted_at": "2026-11-19T04:48:22Z",
+ "files": {
+  "String/String_000.wz": "697ea3472124b4a8b9fe685d589be92413d6530928d4e83d5d9fa121f4850ebe",
+  "Quest/QuestData/QuestData_000.wz": "bc9b875d41786133780dcf53bef7c3046a75c6a9781019f4c79070dd447903ce",
+  "Etc/Etc_000.wz": "72706a570589ad8d99eb5457209b2f76708b26fa9447a95ce0ff25b7f2eacb43",
+  "Map/Map/Map0/Map0_000.wz": "4681f54813c926298f4783831681a56384475327ecd4f59a4fed9a006713b186",
+  "Map/Map/Map9/Map9_000.wz": "ef8194a80d23c2b522b242096f71063597b2d54b73bb2f918850aad83a745833",
+  "Item/Consume/Consume_000.wz": "7ed867dcbf71a1ab11b5e56eaeaa3c0c5eb02d920219b484c2b21007c94341f4",
+  "Item/Install/Install_000.wz": "8425e1ecbfcc2210690e50e7b1133b178e7314016be5a9b360e1440cd36c1943",
+  "Item/Etc/Etc_000.wz": "bda014234703983970c9ab04f28968e4a67e0c132d7f6a7628d1a27d599b1b88",
+  "Character/Accessory/Accessory_000.wz": "8aabdda4de60f1ff478c446b092669ec466b87ec54fb4f581e9d3e856bca9735",
+  "Character/Cap/Cap_000.wz": "64edefd4be1092a40b7b9ca3d65cb36201624b2dce19d12d8d3c2300d2ad6ae6",
+  "Character/Cape/Cape_000.wz": "001fc3c530ca872a92a48c69d5b3271cc129128c6a29e251a103eff4f951b7f0",
+  "Character/Coat/Coat_000.wz": "0c6ae0c584ccbcacc97070db306b859e65298e57e68e8e079c6e8388668aa2b7",
+  "Character/Glove/Glove_000.wz": "5cbeb961ca09927464d71fab37413e3f331276442caae835be762d7b55c50f1a",
+  "Character/Longcoat/Longcoat_000.wz": "50b2d3c01db33fdd71d0eacfb05331ded71139540bfaff70c81d3fe61e1b1f17",
+  "Character/Pants/Pants_000.wz": "29a2e25f6edd0f5effd3b665e2823db1d34d3a973b8715e527ec120fad7844a6",
+  "Character/Shield/Shield_000.wz": "6952c59298065660b40a78b1f99bc683a51cdb0d0854886035181c9c1b998774",
+  "Character/Shoes/Shoes_000.wz": "779548c79969c78d21bed45845ad58520ef4855887dcd81460502149a97c0b8d",
+  "Character/Weapon/Weapon_000.wz": "0ebd4c74d898baf9049688bca9f476b224a5b10d07baa2924f88e6b3ad3cce8c"
+ },
+ "records": {
+  "maps.json": 364,
+  "monsters.json": 130,
+  "npcs.json": 311,
+  "quests.json": 391,
+  "items.json": 2353,
+  "recipes.json": 376
+ }
+}

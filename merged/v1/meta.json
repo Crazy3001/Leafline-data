@@ -2,7 +2,7 @@
  "schema_version": 1,
  "game": "MapleStory Classic World",
  "client_build": "9edb6979db11216d5d887700de1ab91d1373ea19",
- "data_updated_at": "2026-11-18T18:54:44Z",
+ "data_updated_at": "2026-11-22T21:45:44Z",
  "files": {
   "maps.json": {
    "sha256": "358afe2c9f0947aaf719e23c7fd700824b280eec6cdd288ffacb77897977ab20",
@@ -35,10 +35,10 @@
    "updated_at": "2026-10-29T15:56:20Z"
   },
   "items.json": {
-   "sha256": "d18d0a76e5343494267556ee1b2915e3e8a73adc393d2006d80ebf3d2c17ed86",
+   "sha256": "e4c10250caccbf21ca6a1f740b8d8c6f613f287d8ff202ac7a7da01ab1e6bddb",
    "bytes": 742948,
    "records": 2353,
-   "updated_at": "2026-11-18T18:54:44Z"
+   "updated_at": "2026-11-22T21:45:44Z"
   },
   "recipes.json": {
    "sha256": "cf49bed3197a54f3b14205d9882ae1240133f3e82c53514320b1d8789f71be8e",
@@ -48,7 +48,7 @@
   }
  },
  "based_on": {
-  "osms_data_updated_at": "2026-11-18T18:54:44Z",
+  "osms_data_updated_at": "2026-11-22T21:45:44Z",
   "client_extracted_at": "2026-11-19T04:48:22Z"
  }
 }
